@@ -13,4 +13,4 @@ Each JSON file contains a tournament object, an array of decks, plus standings a
 
 To use this data, clone the repository and run `git pull` periodically to get the latest tournaments. MTGO, Melee and Topdeck data is automatically updated daily around 17:00 UTC, Manatraders data at the same time usually on the monday after the tournament.
 
-Tools used to generate this data are available [here](https://github.com/Badaro/MTGODecklistCache.Tools).
+Tools used to generate this data are available [here](https://github.com/brossignol/MTGODecklistCache.Tools).
