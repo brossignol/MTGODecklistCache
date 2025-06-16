@@ -1,0 +1,283 @@
+{
+  "Tournament": {
+    "Date": "2025-06-16T00:00:00Z",
+    "Name": "Modern Gold League",
+    "Uri": "https://www.mtgo.com/decklist/modern-gold-league-2025-06-169350"
+  },
+  "Decks": [
+    {
+      "Date": "2025-06-16T00:00:00",
+      "Player": "Kurusu",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-gold-league-2025-06-169350#deck_Kurusu",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delighted Halfling"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Binding"
+        },
+        {
+          "Count": 2,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Omnath, Locus of Creation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Phlage, Titan of Fire's Fury"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 2,
+          "CardName": "Winternight Stories"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wrath of the Skies"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrenn and Six"
+        },
+        {
+          "Count": 1,
+          "CardName": "Xander's Lounge"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orim's Chant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strix Serenade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Teferi, Time Raveler"
+        }
+      ]
+    },
+    {
+      "Date": "2025-06-16T00:00:00",
+      "Player": "DB_BFG",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-gold-league-2025-06-169350#deck_DB_BFG",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Academy Manufactor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Aether Spellbomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Asmoranomardicadaistinaculdacar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emry, Lurker of the Loch"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mistvault Bridge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mox Amber"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Opal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ovalchase Daredevil"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tamiyo, Inquisitive Student"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Underworld Cookbook"
+        },
+        {
+          "Count": 2,
+          "CardName": "Time Sieve"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unearth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 2,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haywire Mite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowspear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxic Deluge"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
