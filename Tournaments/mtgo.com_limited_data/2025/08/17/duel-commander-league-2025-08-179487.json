@@ -1,0 +1,385 @@
+{
+  "Tournament": {
+    "Date": "2025-08-17T00:00:00Z",
+    "Name": "Duel Commander League",
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-league-2025-08-179487"
+  },
+  "Decks": [
+    {
+      "Date": "2025-08-17T00:00:00",
+      "Player": "FruitDuChene",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/duel-commander-league-2025-08-179487#deck_FruitDuChene",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Abstergo Entertainment"
+        },
+        {
+          "Count": 1,
+          "CardName": "Adventurer's Inn"
+        },
+        {
+          "Count": 1,
+          "CardName": "All Is Dust"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ancient Stirrings"
+        },
+        {
+          "Count": 1,
+          "CardName": "Archdruid's Charm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arid Archway"
+        },
+        {
+          "Count": 1,
+          "CardName": "Augur of Autumn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Beast Within"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bridgeworks Battle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Castle Garenbrig"
+        },
+        {
+          "Count": 1,
+          "CardName": "Conduit of Worlds"
+        },
+        {
+          "Count": 1,
+          "CardName": "Courser of Kruphix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crop Rotation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crucible of Worlds"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crystal Vein"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dust Bowl"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elvish Reclaimer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emrakul, the Promised End"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emrakul, the World Anew"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ensnaring Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 1,
+          "CardName": "Exploration"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eye of Ugin"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 5,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gemstone Caverns"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Quarter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gingerbread Cabin"
+        },
+        {
+          "Count": 1,
+          "CardName": "Glacial Chasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Green Sun's Zenith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guildless Commons"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hickory Woodlot"
+        },
+        {
+          "Count": 1,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kozilek's Command"
+        },
+        {
+          "Count": 1,
+          "CardName": "Life from the Loam"
+        },
+        {
+          "Count": 1,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Maze of Ith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mulch"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nature's Rhythm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Oblivion Stone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Oracle of Mul Daya"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petrified Field"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pit of Offerings"
+        },
+        {
+          "Count": 1,
+          "CardName": "Planar Nexus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Primeval Titan"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismatic Vista"
+        },
+        {
+          "Count": 1,
+          "CardName": "Radiant Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Realms Uncharted"
+        },
+        {
+          "Count": 1,
+          "CardName": "Riveteers Overlook"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shifting Woodland"
+        },
+        {
+          "Count": 6,
+          "CardName": "Snow-Covered Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sowing Mycospawn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spatial Contortion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stone of Erech"
+        },
+        {
+          "Count": 1,
+          "CardName": "Summoner's Pact"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sylvan Library"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sylvan Scrying"
+        },
+        {
+          "Count": 1,
+          "CardName": "Talon Gates of Madara"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tectonic Edge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple of the False God"
+        },
+        {
+          "Count": 1,
+          "CardName": "Titania's Command"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tree of Tales"
+        },
+        {
+          "Count": 1,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ugin, Eye of the Storms"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ugin, the Ineffable"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ugin, the Spirit Dragon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ulamog, the Ceaseless Hunger"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urborg, Tomb of Yawgmoth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Cave"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Mine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Power Plant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 1,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vesuva"
+        },
+        {
+          "Count": 1,
+          "CardName": "Walk-In Closet // Forgotten Cellar"
+        },
+        {
+          "Count": 1,
+          "CardName": "War Room"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wastes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Winding Way"
+        },
+        {
+          "Count": 1,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 1,
+          "CardName": "World Map"
+        },
+        {
+          "Count": 1,
+          "CardName": "Worldly Tutor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yavimaya, Cradle of Growth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Azusa, Lost but Seeking"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
