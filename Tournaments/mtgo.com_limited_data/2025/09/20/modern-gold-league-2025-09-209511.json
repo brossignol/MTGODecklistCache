@@ -1,0 +1,287 @@
+{
+  "Tournament": {
+    "Date": "2025-09-20T00:00:00Z",
+    "Name": "Modern Gold League",
+    "Uri": "https://www.mtgo.com/decklist/modern-gold-league-2025-09-209511"
+  },
+  "Decks": [
+    {
+      "Date": "2025-09-20T00:00:00",
+      "Player": "Mogged",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-gold-league-2025-09-209511#deck_Mogged",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faithful Mending"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goryo's Vengeance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Griselbrand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hedge Maze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 1,
+          "CardName": "Priest of Fell Rites"
+        },
+        {
+          "Count": 3,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Celestial Purge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pest Control"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": "2025-09-20T00:00:00",
+      "Player": "Drank_Swallalahr",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-gold-league-2025-09-209511#deck_Drank_Swallalahr",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Beyeen Veil"
+        },
+        {
+          "Count": 4,
+          "CardName": "Disrupting Shoal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fallaji Archaeologist"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flare of Denial"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Charbelcher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroelectric Specimen"
+        },
+        {
+          "Count": 1,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Jwari Disruption"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Bloom"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sea Gate Restoration"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stern Scolding"
+        },
+        {
+          "Count": 1,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 4,
+          "CardName": "Suppression Ray"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tameshi, Reality Architect"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thundertrap Trainer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Waterlogged Teachings"
+        },
+        {
+          "Count": 4,
+          "CardName": "Whir of Invention"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flusterstorm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hurkyl's Recall"
+        },
+        {
+          "Count": 1,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Suspend"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tezzeret the Seeker"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
