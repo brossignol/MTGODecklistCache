@@ -1,0 +1,140 @@
+{
+  "Tournament": {
+    "Date": "2025-10-07T16:00:00Z",
+    "Name": "Лига Стандарт (2/12)",
+    "Uri": "https://melee.gg/Tournament/View/370840"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Egor Snytko",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/02179f63-7fc4-4d05-b6ad-b36f0106350c",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Case of the Stashed Skeleton"
+        },
+        {
+          "Count": 4,
+          "CardName": "Demonic Pact"
+        },
+        {
+          "Count": 4,
+          "CardName": "Disturbing Mirth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Final Vengeance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Greedy Freebooter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harmless Offering"
+        },
+        {
+          "Count": 3,
+          "CardName": "Momentum Breaker"
+        },
+        {
+          "Count": 6,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nowhere to Run"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rottenmouth Viper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spiteful Hexmage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 8,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Witch&#39;s Vanity"
+        },
+        {
+          "Count": 4,
+          "CardName": "Torch the Tower"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Maxim Shagoiko",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.8,
+      "OGWP": 0.54487179
+    },
+    {
+      "Rank": 2,
+      "Player": "Rostislav Brozhat",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.66666667,
+      "OGWP": 0.57820513
+    },
+    {
+      "Rank": 3,
+      "Player": "Egor Snytko",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.66666667,
+      "OGWP": 0.57820513
+    },
+    {
+      "Rank": 4,
+      "Player": "4exOFFby",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.68333333,
+      "GWP": 0.46153846,
+      "OGWP": 0.62948718
+    },
+    {
+      "Rank": 5,
+      "Player": "Yauheni Ihnatsik",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.7,
+      "GWP": 0.38461538,
+      "OGWP": 0.64871795
+    }
+  ]
+}

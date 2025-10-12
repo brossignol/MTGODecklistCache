@@ -1,0 +1,256 @@
+{
+  "Tournament": {
+    "Date": "2025-05-17T23:00:00Z",
+    "Name": "The Faction - Championship VI",
+    "Uri": "https://melee.gg/Tournament/View/307250"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Kyle Gibson",
+      "Result": "16th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8aca3377-39fd-4f84-93f5-b2e0017c2cc8",
+      "Mainboard": [
+        {
+          "Count": 16,
+          "CardName": "Swamp"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "KynanPell",
+      "Points": 24,
+      "Wins": 8,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54027778,
+      "GWP": 0.66666667,
+      "OGWP": 0.53486222
+    },
+    {
+      "Rank": 2,
+      "Player": "DoganSevi",
+      "Points": 18,
+      "Wins": 6,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.58514109,
+      "GWP": 0.56,
+      "OGWP": 0.58092146
+    },
+    {
+      "Rank": 3,
+      "Player": "Isaac Lee",
+      "Points": 17,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 2,
+      "OMWP": 0.58737717,
+      "GWP": 0.65,
+      "OGWP": 0.56212408
+    },
+    {
+      "Rank": 4,
+      "Player": "Shane Dalliston",
+      "Points": 16,
+      "Wins": 5,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.56970899,
+      "GWP": 0.57142857,
+      "OGWP": 0.54083723
+    },
+    {
+      "Rank": 5,
+      "Player": "Leonard Barker",
+      "Points": 18,
+      "Wins": 6,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.56394558,
+      "GWP": 0.68421053,
+      "OGWP": 0.52807177
+    },
+    {
+      "Rank": 6,
+      "Player": "Samuel Loy",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.55895692,
+      "GWP": 0.52631579,
+      "OGWP": 0.57232963
+    },
+    {
+      "Rank": 7,
+      "Player": "Rob Versluis",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.5944224,
+      "GWP": 0.55555556,
+      "OGWP": 0.5566155
+    },
+    {
+      "Rank": 8,
+      "Player": "Daniel Papak",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.59146825,
+      "GWP": 0.57142857,
+      "OGWP": 0.55738562
+    },
+    {
+      "Rank": 9,
+      "Player": "Alecf",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.58823529,
+      "OGWP": 0.49664603
+    },
+    {
+      "Rank": 10,
+      "Player": "GarryYeoh",
+      "Points": 11,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 2,
+      "OMWP": 0.53174603,
+      "GWP": 0.52941176,
+      "OGWP": 0.54967177
+    },
+    {
+      "Rank": 11,
+      "Player": "Brint Gardner",
+      "Points": 11,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 2,
+      "OMWP": 0.49206349,
+      "GWP": 0.58823529,
+      "OGWP": 0.50288825
+    },
+    {
+      "Rank": 12,
+      "Player": "Saher Khalil",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.55102041,
+      "GWP": 0.4375,
+      "OGWP": 0.53766472
+    },
+    {
+      "Rank": 13,
+      "Player": "Ian Cormick",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.51020408,
+      "GWP": 0.42105263,
+      "OGWP": 0.527228
+    },
+    {
+      "Rank": 14,
+      "Player": "Joel Gibbons",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.50793651,
+      "GWP": 0.47368421,
+      "OGWP": 0.49625698
+    },
+    {
+      "Rank": 15,
+      "Player": "NathW",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.46031746,
+      "GWP": 0.5,
+      "OGWP": 0.45293688
+    },
+    {
+      "Rank": 16,
+      "Player": "Kyle Gibson",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.44444444,
+      "GWP": 0.47058824,
+      "OGWP": 0.4672916
+    },
+    {
+      "Rank": 17,
+      "Player": "Chiss",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.43650794,
+      "GWP": 0.46666667,
+      "OGWP": 0.46638655
+    },
+    {
+      "Rank": 18,
+      "Player": "NotNathanW",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 1,
+      "OMWP": 0.46031746,
+      "GWP": 0.35714286,
+      "OGWP": 0.48822024
+    },
+    {
+      "Rank": 19,
+      "Player": "Mike Swann",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.46825397,
+      "GWP": 0.33333333,
+      "OGWP": 0.47916667
+    },
+    {
+      "Rank": 20,
+      "Player": "Braden Mills",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.46666667,
+      "GWP": 0.35294118,
+      "OGWP": 0.45597523
+    },
+    {
+      "Rank": 21,
+      "Player": "Adam Cooper",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.44444444,
+      "GWP": 0.375,
+      "OGWP": 0.46859244
+    }
+  ]
+}

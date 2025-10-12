@@ -1,0 +1,482 @@
+{
+  "Tournament": {
+    "Date": "2025-10-11T14:00:00Z",
+    "Name": "Modern for Goodies",
+    "Uri": "https://melee.gg/Tournament/View/370852"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Rena99",
+      "Result": "21th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e74c742b-4e9d-4987-8fc6-b372015ba7a9",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cecil, Dark Knight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Death&#39;s Shadow"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dragon&#39;s Rage Channeler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expressive Iteration"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra&#39;s Bauble"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nethergoyf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raucous Theater"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stubborn Denial"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dreams of Steel and Oil"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meltdown"
+        },
+        {
+          "Count": 2,
+          "CardName": "Molten Collapse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyroclasm"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Ivy Hamilton",
+      "Result": "28th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/2f1dac50-7c4f-46e2-90db-b37300d43ad5",
+      "Mainboard": [],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "HeberSilva",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 1.0,
+      "OGWP": 0.63541667
+    },
+    {
+      "Rank": 2,
+      "Player": "xilun jin",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.72727273,
+      "OGWP": 0.5979798
+    },
+    {
+      "Rank": 3,
+      "Player": "EllieJDaniels",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.7,
+      "OGWP": 0.57929293
+    },
+    {
+      "Rank": 4,
+      "Player": "RosG",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.75,
+      "OGWP": 0.625
+    },
+    {
+      "Rank": 5,
+      "Player": "Michael Baalham",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.66666667,
+      "OGWP": 0.58333333
+    },
+    {
+      "Rank": 6,
+      "Player": "Tom Law",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.63636364,
+      "OGWP": 0.5290404
+    },
+    {
+      "Rank": 7,
+      "Player": "PeterHilborne",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.6,
+      "OGWP": 0.53106061
+    },
+    {
+      "Rank": 8,
+      "Player": "StannersPOTUS",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.66666667,
+      "OGWP": 0.48674242
+    },
+    {
+      "Rank": 9,
+      "Player": "HarryHollingworth",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4375,
+      "GWP": 0.7,
+      "OGWP": 0.43844697
+    },
+    {
+      "Rank": 10,
+      "Player": "SanD13",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.60416667,
+      "GWP": 0.625,
+      "OGWP": 0.56944444
+    },
+    {
+      "Rank": 11,
+      "Player": "EthT9",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.49791667
+    },
+    {
+      "Rank": 12,
+      "Player": "Dan Robinson",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.5,
+      "OGWP": 0.5959596
+    },
+    {
+      "Rank": 13,
+      "Player": "ConnorW",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.54545455,
+      "OGWP": 0.58333333
+    },
+    {
+      "Rank": 14,
+      "Player": "EriS28",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.55555556,
+      "OGWP": 0.52272727
+    },
+    {
+      "Rank": 15,
+      "Player": "Alice Casey",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.5,
+      "OGWP": 0.52083333
+    },
+    {
+      "Rank": 16,
+      "Player": "Robert Wiseman",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.44444444,
+      "OGWP": 0.56388889
+    },
+    {
+      "Rank": 17,
+      "Player": "IeuF",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.54545455,
+      "OGWP": 0.47777778
+    },
+    {
+      "Rank": 18,
+      "Player": "pfcmtg",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.44444444,
+      "OGWP": 0.525
+    },
+    {
+      "Rank": 19,
+      "Player": "Roreosa",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 20,
+      "Player": "AndyHenwood",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.55555556,
+      "OGWP": 0.43686869
+    },
+    {
+      "Rank": 21,
+      "Player": "Rena99",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.38888889,
+      "GWP": 0.6,
+      "OGWP": 0.37037037
+    },
+    {
+      "Rank": 22,
+      "Player": "Nate314",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.3,
+      "OGWP": 0.60138889
+    },
+    {
+      "Rank": 23,
+      "Player": "InesMazdonDelas",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.25,
+      "OGWP": 0.53333333
+    },
+    {
+      "Rank": 24,
+      "Player": "Sam Milner",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.375,
+      "OGWP": 0.49259259
+    },
+    {
+      "Rank": 25,
+      "Player": "Jacob Crook",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.33333333,
+      "OGWP": 0.48148148
+    },
+    {
+      "Rank": 26,
+      "Player": "Paul Archer",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.36363636,
+      "OGWP": 0.51388889
+    },
+    {
+      "Rank": 27,
+      "Player": "NickS1",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.33333333,
+      "OGWP": 0.56761364
+    },
+    {
+      "Rank": 28,
+      "Player": "Ivy Hamilton",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.22222222,
+      "OGWP": 0.46969697
+    },
+    {
+      "Rank": 29,
+      "Player": "Ben Pike",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.2,
+      "OGWP": 0.54242424
+    },
+    {
+      "Rank": 30,
+      "Player": "EricZhou",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.0,
+      "OGWP": 0.55555556
+    },
+    {
+      "Rank": 31,
+      "Player": "Doug Kynoch",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.45833333,
+      "GWP": 0.33333333,
+      "OGWP": 0.4375
+    },
+    {
+      "Rank": 32,
+      "Player": "palme",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.2,
+      "OGWP": 0.45959596
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "Tournament": {
+    "Date": "2025-03-28T05:00:00Z",
+    "Name": "Store Championship 🏆 Aetherdrift @Plearn.Around",
+    "Uri": "https://melee.gg/Tournament/View/316433"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "YochAont",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/52d6d4a6-beea-4bd6-95e1-b2ec01117c78",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Battlefield Forge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Case of the Gateway Express"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gleeful Demolition"
+        },
+        {
+          "Count": 4,
+          "CardName": "Imodane&#39;s Recruiter // Train Troops"
+        },
+        {
+          "Count": 4,
+          "CardName": "Knight-Errant of Eos"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nesting Bot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Regal Bunnicorn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Resolute Reinforcements"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Warden of the Inner Sky"
+        },
+        {
+          "Count": 2,
+          "CardName": "Warleader&#39;s Call"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "SUPB1",
+      "Points": 18,
+      "Wins": 6,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.49659864,
+      "GWP": 0.70588235,
+      "OGWP": 0.46455275
+    },
+    {
+      "Rank": 2,
+      "Player": "JakB11",
+      "Points": 18,
+      "Wins": 6,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.49659864,
+      "GWP": 0.68421053,
+      "OGWP": 0.46764873
+    },
+    {
+      "Rank": 3,
+      "Player": "markkyth",
+      "Points": 14,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.52380952,
+      "GWP": 0.61904762,
+      "OGWP": 0.47695771
+    },
+    {
+      "Rank": 4,
+      "Player": "YochAont",
+      "Points": 11,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 2,
+      "OMWP": 0.54421769,
+      "GWP": 0.51111111,
+      "OGWP": 0.49237721
+    },
+    {
+      "Rank": 5,
+      "Player": "KheT",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.55782313,
+      "GWP": 0.4375,
+      "OGWP": 0.50289309
+    },
+    {
+      "Rank": 6,
+      "Player": "BunI",
+      "Points": 5,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 2,
+      "OMWP": 0.57142857,
+      "GWP": 0.33333333,
+      "OGWP": 0.51777404
+    },
+    {
+      "Rank": 7,
+      "Player": "mystikal29",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 6,
+      "Draws": 0,
+      "OMWP": 0.57142857,
+      "GWP": 0.27777778,
+      "OGWP": 0.51777404
+    },
+    {
+      "Rank": 8,
+      "Player": "farmmiiezz",
+      "Points": 2,
+      "Wins": 0,
+      "Losses": 5,
+      "Draws": 2,
+      "OMWP": 0.57142857,
+      "GWP": 0.33333333,
+      "OGWP": 0.51777404
+    }
+  ]
+}

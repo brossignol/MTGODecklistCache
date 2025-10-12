@@ -1,0 +1,1619 @@
+{
+  "Tournament": {
+    "Date": "2025-05-04T07:30:00Z",
+    "Name": "Tournoi TUMULT Metz Boutique - Mai 2025",
+    "Uri": "https://melee.gg/Tournament/View/298053"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "MT1_Aomine",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/5cbf880f-663c-41dd-92cd-b2d100ec372b",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Ath&#233;na (ALT_CORE_B_AX_18_U_3409)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Baba Yaga (ALT_COREKS_B_YZ_11_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cadets Ordis (ALT_COREKS_B_OR_06_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Case Prison (ALT_ALIZE_B_OR_42_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cri de Ralliement (ALT_ALIZE_B_OR_44_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Entra&#238;nement &#224; l&#39;Esprit d&#39;&#201;quipe (ALT_COREKS_B_OR_24_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Espionne Ordis (ALT_COREKS_B_OR_14_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Espionne Ordis (ALT_COREKS_B_OR_14_U_2482)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ing&#233;nieure de la Fonderie (ALT_COREKS_B_AX_05_U_2511)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Jack Frost (ALT_ALIZE_B_MU_31_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "L&#233;gat du Monolithe (ALT_COREKS_B_OR_08_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Le Monolithe, Bastion Ordis (ALT_COREKS_B_OR_28_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Le Roi-Grenouille (ALT_COREKS_B_OR_09_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "M&#233;canicienne de la Fonderie (ALT_COREKS_B_AX_07_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Procuratrice Ordis (ALT_COREKS_B_OR_16_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sceaux Adh&#233;sifs (ALT_COREKS_B_OR_25_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sigismar &amp; Wingspan (ALT_CORE_B_OR_01_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Superviseuse Ordis (ALT_ALIZE_B_OR_34_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Troupi&#232;re Ordis (ALT_COREKS_B_OR_05_R1)"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "melo5290",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8481cdf5-0417-474c-8077-b2d2012c08f5",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Baba Yaga (ALT_COREKS_B_YZ_11_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cadets Ordis (ALT_CORE_B_OR_06_U_5023)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cadets Ordis (ALT_COREKS_B_OR_06_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Case Prison (ALT_ALIZE_B_OR_42_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cri de Ralliement (ALT_ALIZE_B_OR_44_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "D&#233;charge de K&#233;lon (ALT_COREKS_B_AX_23_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ebenezer Scrooge (ALT_ALIZE_B_OR_37_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Entra&#238;nement &#224; l&#39;Esprit d&#39;&#201;quipe (ALT_COREKS_B_OR_24_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Espionne Ordis (ALT_COREKS_B_OR_14_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grand Projet (ALT_COREKS_B_OR_29_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guerri&#232;re de Havre (ALT_COREKS_B_BR_17_U_2548)"
+        },
+        {
+          "Count": 2,
+          "CardName": "L&#233;gat du Monolithe (ALT_COREKS_B_OR_08_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Le Marchand de Sable (ALT_COREKS_B_LY_15_R2)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Le Monolithe, Bastion Ordis (ALT_COREKS_B_OR_28_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Le Roi-Grenouille (ALT_COREKS_B_OR_09_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "M&#233;canicienne de la Fonderie (ALT_COREKS_B_AX_07_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Procuratrice Ordis (ALT_COREKS_B_OR_16_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sceaux Adh&#233;sifs (ALT_COREKS_B_OR_25_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scribe Runique du Monolithe (ALT_CORE_B_OR_07_U_6367)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Troupi&#232;re Ordis (ALT_COREKS_B_OR_05_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Troupi&#232;re Ordis (ALT_COREKS_B_OR_05_R1)"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Sigismar &amp; Wingspan (ALT_CORE_B_OR_01_C)"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "gijomo",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/bb901452-15e2-47ae-9779-b2cf012cc52a",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Afanas &amp; Senka (ALT_CORE_B_YZ_03_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Disciple Studieux (ALT_CORE_B_YZ_04_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Entra&#238;nement Magique (ALT_CORE_B_YZ_19_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Entra&#238;nement Magique (ALT_CORE_B_YZ_19_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "F&#233;e des Dents (ALT_CORE_B_YZ_06_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Invocation de Phal&#232;ne (ALT_ALIZE_B_YZ_41_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mage-Danseur du Kadigir (ALT_CORE_B_YZ_07_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Main Tendue (ALT_CORE_B_BR_25_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pamola (ALT_ALIZE_B_YZ_34_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Portail de Bannissement (ALT_CORE_B_YZ_24_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Red (ALT_CORE_B_BR_10_U_5314)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Renforts (ALT_ALIZE_B_OR_43_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sceau de Conjuration (ALT_CORE_B_YZ_23_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skald Lyra (ALT_CORE_B_LY_08_U_5409)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soigneuse Muna (ALT_COREKS_B_MU_04_U_150)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sommeil R&#233;parateur (ALT_CORE_B_MU_28_R2)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vir&#233;e Endiabl&#233;e (ALT_ALIZE_B_LY_40_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Zou ! (ALT_CORE_B_YZ_21_C)"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "ALR_Mjasm",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/a5377019-6c8b-46be-adda-b2d10159ca98",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Alchimiste du Kadigir (ALT_CORE_B_YZ_12_U_6968)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Alchimiste du Kadigir (ALT_COREKS_B_YZ_12_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Baba Yaga (ALT_CORE_B_YZ_11_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blizzard (ALT_ALIZE_B_YZ_42_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boum ! (ALT_CORE_B_AX_21_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Chrysalide (ALT_ALIZE_B_YZ_33_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disciple Studieux (ALT_CORE_B_YZ_04_U_5386)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disciple Studieux (ALT_COREKS_B_YZ_04_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Don de Soi (ALT_COREKS_B_YZ_20_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Entra&#238;nement Magique (ALT_COREKS_B_YZ_19_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "F&#233;e des Dents (ALT_CORE_B_YZ_06_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "F&#233;e des Dents (ALT_COREKS_B_YZ_06_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flamel (ALT_CORE_B_YZ_14_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "L&#39;Isba de Baba (ALT_CORE_B_YZ_28_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lanterne aux Phal&#232;nes (ALT_ALIZE_B_YZ_44_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lindiwe &amp; Maw (ALT_CORE_B_YZ_02_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "M&#233;duse Lunaire (ALT_CORE_B_YZ_05_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petit Pas, Bond de G&#233;ant (ALT_COREKS_B_YZ_25_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Troupi&#232;re Ordis (ALT_COREKS_B_OR_05_U_1286)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Zou ! (ALT_COREKS_B_YZ_21_C)"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Baaskrah",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/bae8bbee-b461-4e91-9595-b2d0017e0467",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "&#201;ruption de Mana (BTG-059-R)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Akhlut (TBF-026-R)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Case Prison (TBF-083-F)"
+        },
+        {
+          "Count": 3,
+          "CardName": "D&#233;blayeur Bravos (TBF-023-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Espionne Ordis (BTG-132-F)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guerri&#232;re de Havre (BTG-045-U-4117)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Havre, Bastion Bravos (BTG-060-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Intimidation (BTG-056-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lait d&#39;Arcolano (TBF-032-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lapin Ardent (TBF-020-C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lapin Ardent (TBF-020-U-4080)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Petit Djinn (BTG-041-R)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pic Saisi par les Glaces (TBF-034-R)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Puissant Djinn (BTG-049-R)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Secouriste Bravos (TBF-024-C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seiringar de Havre (TBF-021-C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skadi (TBF-022-U-10000)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Traceuse Bravos (BTG-038-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Videuse Bravos (BTG-044-C)"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Kojo et Booda (BTG-031-H)"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Scaycrow",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/ea489c2f-74da-452e-8e51-b2d200f93477",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "&#201;ruption de Mana (ALT_COREKS_B_BR_29_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Akhlut (ALT_ALIZE_B_BR_38_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Aspirant de Havre (ALT_COREKS_B_BR_09_U_4225)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Avant-Garde Bravos (ALT_COREKS_B_BR_14_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chiron (ALT_COREKS_B_BR_11_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Entra&#238;nement Physique (ALT_COREKS_B_BR_26_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Havre, Bastion Bravos (ALT_CORE_B_BR_30_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Havre, Bastion Bravos (ALT_COREKS_B_BR_30_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Intimidation (ALT_COREKS_B_BR_28_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Issun-bōshi (ALT_COREKS_B_BR_05_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kojo &amp; Booda (ALT_CORE_B_BR_01_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lapin Ardent (ALT_ALIZE_B_BR_32_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Le Tra&#238;neau Enchant&#233; (ALT_ALIZE_B_LY_44_R2)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Main Tendue (ALT_COREKS_B_BR_25_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meunier, Tu Dors (ALT_COREKS_B_LY_23_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Petit Djinn (ALT_COREKS_B_BR_06_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seiringar de Havre (ALT_ALIZE_B_BR_34_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Traceuse Bravos (ALT_COREKS_B_BR_07_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Traceuse Bravos (ALT_COREKS_B_BR_07_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Videuse Bravos (ALT_COREKS_B_BR_15_C)"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Nefenrhys",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8d702d13-e7ac-4a05-a000-b2d201727a8d",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Auraq &amp; Kibble (BTG-062-H)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Briser la Glace (TBF-048-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cocon d&#39;Etoffe (BTG-086-C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disciple studieux (BTG-155-5264)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Encri&#232;re de l&#39;Ouroboros (BTG-074-R)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Entra&#238;nement magique (BTG-169-F)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Esmeralda (BTG-066-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Feu Follet (TBF-040-C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "H&#233;raut de Papier (BTG-125-U-5120)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meunier, tu dors (BTG-084-C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nyala, Habile Illusionniste (TBF-041-R)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pers&#233;phone (TBF-056-F)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petit Pas, Bond de G&#233;ant (BTG-176-F)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prestidigitatrice de l&#39;Ouroboros (BTG-065-U-5109)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Puissant Djinn (BTG-049-F)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seiringar de Havre (TBF-021-F)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tanuki (BTG-075-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tenue Hivernale (TBF-049-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tour de Passe-Passe (TBF-045-C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tra&#238;neau enchant&#233; (TBF-050-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Zou! (BTG-172-F)"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Ravenalex",
+      "Result": "9th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/75ac0d43-8580-40b5-8c99-b2d3005ba422",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Baba Yaga (ALT_CORE_B_YZ_11_R2)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Case Prison (ALT_ALIZE_B_OR_42_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cri de Ralliement (ALT_ALIZE_B_OR_44_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Entra&#238;nement &#224; l&#39;Esprit d&#39;&#201;quipe (ALT_CORE_B_OR_24_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Espionne Ordis (ALT_CORE_B_OR_14_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gardienne Ordis (ALT_CORE_B_OR_13_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guerri&#232;re de Havre (ALT_CORE_B_BR_17_U_4198)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hypothermie (ALT_ALIZE_B_OR_40_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Jack Frost (ALT_ALIZE_B_MU_31_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "L&#233;gat du Monolithe (ALT_CORE_B_OR_08_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lapin Ardent (ALT_ALIZE_B_BR_32_U_11256)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Le Roi-Grenouille (ALT_CORE_B_OR_09_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Le Roi-Grenouille (ALT_CORE_B_OR_09_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Procuratrice Ordis (ALT_CORE_B_OR_16_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sceaux Adh&#233;sifs (ALT_CORE_B_OR_25_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scribe Runique du Monolithe (ALT_COREKS_B_OR_07_U_2802)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sigismar &amp; Wingspan (ALT_CORE_B_OR_01_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Troupi&#232;re Ordis (ALT_CORE_B_OR_05_R1)"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Yaran",
+      "Result": "10th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/56cf18d6-84f8-4a28-a6bb-b2d300658650",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "&#201;ruption de Mana (ALT_CORE_B_BR_29_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "&#201;ruption de Mana (ALT_CORE_B_BR_29_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Akhlut (ALT_ALIZE_B_BR_38_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Amarok (ALT_ALIZE_B_BR_39_U_10210)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Avant-Garde Bravos (ALT_CORE_B_BR_14_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Chiron (ALT_CORE_B_BR_11_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cylindre de K&#233;lon (ALT_CORE_B_AX_26_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Entra&#238;nement Physique (ALT_CORE_B_BR_26_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Espionne Ordis (ALT_CORE_B_OR_14_R2)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Havre, Bastion Bravos (ALT_CORE_B_BR_30_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Intimidation (ALT_CORE_B_BR_28_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kojo &amp; Booda (ALT_CORE_B_BR_01_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lapin Ardent (ALT_ALIZE_B_BR_32_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lapin Ardent (ALT_ALIZE_B_BR_32_U_16826)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Main Tendue (ALT_CORE_B_BR_25_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Petit Djinn (ALT_CORE_B_BR_06_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petit Djinn (ALT_COREKS_B_BR_06_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pionni&#232;re Bravos (ALT_CORE_B_BR_08_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Puissant Djinn (ALT_CORE_B_BR_19_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Puissant Djinn (ALT_COREKS_B_BR_19_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seiringar de Havre (ALT_ALIZE_B_BR_34_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skadi (ALT_ALIZE_B_BR_33_U_11621)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tomoe Gozen (ALT_CORE_B_BR_23_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Videuse Bravos (ALT_CORE_B_BR_15_C)"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Nicolas Maignan",
+      "Result": "11th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/a86640d1-7aa2-4990-8c64-b2d20158a012",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Armurerie Mobile (ALT_ALIZE_B_OR_45_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Baba Yaga (ALT_COREKS_B_YZ_11_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blizzard (ALT_ALIZE_B_YZ_42_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boum ! (ALT_CORE_B_AX_21_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cadets Ordis (ALT_CORE_B_OR_06_U_5374)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Chrysalide (ALT_ALIZE_B_YZ_33_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Don de Soi (ALT_CORE_B_YZ_20_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Entra&#238;nement Magique (ALT_CORE_B_YZ_19_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "F&#233;e des Dents (ALT_CORE_B_YZ_06_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "L&#39;Isba de Baba (ALT_CORE_B_YZ_28_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lanterne aux Phal&#232;nes (ALT_ALIZE_B_YZ_44_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Le Kraken (ALT_COREKS_B_YZ_17_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lindiwe &amp; Maw (ALT_CORE_B_YZ_02_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "M&#233;duse Lunaire (ALT_CORE_B_YZ_05_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mage-Danseur du Kadigir (ALT_CORE_B_YZ_07_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pamola (ALT_ALIZE_B_YZ_34_U_4720)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Petit Pas, Bond de G&#233;ant (ALT_CORE_B_YZ_25_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Zou ! (ALT_CORE_B_YZ_21_C)"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "ALR_Zoa54",
+      "Result": "13th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/6148158a-847c-47c0-9881-b2d30065f6bc",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Alchimiste du Kadigir (ALT_CORE_B_YZ_12_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Alchimiste du Kadigir (ALT_CORE_B_YZ_12_U_6974)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Anubis (ALT_CORE_B_OR_20_U_6936)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Baba Yaga (ALT_CORE_B_YZ_11_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Belasenka (ALT_ALIZE_B_YZ_35_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blizzard (ALT_ALIZE_B_YZ_42_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boum ! (ALT_CORE_B_AX_21_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Chrysalide (ALT_ALIZE_B_YZ_33_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disciple Studieux (ALT_CORE_B_YZ_04_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Don de Soi (ALT_CORE_B_YZ_20_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "F&#233;e des Dents (ALT_CORE_B_YZ_06_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "L&#39;Isba de Baba (ALT_CORE_B_YZ_28_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lanterne aux Phal&#232;nes (ALT_ALIZE_B_YZ_44_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lindiwe &amp; Maw (ALT_CORE_B_YZ_02_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "M&#233;duse Lunaire (ALT_CORE_B_YZ_05_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Petit Pas, Bond de G&#233;ant (ALT_CORE_B_YZ_25_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Procuratrice Ordis (ALT_CORE_B_OR_16_U_2592)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Superviseuse Ordis (ALT_ALIZE_B_OR_34_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Zou ! (ALT_CORE_B_YZ_21_C)"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "kakou",
+      "Result": "14th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/01c55e6d-c9a7-4d5d-b2cd-b2d3006618ea",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Alchimiste du Kadigir (ALT_CORE_B_YZ_12_U_6955)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Armurerie Mobile (ALT_ALIZE_B_OR_45_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Belasenka (ALT_ALIZE_B_YZ_35_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boum ! (ALT_CORE_B_AX_21_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boum ! (ALT_COREKS_B_AX_21_R2)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cadets Ordis (ALT_CORE_B_OR_06_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Chrysalide (ALT_ALIZE_B_YZ_33_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Commando Boule-de-Neige (ALT_ALIZE_B_LY_32_U_4282)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disciple Studieux (ALT_CORE_B_YZ_04_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Don de Soi (ALT_CORE_B_YZ_20_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Espionnage (ALT_CORE_B_YZ_22_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "F&#233;e des Dents (ALT_CORE_B_YZ_06_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Issitoq (ALT_CORE_B_OR_19_U_4396)"
+        },
+        {
+          "Count": 1,
+          "CardName": "L&#39;Isba de Baba (ALT_CORE_B_YZ_28_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "L&#39;Isba de Baba (ALT_CORE_B_YZ_28_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lanterne aux Phal&#232;nes (ALT_ALIZE_B_YZ_44_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lindiwe &amp; Maw (ALT_CORE_B_YZ_02_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "M&#233;duse Lunaire (ALT_CORE_B_YZ_05_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "M&#233;duse Lunaire (ALT_CORE_B_YZ_05_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "M&#233;duse Lunaire (ALT_COREKS_B_YZ_05_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petit Pas, Bond de G&#233;ant (ALT_CORE_B_YZ_25_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petit Pas, Bond de G&#233;ant (ALT_COREKS_B_YZ_25_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sommeil R&#233;parateur (ALT_CORE_B_MU_28_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sommeil R&#233;parateur (ALT_COREKS_B_MU_28_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zou ! (ALT_CORE_B_YZ_21_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Zou ! (ALT_COREKS_B_YZ_21_C)"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "FlamNKuche",
+      "Result": "15th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/5590f1ee-2272-4e3c-b9a6-b2d200f4f46e",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Ada Lovelace (BTG-006-C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ada Lovelace Unique (BTG-006-U-2935)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Amelia Earheart (BTG-012-C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Amelia Earheart Unique (BTG-012-U-1366)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boum (BTG-022-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Brouilleur blind&#233; (BTG-025-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cylindre de K&#233;lon (BTG-024-R)"
+        },
+        {
+          "Count": 1,
+          "CardName": "D&#233;charge de K&#233;lon (BTG-023-C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dr Frankenstein (BTG-017-R)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Eclaireur Morse (TBF-007-C-FR)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elementaire de K&#233;lon (BTG-010-C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gibil (TBF-012-C-FR)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Happ&#233; (BTG-020-C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Havre, Bastion  Bravos (BTG-060-F)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Inari (BTG-101-F)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Jian, Superviseur d&#39;assemblage (BTG-009-R)"
+        },
+        {
+          "Count": 2,
+          "CardName": "L&#39;ouroboros, Bastion Lyra (BTG-090-F)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Livraison gel&#233;e (TBF-013-C-FR)"
+        },
+        {
+          "Count": 2,
+          "CardName": "R&#233;cup&#233;rateur Axiom (BTG-005-C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "R&#233;cup&#233;rateur Axiom Unique (BTG-005-U-6828)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sceaux adhesif (BTG-145-F)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Subhash &amp; Marmo (BTG-002-H)"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "RoumainDesBois",
+      "Result": "16th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/01aa61b4-4bb4-4b0b-b0be-b2d200dec242",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Aloe Vera (ALT_COREKS_B_MU_16_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Anansi (ALT_COREKS_B_LY_13_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Avalanche (ALT_ALIZE_B_AX_42_R2)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cocon d&#39;&#201;toffe (ALT_COREKS_B_LY_24_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Danseuse d&#39;&#201;toffe Lyra (ALT_COREKS_B_LY_14_U_511)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Encri&#232;re de l&#39;Ouroboros (ALT_CORE_B_LY_10_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Encri&#232;re de l&#39;Ouroboros (ALT_COREKS_B_LY_10_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Entasseur Magpeng (ALT_ALIZE_B_LY_31_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Entasseur Magpeng (ALT_ALIZE_B_LY_31_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Entra&#238;nement A Cappella (ALT_COREKS_B_LY_22_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Entra&#238;nement Magique (ALT_CORE_B_YZ_19_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Entra&#238;nement Magique (ALT_COREKS_B_YZ_19_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Esmeralda (ALT_COREKS_B_LY_11_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "F&#233;e Clochette (ALT_CORE_B_AX_09_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "F&#233;e Clochette (ALT_COREKS_B_AX_09_U_3439)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fen &amp; Crowbar (ALT_CORE_B_LY_03_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Feu Follet (ALT_ALIZE_B_LY_35_U_19563)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hathor (ALT_COREKS_B_LY_07_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Le Chapelier (ALT_COREKS_B_LY_18_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Martengale (ALT_COREKS_B_LY_04_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meunier, Tu Dors (ALT_COREKS_B_LY_23_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prestidigitatrice de l&#39;Ouroboros (ALT_COREKS_B_LY_06_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tanuki (ALT_COREKS_B_LY_09_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tour de Passe-Passe (ALT_ALIZE_B_LY_39_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zou ! (ALT_CORE_B_YZ_21_R2)"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "KananAiMireiMatsuura",
+      "Result": "17th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/a8b8cfd3-4715-45ed-a2ec-b2d30065c59c",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "&#201;ruption de Mana (ALT_CORE_B_BR_29_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Akhlut (ALT_ALIZE_B_BR_38_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Avant-Garde Bravos (ALT_CORE_B_BR_14_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Avant-Garde Bravos (ALT_CORE_B_BR_14_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Basira &amp; Kaizaimon (ALT_CORE_B_BR_03_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cylindre de K&#233;lon (ALT_CORE_B_AX_26_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Entra&#238;nement Physique (ALT_CORE_B_BR_26_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Entra&#238;nement Physique (ALT_COREKS_B_BR_26_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Havre, Bastion Bravos (ALT_COREKS_B_BR_30_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Havre, Bastion Bravos (ALT_COREKS_B_BR_30_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hua Mulan (ALT_CORE_B_BR_12_U_4265)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Issun-bōshi (ALT_CORE_B_BR_05_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Issun-bōshi (ALT_CORE_B_BR_05_U_6988)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kitsune (ALT_CORE_B_MU_05_U_1452)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lapin Ardent (ALT_ALIZE_B_BR_32_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Main Tendue (ALT_CORE_B_BR_25_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Main Tendue (ALT_COREKS_B_BR_25_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petit Djinn (ALT_CORE_B_BR_06_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Petit Djinn (ALT_COREKS_B_BR_06_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Puissant Djinn (ALT_CORE_B_BR_19_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seiringar de Havre (ALT_ALIZE_B_BR_34_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tomoe Gozen (ALT_CORE_B_BR_23_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Traceuse Bravos (ALT_CORE_B_BR_07_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Traceuse Bravos (ALT_COREKS_B_BR_07_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Videuse Bravos (ALT_CORE_B_BR_15_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Videuse Bravos (ALT_COREKS_B_BR_15_C)"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "MT1_Aomine",
+      "Points": 23,
+      "Wins": 7,
+      "Losses": 0,
+      "Draws": 2,
+      "OMWP": 0.52329512,
+      "GWP": 0.88888889,
+      "OGWP": 0.486255
+    },
+    {
+      "Rank": 2,
+      "Player": "melo5290",
+      "Points": 19,
+      "Wins": 6,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.52017196,
+      "GWP": 0.64102564,
+      "OGWP": 0.50289352
+    },
+    {
+      "Rank": 3,
+      "Player": "gijomo",
+      "Points": 16,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.55895692,
+      "GWP": 0.61111111,
+      "OGWP": 0.5452788
+    },
+    {
+      "Rank": 4,
+      "Player": "ALR_Mjasm",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4856387,
+      "GWP": 0.54545455,
+      "OGWP": 0.48015873
+    },
+    {
+      "Rank": 5,
+      "Player": "Baaskrah",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.55169753,
+      "GWP": 0.55555556,
+      "OGWP": 0.53535354
+    },
+    {
+      "Rank": 6,
+      "Player": "LorN_Squall",
+      "Points": 11,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 2,
+      "OMWP": 0.52910053,
+      "GWP": 0.45833333,
+      "OGWP": 0.51578822
+    },
+    {
+      "Rank": 7,
+      "Player": "Scaycrow",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.59722222,
+      "GWP": 0.41666667,
+      "OGWP": 0.56566119
+    },
+    {
+      "Rank": 8,
+      "Player": "Nefenrhys",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.59259259,
+      "GWP": 0.48148148,
+      "OGWP": 0.5582265
+    },
+    {
+      "Rank": 9,
+      "Player": "Ravenalex",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.53703704,
+      "GWP": 0.5,
+      "OGWP": 0.53703704
+    },
+    {
+      "Rank": 10,
+      "Player": "Yaran",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.42592593,
+      "GWP": 0.5,
+      "OGWP": 0.42592593
+    },
+    {
+      "Rank": 11,
+      "Player": "Nicolas Maignan",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.56481481,
+      "GWP": 0.33333333,
+      "OGWP": 0.56481481
+    },
+    {
+      "Rank": 12,
+      "Player": "Raivals",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.33333333,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 13,
+      "Player": "ALR_Zoa54",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.48148148,
+      "GWP": 0.33333333,
+      "OGWP": 0.48148148
+    },
+    {
+      "Rank": 14,
+      "Player": "kakou",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4537037,
+      "GWP": 0.33333333,
+      "OGWP": 0.4537037
+    },
+    {
+      "Rank": 15,
+      "Player": "FlamNKuche",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.33333333,
+      "OGWP": 0.41666667
+    },
+    {
+      "Rank": 16,
+      "Player": "RoumainDesBois",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.38888889,
+      "GWP": 0.33333333,
+      "OGWP": 0.38888889
+    },
+    {
+      "Rank": 17,
+      "Player": "KananAiMireiMatsuura",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.36111111,
+      "GWP": 0.33333333,
+      "OGWP": 0.36111111
+    },
+    {
+      "Rank": 18,
+      "Player": "grimmjow",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.4537037,
+      "GWP": 0.33333333,
+      "OGWP": 0.4537037
+    }
+  ]
+}
