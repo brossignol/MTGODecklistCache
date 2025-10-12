@@ -1,0 +1,1821 @@
+{
+  "Tournament": {
+    "Date": "2025-08-30T06:30:00Z",
+    "Name": "BGF - Altered",
+    "Uri": "https://melee.gg/Tournament/View/356434"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Coyote17",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/23260365-23a6-468a-bc1b-b34900655e57",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_MU_32_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_ALIZE_B_MU_44_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_MU_55_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_MU_60_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_MU_62_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_MU_01_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_MU_04_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_MU_09_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_MU_13_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_MU_15_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_MU_26_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_MU_28_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_AX_06_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_LY_05_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_LY_11_U_3404"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_MU_06_R1"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_MU_08_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_MU_09_U_4582"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_MU_10_U_2565"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_MU_16_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_MU_30_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_OR_28_R2"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "MuRakSss",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/a2d92f48-28c3-4722-bdf5-b348014dc936",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_BR_32_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_BR_34_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_ALIZE_B_BR_43_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_ALIZE_B_LY_33_U_3126"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_BISE_B_BR_52_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_BR_53_U_5630"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_BISE_B_BR_61_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_BR_63_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_BISE_B_LY_53_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_YZ_56_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_BR_01_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_BR_11_U_4054"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_BR_05_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_BR_06_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_BR_07_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_BR_08_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_BR_19_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_BR_28_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_BR_29_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_LY_23_R2"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_OR_14_R2"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Melung",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/09f04628-b372-4807-92f8-b348011ee3cb",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "ALT_ALIZE_A_AX_35_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_ALIZE_B_AX_35_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_ALIZE_B_AX_40_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_AX_41_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_ALIZE_B_AX_42_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_BISE_B_AX_49_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_BISE_B_AX_53_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_AX_53_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_AX_59_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_AX_02_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_AX_04_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_AX_08_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_AX_09_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_AX_11_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_AX_17_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_AX_20_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_AX_26_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_AX_07_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_AX_17_U_2033"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_AX_20_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_AX_28_R1"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_BR_30_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_LY_13_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_LY_13_U_1988"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_LY_13_U_5198"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "lapassoire",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/262a5b62-2e1d-4030-abe1-b348013386d9",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "kayoups",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/04351c25-26df-442b-a253-b348010371e7",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_BR_32_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_BR_34_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_ALIZE_B_BR_38_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_ALIZE_B_BR_38_U_640"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_ALIZE_B_BR_43_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_BISE_B_BR_52_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_BR_54_U_6569"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_BISE_B_BR_61_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_YZ_56_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_AX_08_U_2865"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_BR_03_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_BR_05_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_BR_06_R1"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_BR_11_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_BR_15_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_BR_16_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_BR_16_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_BR_25_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_BR_26_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_BR_29_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_OR_11_R2"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Hyruama",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/b414ab91-acca-4665-8162-b34800d0305f",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "https://www.altered.gg/decks/01K3TXD53TBJM1T59PKRM9065F"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "VivementDimanche",
+      "Result": "9th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/9d14a818-7e4d-4121-a12c-b348014d7c92",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "petitjean91",
+      "Result": "10th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/98888c55-3286-40a2-8985-b34801507858",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "ALT_ALIZE_B_MU_37_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_ALIZE_B_MU_40_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_BISE_B_LY_61_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_MU_53_U_9221"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_MU_54_U_14634"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_MU_60_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_BISE_B_MU_61_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_MU_01_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_MU_28_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_BR_06_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_LY_14_U_5062"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_LY_21_R2"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_MU_08_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_MU_12_R1"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_MU_15_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_MU_17_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_MU_22_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_MU_22_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_MU_24_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_MU_26_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_MU_30_R1"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Grusly",
+      "Result": "11th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8715a3f9-b139-4df3-9f45-b3490064973f",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "NetherStorm",
+      "Result": "12th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/126daa24-2acb-4175-863b-b3480142632d",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Themysterious16",
+      "Result": "13th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/105ea3d9-88cb-4f19-a6ad-b348008eb925",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Loulitrol",
+      "Result": "14th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/bef38112-efb7-4b23-9794-b3480153b909",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_BR_32_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_ALIZE_B_BR_33_U_10677"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_BR_34_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_BR_38_R1"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_BISE_B_BR_52_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_BISE_B_BR_61_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_BISE_B_YZ_56_R2"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_A_BR_26_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_BR_03_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_BR_17_U_5755"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_BR_28_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_BR_30_R1"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_BR_06_R1"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_BR_11_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_BR_15_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_BR_16_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_BR_18_U_2092"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_BR_19_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_BR_30_R1"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "gimkil",
+      "Result": "15th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/dd31e417-3251-4e24-8a99-b349004e3b9a",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "https://www.altered.gg/en-us/decks/01K3TRASY1RTTQZVVHHJV1K38P"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Zoidbergforpresident",
+      "Result": "16th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8881f215-092b-43e9-ad31-b348014233a2",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Nikauw",
+      "Result": "18th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/17045c85-b8b0-49b9-b799-b349005db13f",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "R0uxblar",
+      "Result": "19th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/6f77c4c6-f3a0-4b1c-8f75-b34801717746",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_LY_31_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_AX_09_U_8350"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_LY_03_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_LY_10_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_LY_15_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_MU_09_R2"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_YZ_19_R2"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_AX_09_R2"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_LY_04_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_LY_07_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_LY_10_R1"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_LY_13_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_LY_18_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_LY_22_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_LY_23_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_LY_29_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_MU_09_R2"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_MU_16_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_YZ_04_U_3596"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_YZ_14_U_3935"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_YZ_19_R2"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "greg2236",
+      "Result": "20th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/c3301b44-cfca-40ab-93f6-b348017455c2",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "cernunnos"
+        },
+        {
+          "Count": 2,
+          "CardName": "champignon &#233;ternueur"
+        },
+        {
+          "Count": 1,
+          "CardName": "champignon &#233;xtenueur"
+        },
+        {
+          "Count": 1,
+          "CardName": "comptable ordis"
+        },
+        {
+          "Count": 2,
+          "CardName": "copp&#233;lia"
+        },
+        {
+          "Count": 3,
+          "CardName": "druide muna"
+        },
+        {
+          "Count": 3,
+          "CardName": "festival lyra"
+        },
+        {
+          "Count": 3,
+          "CardName": "fille d&#39;yggdrasil"
+        },
+        {
+          "Count": 2,
+          "CardName": "jack frost"
+        },
+        {
+          "Count": 3,
+          "CardName": "kodama"
+        },
+        {
+          "Count": 1,
+          "CardName": "la petite souris"
+        },
+        {
+          "Count": 1,
+          "CardName": "loutre rempoteuse"
+        },
+        {
+          "Count": 2,
+          "CardName": "moisson de mana"
+        },
+        {
+          "Count": 2,
+          "CardName": "pers&#233;phone"
+        },
+        {
+          "Count": 1,
+          "CardName": "rin et orchid"
+        },
+        {
+          "Count": 3,
+          "CardName": "soigneuse muna"
+        },
+        {
+          "Count": 3,
+          "CardName": "sommeil r&#233;parateur"
+        },
+        {
+          "Count": 2,
+          "CardName": "tente floral"
+        },
+        {
+          "Count": 3,
+          "CardName": "vendangeurs du fuseau"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "-Laurent-",
+      "Result": "21th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/69fddffa-3f6a-402a-a7ea-b349005e5afa",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Insinfi",
+      "Result": "22th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/4bceeb16-8f27-4f10-bede-b34800d106a7",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_MU_32_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_ALIZE_B_MU_33_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_ALIZE_B_MU_33_R1"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_MU_44_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_BISE_B_BR_52_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_LY_51_U_14252"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_MU_51_U_8629"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_AX_04_U_2920"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_AX_14_R2"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_LY_29_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_MU_03_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_MU_04_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_MU_06_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_MU_09_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_MU_13_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_MU_16_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_MU_23_R1"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_MU_28_C"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Ciwann",
+      "Result": "23th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/b475d61b-36a2-49b0-92fd-b348010d96c9",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Chiron commune"
+        },
+        {
+          "Count": 1,
+          "CardName": "D&#233;blayeur bravos Unique"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duel de cran commune"
+        },
+        {
+          "Count": 3,
+          "CardName": "Entrainement physique rare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eruption de mana Commune"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eruption de mana Rare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Espionne Ordis rare"
+        },
+        {
+          "Count": 3,
+          "CardName": "Havre, bastion Bravos rare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lait d&#39;arcolano commune"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lapin ardent commune"
+        },
+        {
+          "Count": 1,
+          "CardName": "Le Mess commune"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meunier, tu dors rare"
+        },
+        {
+          "Count": 3,
+          "CardName": "Petit Djinn Rare"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pionniere Bravos commune"
+        },
+        {
+          "Count": 1,
+          "CardName": "Puissant Djinn Rare"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seiringar de havre commune"
+        },
+        {
+          "Count": 2,
+          "CardName": "Talarian skater commune"
+        },
+        {
+          "Count": 1,
+          "CardName": "The hunger rare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tomoe goezn unique"
+        },
+        {
+          "Count": 2,
+          "CardName": "Traceuse Bravos commune"
+        },
+        {
+          "Count": 1,
+          "CardName": "Videuse Bravos commune"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Jagon8510",
+      "Result": "24th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/10eb8dcd-2c5c-476b-90bf-b34800e19eea",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "https://www.altered.gg/decks/01K3H3JSZKEAMBV8SY97XFPTWR"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Gorfou",
+      "Result": "25th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/67a49b81-2351-41ca-8030-b34801641635",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "sangokai0290",
+      "Result": "26th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/7094907c-8024-4bf1-ad02-b348013a8153",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "https://www.altered.gg/fr-fr/decks/01K3JMP3Y109CXK07WBB05D04Z"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Axelle",
+      "Result": "27th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/d1996646-0e21-455e-8d45-b3490069720b",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Vilanelle",
+      "Result": "29th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/16d85cbe-496d-43f4-bcd3-b34801311a57",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "amelia earhart"
+        },
+        {
+          "Count": 1,
+          "CardName": "avalanche"
+        },
+        {
+          "Count": 1,
+          "CardName": "avalanche (rare)"
+        },
+        {
+          "Count": 3,
+          "CardName": "axiom salvager (rare)"
+        },
+        {
+          "Count": 1,
+          "CardName": "dr. frankenstein"
+        },
+        {
+          "Count": 2,
+          "CardName": "dr. frankenstein (rare)"
+        },
+        {
+          "Count": 3,
+          "CardName": "foundry mechanic (rare)"
+        },
+        {
+          "Count": 3,
+          "CardName": "frozen delivery"
+        },
+        {
+          "Count": 2,
+          "CardName": "haven, bastion bravos (rare)"
+        },
+        {
+          "Count": 3,
+          "CardName": "hooked (rare)"
+        },
+        {
+          "Count": 1,
+          "CardName": "kelon burst"
+        },
+        {
+          "Count": 3,
+          "CardName": "kelon elemental"
+        },
+        {
+          "Count": 1,
+          "CardName": "mechanical training"
+        },
+        {
+          "Count": 3,
+          "CardName": "sap sniffer"
+        },
+        {
+          "Count": 3,
+          "CardName": "the grems"
+        },
+        {
+          "Count": 3,
+          "CardName": "vaike, energy pioneer"
+        },
+        {
+          "Count": 3,
+          "CardName": "walrus scout"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Mike001",
+      "Result": "30th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/d21f59f0-4971-414c-ac68-b34801162f85",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Natim",
+      "Result": "31th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1c6c20c9-304f-4bf9-9d75-b3480142de45",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "cecilerodts",
+      "Result": "32th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/9d5ba177-94a0-471f-8e63-b3480145441a",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_LY_31_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_ALIZE_B_LY_35_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_ALIZE_B_LY_39_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_ALIZE_B_MU_42_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_BR_61_R2"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_BISE_B_LY_51_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_LY_61_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_MU_53_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_MU_53_U_1581"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_MU_54_U_7287"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_LY_03_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_LY_10_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_MU_16_R2"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_YZ_19_R2"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_LY_04_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_LY_07_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_COREKS_B_LY_13_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_LY_19_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_LY_21_U_1816"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_LY_22_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_LY_23_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_LY_24_C"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Medho",
+      "Result": "33th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/acd7909b-898e-4125-b0c6-b34800d18888",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "akhlut"
+        },
+        {
+          "Count": 2,
+          "CardName": "bravos blade dancer"
+        },
+        {
+          "Count": 1,
+          "CardName": "bravos vanguard"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chiron"
+        },
+        {
+          "Count": 1,
+          "CardName": "cuppa sap"
+        },
+        {
+          "Count": 1,
+          "CardName": "duel of grit"
+        },
+        {
+          "Count": 1,
+          "CardName": "duel of grit rare"
+        },
+        {
+          "Count": 3,
+          "CardName": "fire rabbit"
+        },
+        {
+          "Count": 1,
+          "CardName": "haven bouncer"
+        },
+        {
+          "Count": 3,
+          "CardName": "haven seiringar"
+        },
+        {
+          "Count": 1,
+          "CardName": "helping hand"
+        },
+        {
+          "Count": 1,
+          "CardName": "keloid cylinder"
+        },
+        {
+          "Count": 2,
+          "CardName": "lait arcolano"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lyra navigator"
+        },
+        {
+          "Count": 2,
+          "CardName": "mana eruption"
+        },
+        {
+          "Count": 2,
+          "CardName": "mighty jinn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ozma"
+        },
+        {
+          "Count": 2,
+          "CardName": "physical training"
+        },
+        {
+          "Count": 1,
+          "CardName": "sun wukong"
+        },
+        {
+          "Count": 3,
+          "CardName": "talarian"
+        },
+        {
+          "Count": 2,
+          "CardName": "the hunger"
+        },
+        {
+          "Count": 3,
+          "CardName": "tiny jinn"
+        },
+        {
+          "Count": 1,
+          "CardName": "twinkle twinkle"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "ZADINOX",
+      "Result": "35th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/009f9b57-8f4d-409e-94d5-b349006948a6",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "mikou",
+      "Result": "36th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/2afd3d84-0dc0-42db-9b76-b34900649c71",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Kevke",
+      "Result": "38th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e9d13c7b-b703-4633-a3ac-b349005ea543",
+      "Mainboard": [],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Coyote17",
+      "Points": 27,
+      "Wins": 9,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.61155754,
+      "GWP": 0.8,
+      "OGWP": 0.57804279
+    },
+    {
+      "Rank": 2,
+      "Player": "Cytro",
+      "Points": 21,
+      "Wins": 7,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.64872134,
+      "GWP": 0.64285714,
+      "OGWP": 0.62366522
+    },
+    {
+      "Rank": 3,
+      "Player": "MuRakSss",
+      "Points": 21,
+      "Wins": 7,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6375,
+      "GWP": 0.72727273,
+      "OGWP": 0.59980159
+    },
+    {
+      "Rank": 4,
+      "Player": "Melung",
+      "Points": 21,
+      "Wins": 7,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.59017857,
+      "GWP": 0.69230769,
+      "OGWP": 0.57142857
+    },
+    {
+      "Rank": 5,
+      "Player": "lapassoire",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.66825397,
+      "GWP": 0.6,
+      "OGWP": 0.63682255
+    },
+    {
+      "Rank": 6,
+      "Player": "kayoups",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.60277778,
+      "GWP": 0.6,
+      "OGWP": 0.57134636
+    },
+    {
+      "Rank": 7,
+      "Player": "Hyruama",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.58888889,
+      "GWP": 0.6,
+      "OGWP": 0.5629329
+    },
+    {
+      "Rank": 8,
+      "Player": "BasB7",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.54648526,
+      "GWP": 0.55555556,
+      "OGWP": 0.53927025
+    },
+    {
+      "Rank": 9,
+      "Player": "VivementDimanche",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54421769,
+      "GWP": 0.71428571,
+      "OGWP": 0.55017007
+    },
+    {
+      "Rank": 10,
+      "Player": "petitjean91",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.63265306,
+      "GWP": 0.57142857,
+      "OGWP": 0.63265306
+    },
+    {
+      "Rank": 11,
+      "Player": "Grusly",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.59183673,
+      "GWP": 0.57142857,
+      "OGWP": 0.59183673
+    },
+    {
+      "Rank": 12,
+      "Player": "NetherStorm",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.57823129,
+      "GWP": 0.57142857,
+      "OGWP": 0.57823129
+    },
+    {
+      "Rank": 13,
+      "Player": "Themysterious16",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.55782313,
+      "GWP": 0.57142857,
+      "OGWP": 0.55782313
+    },
+    {
+      "Rank": 14,
+      "Player": "Loulitrol",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.53741497,
+      "GWP": 0.57142857,
+      "OGWP": 0.53741497
+    },
+    {
+      "Rank": 15,
+      "Player": "gimkil",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4829932,
+      "GWP": 0.57142857,
+      "OGWP": 0.48894558
+    },
+    {
+      "Rank": 16,
+      "Player": "Zoidbergforpresident",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4829932,
+      "GWP": 0.57142857,
+      "OGWP": 0.48894558
+    },
+    {
+      "Rank": 17,
+      "Player": "joALM",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4829932,
+      "GWP": 0.57142857,
+      "OGWP": 0.48894558
+    },
+    {
+      "Rank": 18,
+      "Player": "Nikauw",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4829932,
+      "GWP": 0.57142857,
+      "OGWP": 0.4829932
+    },
+    {
+      "Rank": 19,
+      "Player": "R0uxblar",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.46258503,
+      "GWP": 0.57142857,
+      "OGWP": 0.46258503
+    },
+    {
+      "Rank": 20,
+      "Player": "greg2236",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.57142857,
+      "GWP": 0.42857143,
+      "OGWP": 0.57142857
+    },
+    {
+      "Rank": 21,
+      "Player": "-Laurent-",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.54421769,
+      "GWP": 0.42857143,
+      "OGWP": 0.54421769
+    },
+    {
+      "Rank": 22,
+      "Player": "Insinfi",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5170068,
+      "GWP": 0.42857143,
+      "OGWP": 0.52295918
+    },
+    {
+      "Rank": 23,
+      "Player": "Ciwann",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5170068,
+      "GWP": 0.42857143,
+      "OGWP": 0.5170068
+    },
+    {
+      "Rank": 24,
+      "Player": "Jagon8510",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.51020408,
+      "GWP": 0.42857143,
+      "OGWP": 0.51615646
+    },
+    {
+      "Rank": 25,
+      "Player": "Gorfou",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.47619048,
+      "GWP": 0.42857143,
+      "OGWP": 0.47619048
+    },
+    {
+      "Rank": 26,
+      "Player": "sangokai0290",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.46938776,
+      "GWP": 0.42857143,
+      "OGWP": 0.47534014
+    },
+    {
+      "Rank": 27,
+      "Player": "Axelle",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.43537415,
+      "GWP": 0.42857143,
+      "OGWP": 0.43537415
+    },
+    {
+      "Rank": 28,
+      "Player": "nutechueb",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.41496599,
+      "GWP": 0.42857143,
+      "OGWP": 0.42687075
+    },
+    {
+      "Rank": 29,
+      "Player": "Vilanelle",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.38095238,
+      "GWP": 0.42857143,
+      "OGWP": 0.38095238
+    },
+    {
+      "Rank": 30,
+      "Player": "Mike001",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 1,
+      "OMWP": 0.50340136,
+      "GWP": 0.375,
+      "OGWP": 0.50935374
+    },
+    {
+      "Rank": 31,
+      "Player": "Natim",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 1,
+      "OMWP": 0.49659864,
+      "GWP": 0.375,
+      "OGWP": 0.50255102
+    },
+    {
+      "Rank": 32,
+      "Player": "cecilerodts",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.52380952,
+      "GWP": 0.33333333,
+      "OGWP": 0.52380952
+    },
+    {
+      "Rank": 33,
+      "Player": "Medho",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.4829932,
+      "GWP": 0.33333333,
+      "OGWP": 0.4829932
+    },
+    {
+      "Rank": 34,
+      "Player": "temary7",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.47619048,
+      "GWP": 0.33333333,
+      "OGWP": 0.47619048
+    },
+    {
+      "Rank": 35,
+      "Player": "ZADINOX",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.40816327,
+      "GWP": 0.33333333,
+      "OGWP": 0.41411565
+    },
+    {
+      "Rank": 36,
+      "Player": "mikou",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.37414966,
+      "GWP": 0.33333333,
+      "OGWP": 0.37414966
+    },
+    {
+      "Rank": 37,
+      "Player": "NoemieL",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 6,
+      "Draws": 0,
+      "OMWP": 0.44217687,
+      "GWP": 0.33333333,
+      "OGWP": 0.44217687
+    },
+    {
+      "Rank": 38,
+      "Player": "Kevke",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.57142857,
+      "GWP": 0.33333333,
+      "OGWP": 0.57142857
+    },
+    {
+      "Rank": 39,
+      "Player": "Kusano",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.57142857,
+      "GWP": 0.33333333,
+      "OGWP": 0.57142857
+    },
+    {
+      "Rank": 40,
+      "Player": "tomf6",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 7,
+      "Draws": 0,
+      "OMWP": 0.44897959,
+      "GWP": 0.33333333,
+      "OGWP": 0.44897959
+    }
+  ]
+}

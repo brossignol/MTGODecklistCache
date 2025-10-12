@@ -1,0 +1,333 @@
+{
+  "Tournament": {
+    "Date": "2025-09-07T12:00:00Z",
+    "Name": "NRC Liga-Ersatzturnier",
+    "Uri": "https://melee.gg/Tournament/View/346790"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Caroline Tinz",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/c338ace4-d412-419a-b079-b35000a78104",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Cynthia&#39;s Gabite DRI 103"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cynthia&#39;s Gabite SVALT 177"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cynthia&#39;s Garchomp ex DRI 104"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cynthia&#39;s Garchomp ex PR-SV 204"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cynthia&#39;s Gible DRI 102"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cynthia&#39;s Gible SVALT 176"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cynthia&#39;s Roselia DRI 7"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cynthia&#39;s Roserade DRI 8"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cynthia&#39;s Spiritomb DRI 129"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fezandipiti ex SFA 92"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Arven SVI 166"
+        },
+        {
+          "Count": 8,
+          "CardName": "Basic {F} Energy Energy 14"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boss&#39;s Orders PAL 172"
+        },
+        {
+          "Count": 4,
+          "CardName": "Buddy-Buddy Poffin TEF 144"
+        },
+        {
+          "Count": 2,
+          "CardName": "Counter Catcher PAR 160"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cynthia&#39;s Power Weight DRI 162"
+        },
+        {
+          "Count": 2,
+          "CardName": "Earthen Vessel PAR 163"
+        },
+        {
+          "Count": 3,
+          "CardName": "Iono PAL 185"
+        },
+        {
+          "Count": 1,
+          "CardName": "Luminous Energy PAL 191"
+        },
+        {
+          "Count": 1,
+          "CardName": "Night Stretcher SFA 61"
+        },
+        {
+          "Count": 2,
+          "CardName": "Professor&#39;s Research JTG 155"
+        },
+        {
+          "Count": 1,
+          "CardName": "Switch SVI 194"
+        },
+        {
+          "Count": 2,
+          "CardName": "Team Rocket&#39;s Watchtower DRI 180"
+        },
+        {
+          "Count": 2,
+          "CardName": "Technical Machine: Evolution PAR 178"
+        },
+        {
+          "Count": 1,
+          "CardName": "Town Store OBF 196"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ultra Ball BRS 150"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unfair Stamp TWM 165"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Hayz57",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/f6c45556-14c5-403f-847e-b34f00899584",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Benesaru"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blutmond- Ursaluna EX"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grolldra"
+        },
+        {
+          "Count": 3,
+          "CardName": "Katapuldra EX"
+        },
+        {
+          "Count": 1,
+          "CardName": "Knospi"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phandra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zwirrfinst"
+        },
+        {
+          "Count": 2,
+          "CardName": "Zwirrklop"
+        },
+        {
+          "Count": 2,
+          "CardName": "Zwirrlicht"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Basis Feuerenergie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Basis Psychoenergie"
+        },
+        {
+          "Count": 2,
+          "CardName": "Basis Unlichtenergie"
+        },
+        {
+          "Count": 2,
+          "CardName": "Befehl vom Boss"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dicke Freunde Knursp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Enigmara"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hyperball"
+        },
+        {
+          "Count": 2,
+          "CardName": "Irdengef&#228;&#223;"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotta"
+        },
+        {
+          "Count": 1,
+          "CardName": "Luftballon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Matt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nachttrage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Neo-Aufputsch-Energie"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nestball"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pepper"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rockos Erkundung"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sonderbonbon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tausch"
+        },
+        {
+          "Count": 2,
+          "CardName": "Technische Madchine: Entwicklung"
+        },
+        {
+          "Count": 2,
+          "CardName": "Technische Maschine: R&#252;ckentwicklunh"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Caroline Tinz",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.55555556,
+      "GWP": 0.85714286,
+      "OGWP": 0.6031746
+    },
+    {
+      "Rank": 2,
+      "Player": "MrH",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.71428571,
+      "OGWP": 0.61904762
+    },
+    {
+      "Rank": 3,
+      "Player": "VoyZ",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.55555556,
+      "GWP": 0.66666667,
+      "OGWP": 0.50793651
+    },
+    {
+      "Rank": 4,
+      "Player": "Hayz57",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.66666667,
+      "OGWP": 0.52380952
+    },
+    {
+      "Rank": 5,
+      "Player": "Donnie",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.42857143,
+      "OGWP": 0.5952381
+    },
+    {
+      "Rank": 6,
+      "Player": "maxsch39",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.33333333,
+      "OGWP": 0.66666667
+    },
+    {
+      "Rank": 7,
+      "Player": "3UhrMorgensEnergie",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.55555556,
+      "GWP": 0.33333333,
+      "OGWP": 0.6031746
+    }
+  ]
+}

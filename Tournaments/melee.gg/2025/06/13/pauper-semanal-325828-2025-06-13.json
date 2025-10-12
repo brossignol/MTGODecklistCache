@@ -1,0 +1,151 @@
+{
+  "Tournament": {
+    "Date": "2025-06-13T23:10:00Z",
+    "Name": "Pauper Semanal",
+    "Uri": "https://melee.gg/Tournament/View/325828"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Felipe Saito",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8a035c23-6d4a-4009-9a02-b2fb0162fa38",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "emerson durante",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/61c7f703-3ef8-4031-a1fa-b2fb0165e249",
+      "Mainboard": [
+        {
+          "Count": 60,
+          "CardName": "Mountain"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Guilherme balzana",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/7acfe448-8d5a-4f58-908b-b2fb01756913",
+      "Mainboard": [],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "DrJozeca",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.45833333,
+      "GWP": 0.63636364,
+      "OGWP": 0.50189394
+    },
+    {
+      "Rank": 2,
+      "Player": "Felipe Barreto",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.63636364,
+      "OGWP": 0.56439394
+    },
+    {
+      "Rank": 3,
+      "Player": "Indiano",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.66666667,
+      "OGWP": 0.50189394
+    },
+    {
+      "Rank": 4,
+      "Player": "JARS_MatheusAlves",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.5,
+      "OGWP": 0.52272727
+    },
+    {
+      "Rank": 5,
+      "Player": "Felipe Saito",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.45454545,
+      "OGWP": 0.52083333
+    },
+    {
+      "Rank": 6,
+      "Player": "emerson durante",
+      "Points": 5,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.49747475
+    },
+    {
+      "Rank": 7,
+      "Player": "LionDorta1",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.58333333,
+      "GWP": 0.45454545,
+      "OGWP": 0.52651515
+    },
+    {
+      "Rank": 8,
+      "Player": "Guilherme balzana",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.36111111,
+      "GWP": 0.44444444,
+      "OGWP": 0.41666667
+    },
+    {
+      "Rank": 9,
+      "Player": "Paulo Lencioni",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.41666667,
+      "OGWP": 0.55050505
+    },
+    {
+      "Rank": 10,
+      "Player": "Daniel Andrade",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.38888889,
+      "GWP": 0.16666667,
+      "OGWP": 0.46632997
+    }
+  ]
+}

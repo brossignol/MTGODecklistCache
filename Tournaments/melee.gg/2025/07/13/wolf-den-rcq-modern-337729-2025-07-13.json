@@ -1,0 +1,230 @@
+{
+  "Tournament": {
+    "Date": "2025-07-13T17:00:00Z",
+    "Name": "Wolf Den RCQ Modern",
+    "Uri": "https://melee.gg/Tournament/View/337729"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "biggred369",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1605e6f4-8102-4568-b44f-b319010ba552",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Archive Trap"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crypt Incursion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drown in the Loch"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 3,
+          "CardName": "Field of Ruin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fractured Sanity"
+        },
+        {
+          "Count": 2,
+          "CardName": "Glimpse the Unthinkable"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hedron Crab"
+        },
+        {
+          "Count": 4,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Oboro, Palace in the Clouds"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 2,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ruin Crab"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shelldock Isle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tasha&#39;s Hideous Laughter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 2,
+          "CardName": "Visions of Beyond"
+        },
+        {
+          "Count": 2,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Baleful Mastery"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crypt Incursion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ensnaring Bridge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Extirpate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Glimpse the Unthinkable"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mind Funeral"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Meathook Massacre"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "JohnW1",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 1.0,
+      "OGWP": 0.46666667
+    },
+    {
+      "Rank": 2,
+      "Player": "Tyler Bird",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.66666667,
+      "OGWP": 0.57777778
+    },
+    {
+      "Rank": 3,
+      "Player": "Dylan Pruitt",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.4,
+      "OGWP": 0.66666667
+    },
+    {
+      "Rank": 4,
+      "Player": "biggred369",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.4,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 5,
+      "Player": "Vincent Bumm",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 1.0,
+      "GWP": 0.0,
+      "OGWP": 1.0
+    },
+    {
+      "Rank": 6,
+      "Player": "Tanner Hogan",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.0,
+      "OGWP": 0.66666667
+    },
+    {
+      "Rank": 7,
+      "Player": "Simon Gonzales",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.33333333,
+      "OGWP": 0.4
+    },
+    {
+      "Rank": 8,
+      "Player": "RedLeader",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.33333333,
+      "OGWP": 0.4
+    }
+  ]
+}

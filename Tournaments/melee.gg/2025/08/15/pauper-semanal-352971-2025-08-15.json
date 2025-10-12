@@ -1,0 +1,281 @@
+{
+  "Tournament": {
+    "Date": "2025-08-15T23:20:00Z",
+    "Name": "Pauper Semanal",
+    "Uri": "https://melee.gg/Tournament/View/352971"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Kirby47",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1a944086-31fa-41d1-bb3d-b33a017e5774",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "LunaSophy",
+      "Result": "9th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8e5e3a0e-1d27-4f4c-9082-b33a01757b39",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Black Mage&#39;s Rod"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eviscerator&#39;s Insight"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mistvault Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Myr Enforcer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Reckoner&#39;s Bargain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seat of the Synod"
+        },
+        {
+          "Count": 2,
+          "CardName": "Silverbluff Bridge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxin Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vault of Whispers"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gorilla Shaman"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unexpected Fangs"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Kirby47",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.55555556,
+      "GWP": 0.77777778,
+      "OGWP": 0.53703704
+    },
+    {
+      "Rank": 2,
+      "Player": "BoletoAgiota",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.77777778,
+      "OGWP": 0.47222222
+    },
+    {
+      "Rank": 3,
+      "Player": "Jonathan Jansen",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.77777778,
+      "OGWP": 0.43055556
+    },
+    {
+      "Rank": 4,
+      "Player": "Derrom",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.77777778,
+      "OGWP": 0.39930556
+    },
+    {
+      "Rank": 5,
+      "Player": "DrJozeca",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.58333333,
+      "OGWP": 0.43055556
+    },
+    {
+      "Rank": 6,
+      "Player": "Daniel Andrade",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.70833333,
+      "GWP": 0.44444444,
+      "OGWP": 0.64583333
+    },
+    {
+      "Rank": 7,
+      "Player": "BRUNONOGUEIRAPEDRO",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.5,
+      "OGWP": 0.62847222
+    },
+    {
+      "Rank": 8,
+      "Player": "Armindo Aubuquerque",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.44444444,
+      "OGWP": 0.58333333
+    },
+    {
+      "Rank": 9,
+      "Player": "LunaSophy",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.61111111,
+      "GWP": 0.44444444,
+      "OGWP": 0.5787037
+    },
+    {
+      "Rank": 10,
+      "Player": "JoaoDomingues",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.52777778,
+      "GWP": 0.375,
+      "OGWP": 0.57407407
+    },
+    {
+      "Rank": 11,
+      "Player": "Paulo Lencioni",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.25,
+      "OGWP": 0.62962963
+    },
+    {
+      "Rank": 12,
+      "Player": "PrimoShow",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.33333333,
+      "OGWP": 0.53472222
+    },
+    {
+      "Rank": 13,
+      "Player": "Tiago Santos",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.25,
+      "OGWP": 0.55555556
+    }
+  ]
+}

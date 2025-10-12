@@ -1,0 +1,244 @@
+{
+  "Tournament": {
+    "Date": "2025-06-11T12:15:00Z",
+    "Name": "Weekday Night Magic",
+    "Uri": "https://melee.gg/Tournament/View/318694"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "SB36",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/55dfb643-8682-473f-8baf-b2ef005a4e7f",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Blooming Marsh"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boggart Trawler"
+        },
+        {
+          "Count": 3,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dedicated Dollmaker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elenda, Saint of Dusk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emperor of Bones"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 1,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 2,
+          "CardName": "Juggernaut Peddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mana Confluence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Oath of Nissa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overlord of the Balemurk"
+        },
+        {
+          "Count": 3,
+          "CardName": "Razorverge Thicket"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sorin, Imperious Bloodlord"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vein Ripper"
+        },
+        {
+          "Count": 2,
+          "CardName": "Witch Enchanter"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Culling Ritual"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fragment Reality"
+        },
+        {
+          "Count": 2,
+          "CardName": "Haywire Mite"
+        },
+        {
+          "Count": 2,
+          "CardName": "Juggernaut Peddler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stone of Erech"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxic Deluge"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "SB36",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.44444444,
+      "GWP": 0.85714286,
+      "OGWP": 0.40277778
+    },
+    {
+      "Rank": 2,
+      "Player": "to-poi",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.5,
+      "OGWP": 0.64880952
+    },
+    {
+      "Rank": 3,
+      "Player": "steamgunner",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.44444444,
+      "GWP": 0.71428571,
+      "OGWP": 0.38888889
+    },
+    {
+      "Rank": 4,
+      "Player": "DAiWA3",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.44444444,
+      "GWP": 0.66666667,
+      "OGWP": 0.4265873
+    },
+    {
+      "Rank": 5,
+      "Player": "harayuito",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.44444444,
+      "GWP": 0.57142857,
+      "OGWP": 0.51388889
+    },
+    {
+      "Rank": 6,
+      "Player": "aqua haruka#50863",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.77777778,
+      "GWP": 0.33333333,
+      "OGWP": 0.74603175
+    },
+    {
+      "Rank": 7,
+      "Player": "煙狼鬼 #70904",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.375,
+      "OGWP": 0.67460317
+    },
+    {
+      "Rank": 8,
+      "Player": "K OHTA",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.55555556,
+      "GWP": 0.375,
+      "OGWP": 0.46825397
+    },
+    {
+      "Rank": 9,
+      "Player": "agesZ #84443",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.47321429
+    },
+    {
+      "Rank": 10,
+      "Player": "ジル 鮫梨",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.2,
+      "OGWP": 0.54464286
+    }
+  ]
+}

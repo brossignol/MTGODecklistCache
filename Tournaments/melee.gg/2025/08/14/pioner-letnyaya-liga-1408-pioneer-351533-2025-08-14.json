@@ -1,0 +1,263 @@
+{
+  "Tournament": {
+    "Date": "2025-08-14T16:00:00Z",
+    "Name": "Пионер. Летняя Лига (14.08)",
+    "Uri": "https://melee.gg/Tournament/View/351533"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Alexander Buslavsky",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/f6822be2-67c1-480e-9b43-b3390104f473",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "NickLatkovich",
+      "Result": "11th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1deedef1-a407-466f-9e7c-b33900ef7c96",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brightclimb Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fleeting Spirit"
+        },
+        {
+          "Count": 2,
+          "CardName": "Geier Reach Sanitarium"
+        },
+        {
+          "Count": 4,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Greasefang, Okiba Boss"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guardian of New Benalia"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monument to Endurance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Overlord of the Balemurk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Parhelion II"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seasoned Hallowblade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shattered Sanctum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Takenuma, Abandoned Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Mycosynth Gardens"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Doorkeeper Thrull"
+        },
+        {
+          "Count": 4,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Go Blank"
+        },
+        {
+          "Count": 1,
+          "CardName": "Knockout Blow"
+        },
+        {
+          "Count": 2,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unlicensed Hearse"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vanishing Verse"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "ispinyouround",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.54166667,
+      "GWP": 0.66666667,
+      "OGWP": 0.54166667
+    },
+    {
+      "Rank": 2,
+      "Player": "vorotinskyV",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.6,
+      "OGWP": 0.52777778
+    },
+    {
+      "Rank": 3,
+      "Player": "Yauheni Ihnatsik",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.58333333,
+      "OGWP": 0.58333333
+    },
+    {
+      "Rank": 4,
+      "Player": "GlebK",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.7,
+      "OGWP": 0.48737374
+    },
+    {
+      "Rank": 5,
+      "Player": "Aleksei Raptunovich",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.60416667,
+      "GWP": 0.63333333,
+      "OGWP": 0.50694444
+    },
+    {
+      "Rank": 6,
+      "Player": "Rostislav Brozhat",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.54545455,
+      "OGWP": 0.62777778
+    },
+    {
+      "Rank": 7,
+      "Player": "Alexander Buslavsky",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.55555556,
+      "GWP": 0.6,
+      "OGWP": 0.48148148
+    },
+    {
+      "Rank": 8,
+      "Player": "Dukalis1985",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.44444444,
+      "OGWP": 0.54166667
+    },
+    {
+      "Rank": 9,
+      "Player": "Roman_B",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.45454545,
+      "OGWP": 0.50555556
+    },
+    {
+      "Rank": 10,
+      "Player": "gerber2000",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.25,
+      "OGWP": 0.56666667
+    },
+    {
+      "Rank": 11,
+      "Player": "NickLatkovich",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3,
+      "OGWP": 0.47474747
+    }
+  ]
+}

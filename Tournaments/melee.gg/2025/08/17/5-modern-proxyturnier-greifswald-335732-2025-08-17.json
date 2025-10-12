@@ -1,0 +1,386 @@
+{
+  "Tournament": {
+    "Date": "2025-08-17T10:45:00Z",
+    "Name": "5. Modern Proxy-Turnier Greifswald",
+    "Uri": "https://melee.gg/Tournament/View/335732"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Rottaube",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/2831f6cb-d21a-4712-8ed0-b33a00bd5a82",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aftermath Analyst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Amulet of Vigor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Crumbling Vestige"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cultivator Colossus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 1,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 4,
+          "CardName": "Explore"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gruul Turf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hanweir Battlements"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotus Field"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mirrorpool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Primeval Titan"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scapeshift"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shifting Woodland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spelunking"
+        },
+        {
+          "Count": 3,
+          "CardName": "Summoner&#39;s Pact"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tolaria West"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vesuva"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 2,
+          "CardName": "Firespout"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Six"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tireless Tracker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Kaulz",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/d2d5fbbd-f007-4a27-9e53-b33901276bd2",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chainsaw"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eidolon of the Great Revel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fanatic of Mogis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flare of Duplication"
+        },
+        {
+          "Count": 2,
+          "CardName": "Heartlash Cinder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Insolent Neonate"
+        },
+        {
+          "Count": 3,
+          "CardName": "Legion&#39;s Initiative"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of Combustion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Leyline of Punishment"
+        },
+        {
+          "Count": 1,
+          "CardName": "Leyline of Resonance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mogg Mob"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nykthos, Shrine to Nyx"
+        },
+        {
+          "Count": 2,
+          "CardName": "Oliphaunt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Raubahn, Bull of Ala Mhigo"
+        },
+        {
+          "Count": 4,
+          "CardName": "Razorkin Needlehead"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seal of Fire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sevinne&#39;s Reclamation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Touch the Spirit Realm"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Banefire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brotherhood&#39;s End"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flare of Duplication"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harsh Mentor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Leyline of Punishment"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meltdown"
+        },
+        {
+          "Count": 1,
+          "CardName": "Roiling Vortex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spirit of the Labyrinth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sudden Shock"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tunnel Ignus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Untimely Malfunction"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Chris Berg",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.45833333,
+      "GWP": 0.66666667,
+      "OGWP": 0.51388889
+    },
+    {
+      "Rank": 2,
+      "Player": "robzen",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.55555556,
+      "OGWP": 0.55277778
+    },
+    {
+      "Rank": 3,
+      "Player": "Rottaube",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.5,
+      "OGWP": 0.56666667
+    },
+    {
+      "Rank": 4,
+      "Player": "PeterderRote",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.6,
+      "OGWP": 0.53055556
+    },
+    {
+      "Rank": 5,
+      "Player": "ZeroFate",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.44444444,
+      "GWP": 0.44444444,
+      "OGWP": 0.48518519
+    },
+    {
+      "Rank": 6,
+      "Player": "Kaulz",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.4,
+      "OGWP": 0.57037037
+    }
+  ]
+}

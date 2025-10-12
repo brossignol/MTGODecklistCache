@@ -1,0 +1,231 @@
+{
+  "Tournament": {
+    "Date": "2025-09-13T08:00:00Z",
+    "Name": "TUMULT CHAMPIONSHIP 3 - 13 DE SEPTIEMBRE DE 2025",
+    "Uri": "https://melee.gg/Tournament/View/353999"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Synjer",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/2253a601-9dbe-4a31-9874-b357007bf170",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Basira &amp; kaizaimon"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Akhlut R"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "SusoTCG",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/7a05d246-b65b-4e40-8aa9-b35700836053",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "CheManGar",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/da75d1db-4079-4f31-a6fb-b35600fadd96",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_LY_32_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_ALIZE_B_LY_41_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_BISE_B_LY_53_R1"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_BISE_B_LY_55_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_BISE_B_LY_60_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_BISE_B_LY_61_R1"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_LY_01_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_LY_04_R1"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_LY_06_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_LY_07_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_LY_09_C"
+        },
+        {
+          "Count": 3,
+          "CardName": "ALT_CORE_B_LY_10_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_LY_17_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_LY_24_C"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_CORE_B_YZ_07_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_YZ_19_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_CORE_B_YZ_21_R2"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_LY_04_R1"
+        },
+        {
+          "Count": 2,
+          "CardName": "ALT_COREKS_B_LY_07_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_LY_09_C"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_YZ_07_R2"
+        },
+        {
+          "Count": 1,
+          "CardName": "ALT_COREKS_B_YZ_19_R2"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Cece3mtez",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/67cfcf4a-b000-4272-9997-b34b012b4126",
+      "Mainboard": [],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "FraNico",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54333333,
+      "GWP": 0.83333333,
+      "OGWP": 0.54333333
+    },
+    {
+      "Rank": 2,
+      "Player": "Synjer",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.49333333,
+      "GWP": 0.66666667,
+      "OGWP": 0.49333333
+    },
+    {
+      "Rank": 3,
+      "Player": "SusoTCG",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.4,
+      "OGWP": 0.58333333
+    },
+    {
+      "Rank": 4,
+      "Player": "Jazzzz",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.53333333,
+      "GWP": 0.4,
+      "OGWP": 0.53333333
+    },
+    {
+      "Rank": 5,
+      "Player": "davidgab",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.51666667,
+      "GWP": 0.75,
+      "OGWP": 0.51666667
+    },
+    {
+      "Rank": 6,
+      "Player": "CheManGar",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6625,
+      "GWP": 0.5,
+      "OGWP": 0.6625
+    },
+    {
+      "Rank": 7,
+      "Player": "Antuay",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47083333,
+      "GWP": 0.33333333,
+      "OGWP": 0.47083333
+    },
+    {
+      "Rank": 8,
+      "Player": "Cece3mtez",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.45,
+      "GWP": 0.33333333,
+      "OGWP": 0.45
+    }
+  ]
+}

@@ -1,0 +1,1123 @@
+{
+  "Tournament": {
+    "Date": "2025-09-14T14:00:00Z",
+    "Name": "1º ABERTO - POKEMON TCG",
+    "Uri": "https://melee.gg/Tournament/View/362564"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Ucha",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/c60815f0-a42d-4f15-83c0-b35800e1563e",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Basic {P} Energy SVE 13"
+        },
+        {
+          "Count": 1,
+          "CardName": "Basic {R} Energy SVE 10"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bloodmoon Ursaluna ex TWM 141"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boss&#39;s Orders PAL 172"
+        },
+        {
+          "Count": 4,
+          "CardName": "Buddy-Buddy Poffin TEF 144"
+        },
+        {
+          "Count": 2,
+          "CardName": "Budew PRE 4"
+        },
+        {
+          "Count": 3,
+          "CardName": "Counter Catcher PAR 160"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dragapult ex TWM 130"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drakloak TWM 129"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dreepy TWM 128"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dusclops PRE 36"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dusknoir PRE 37"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duskull PRE 35"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fezandipiti ex SFA 38"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hawlucha SVI 118"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hilda WHT 84"
+        },
+        {
+          "Count": 4,
+          "CardName": "Iono PAL 185"
+        },
+        {
+          "Count": 2,
+          "CardName": "Jamming Tower TWM 153"
+        },
+        {
+          "Count": 1,
+          "CardName": "Latias ex SSP 76"
+        },
+        {
+          "Count": 3,
+          "CardName": "Luminous Energy PAL 191"
+        },
+        {
+          "Count": 1,
+          "CardName": "Munkidori TWM 95"
+        },
+        {
+          "Count": 1,
+          "CardName": "Neo Upper Energy TEF 162"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nest Ball SVI 181"
+        },
+        {
+          "Count": 4,
+          "CardName": "Night Stretcher SFA 61"
+        },
+        {
+          "Count": 4,
+          "CardName": "Professor&#39;s Research JTG 155"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ultra Ball SVI 196"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Digaoomestre",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/c0cafa2c-fb07-489c-a019-b35800d14908",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Fezandipiti ex SFA 38"
+        },
+        {
+          "Count": 1,
+          "CardName": "Galvantula SFA 2"
+        },
+        {
+          "Count": 1,
+          "CardName": "Genesect ex BLK 67"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gholdengo ex PAR 139"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gimmighoul SSP 97"
+        },
+        {
+          "Count": 2,
+          "CardName": "Iron Hands ex PRE 31"
+        },
+        {
+          "Count": 2,
+          "CardName": "Joltik SCR 50"
+        },
+        {
+          "Count": 1,
+          "CardName": "Latias ex SSP 76"
+        },
+        {
+          "Count": 1,
+          "CardName": "Miraidon ex SVI 81"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pikachu ex SSP 57"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Air Balloon BLK 79"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arven OBF 186"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boss&#39;s Orders PAL 172"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bravery Charm PAL 173"
+        },
+        {
+          "Count": 3,
+          "CardName": "Brock&#39;s Scouting JTG 146"
+        },
+        {
+          "Count": 3,
+          "CardName": "Earthen Vessel PRE 106"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grass Energy SVE 9"
+        },
+        {
+          "Count": 1,
+          "CardName": "Iono PAF 80"
+        },
+        {
+          "Count": 2,
+          "CardName": "Levincia JTG 150"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Energy SVE 12"
+        },
+        {
+          "Count": 3,
+          "CardName": "Metal Energy SVE 16"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nest Ball PAF 84"
+        },
+        {
+          "Count": 1,
+          "CardName": "Penny SVI 183"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pok&#233;gear 3.0 BLK 84"
+        },
+        {
+          "Count": 1,
+          "CardName": "Precious Trolley SSP 185"
+        },
+        {
+          "Count": 1,
+          "CardName": "Professor Turo&#39;s Scenario PRE 121"
+        },
+        {
+          "Count": 1,
+          "CardName": "Super Rod PAL 188"
+        },
+        {
+          "Count": 3,
+          "CardName": "Superior Energy Retrieval PAL 189"
+        },
+        {
+          "Count": 1,
+          "CardName": "Team Rocket&#39;s Petrel DRI 176"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Hugo Paiva",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/9115a585-4398-4234-9151-b35800d7090e",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Bloodmoon Ursaluna ex TWM 202"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cornerstone Mask Ogerpon ex PRE 58"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ditto PAF 201"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fan Rotom PRE 85"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fezandipiti ex SFA 92"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hoothoot PRE 77"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hoothoot SCR 114"
+        },
+        {
+          "Count": 1,
+          "CardName": "Koraidon SSP 116"
+        },
+        {
+          "Count": 1,
+          "CardName": "Latias ex SSP 220"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mew ex PAF 216"
+        },
+        {
+          "Count": 3,
+          "CardName": "Noctowl PR-SV 141"
+        },
+        {
+          "Count": 2,
+          "CardName": "Raging Bolt ex TEF 196"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raging Bolt SCR 111"
+        },
+        {
+          "Count": 1,
+          "CardName": "Squawkabilly ex PAF 223"
+        },
+        {
+          "Count": 3,
+          "CardName": "Teal Mask Ogerpon ex TWM 211"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Area Zero Underdepths SCR 174"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boss&#39;s Orders RCL 189"
+        },
+        {
+          "Count": 1,
+          "CardName": "Briar SCR 163"
+        },
+        {
+          "Count": 2,
+          "CardName": "Crispin SCR 164"
+        },
+        {
+          "Count": 3,
+          "CardName": "Earthen Vessel SFA 96"
+        },
+        {
+          "Count": 1,
+          "CardName": "Energy Retrieval WHT 82"
+        },
+        {
+          "Count": 1,
+          "CardName": "Energy Switch SIT 212"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fighting Energy SVI 258"
+        },
+        {
+          "Count": 5,
+          "CardName": "Grass Energy PAL 278"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jamming Tower DRI 243"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Energy SVI 257"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nest Ball SVI 255"
+        },
+        {
+          "Count": 2,
+          "CardName": "Night Stretcher SSP 251"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prime Catcher PRE 119"
+        },
+        {
+          "Count": 4,
+          "CardName": "Professor Sada&#39;s Vitality PAR 239"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ultra Ball BRS 186"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "GuilhermeBaldini",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/533dcd35-70b9-4eac-99a6-b3570106b28e",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Fezandipiti ex SFA 38"
+        },
+        {
+          "Count": 2,
+          "CardName": "Genesect ex BLK 67"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gholdengo ex PAR 139"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gholdengo ex PAR 231"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gimmighoul SSP 97"
+        },
+        {
+          "Count": 1,
+          "CardName": "Munkidori PRE 44"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scizor OBF 141"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scyther MEW 123"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Air Balloon BLK 79"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arven OBF 186"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boss&#39;s Orders PAL 172"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boss&#39;s Orders SHF 58"
+        },
+        {
+          "Count": 4,
+          "CardName": "Buddy-Buddy Poffin PRE 101"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ciphermaniac&#39;s Codebreaking PRE 104"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ciphermaniac&#39;s Codebreaking TEF 198"
+        },
+        {
+          "Count": 2,
+          "CardName": "Counter Catcher PAR 160"
+        },
+        {
+          "Count": 1,
+          "CardName": "Darkness Energy SVE 7"
+        },
+        {
+          "Count": 1,
+          "CardName": "Earthen Vessel PRE 106"
+        },
+        {
+          "Count": 1,
+          "CardName": "Energy Retrieval WHT 82"
+        },
+        {
+          "Count": 1,
+          "CardName": "Energy Search Pro SSP 176"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fighting Energy SVE 6"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Energy SVE 2"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grass Energy SVE 1"
+        },
+        {
+          "Count": 1,
+          "CardName": "Levincia JTG 150"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lightning Energy SVE 4"
+        },
+        {
+          "Count": 3,
+          "CardName": "Metal Energy SVE 8"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nest Ball PAF 84"
+        },
+        {
+          "Count": 2,
+          "CardName": "Night Stretcher SFA 61"
+        },
+        {
+          "Count": 1,
+          "CardName": "Professor Turo&#39;s Scenario PRE 121"
+        },
+        {
+          "Count": 1,
+          "CardName": "Psychic Energy SVE 5"
+        },
+        {
+          "Count": 4,
+          "CardName": "Superior Energy Retrieval PAL 189"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tool Scrapper WHT 85"
+        },
+        {
+          "Count": 1,
+          "CardName": "Water Energy SVE 3"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "CassioH",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e5e83c56-9ef8-4635-86b8-b35800e37d48",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Bloodmoon Ursaluna ex TWM 141"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fezandipiti ex SFA 38"
+        },
+        {
+          "Count": 1,
+          "CardName": "Munkidori TWM 95"
+        },
+        {
+          "Count": 1,
+          "CardName": "N&#39;s Darmanitan JTG 27"
+        },
+        {
+          "Count": 2,
+          "CardName": "N&#39;s Darumaka JTG 26"
+        },
+        {
+          "Count": 2,
+          "CardName": "N&#39;s Reshiram JTG 116"
+        },
+        {
+          "Count": 4,
+          "CardName": "N&#39;s Zoroark ex JTG 98"
+        },
+        {
+          "Count": 4,
+          "CardName": "N&#39;s Zorua JTG 97"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pecharunt ex SFA 39"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Artazon PAF 76"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arven OBF 186"
+        },
+        {
+          "Count": 1,
+          "CardName": "Binding Mochi PRE 95"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boss&#39;s Orders PAL 172"
+        },
+        {
+          "Count": 3,
+          "CardName": "Buddy-Buddy Poffin TEF 144"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ciphermaniac&#39;s Codebreaking PRE 104"
+        },
+        {
+          "Count": 2,
+          "CardName": "Counter Catcher PAR 160"
+        },
+        {
+          "Count": 6,
+          "CardName": "Darkness Energy SVE 15"
+        },
+        {
+          "Count": 1,
+          "CardName": "Defiance Band SVI 169"
+        },
+        {
+          "Count": 1,
+          "CardName": "Earthen Vessel PAR 163"
+        },
+        {
+          "Count": 1,
+          "CardName": "Energy Switch SVI 173"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hilda WHT 84"
+        },
+        {
+          "Count": 2,
+          "CardName": "Iono PAL 185"
+        },
+        {
+          "Count": 1,
+          "CardName": "Janine&#39;s Secret Art PRE 112"
+        },
+        {
+          "Count": 2,
+          "CardName": "N&#39;s Castle JTG 152"
+        },
+        {
+          "Count": 2,
+          "CardName": "N&#39;s PP Up JTG 153"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nest Ball SVI 181"
+        },
+        {
+          "Count": 1,
+          "CardName": "Night Stretcher SFA 61"
+        },
+        {
+          "Count": 1,
+          "CardName": "Professor Turo&#39;s Scenario PAR 171"
+        },
+        {
+          "Count": 1,
+          "CardName": "Reversal Energy PAR 266"
+        },
+        {
+          "Count": 2,
+          "CardName": "Super Rod PAL 188"
+        },
+        {
+          "Count": 2,
+          "CardName": "Technical Machine: Evolution PAR 178"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ultra Ball SVI 196"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unfair Stamp TWM 165"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "MissLP",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/f06b5b25-2fab-4248-9a4b-b35700f8ce7a",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Aventura do Ethan"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bola de Ninho"
+        },
+        {
+          "Count": 10,
+          "CardName": "Energia Fogo B&#225;sica"
+        },
+        {
+          "Count": 1,
+          "CardName": "Esp&#237;rito de Luta da Iris"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fezandipiti ex     SFA-84_PTBR : H Fezandipiti ex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ho-Oh ex do Ethan     DRI-209_PTBR : I Ethan&#39;s Ho-Oh ex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ho-Oh ex do Ethan     DRI-230_PTBR : I Ethan&#39;s Ho-Oh ex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ho-Oh ex do Ethan     DRI-39_PTBR : I Ethan&#39;s Ho-Oh ex"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kissera"
+        },
+        {
+          "Count": 1,
+          "CardName": "M&#233;lia"
+        },
+        {
+          "Count": 2,
+          "CardName": "Maca Noturna"
+        },
+        {
+          "Count": 3,
+          "CardName": "Magcargo do Ethan     DRI-36_PTBR : I Ethan&#39;s Magcargo"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mew ex     MEW-151_PTBR : G Mew ex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mew ex     MEW-205_PTBR : G Mew ex"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ordem da Chefia"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pegador Superior"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pesquisa de Professores"
+        },
+        {
+          "Count": 3,
+          "CardName": "Recipiente Terrestre"
+        },
+        {
+          "Count": 2,
+          "CardName": "Recupera&#231;&#227;o de Energia"
+        },
+        {
+          "Count": 4,
+          "CardName": "Recupera&#231;&#227;o de Energia Superior"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slugma do Ethan     DRI-35_PTBR : I Ethan&#39;s Slugma"
+        },
+        {
+          "Count": 1,
+          "CardName": "Substitui&#231;&#227;o"
+        },
+        {
+          "Count": 1,
+          "CardName": "Supervara"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torre de Interfer&#234;ncia"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ultra Bola"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "vellstone",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/edd00738-6044-48c4-8dcf-b35800c0520f",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Bloodmoon Ursaluna ex TWM 141"
+        },
+        {
+          "Count": 2,
+          "CardName": "Froslass TWM 53"
+        },
+        {
+          "Count": 1,
+          "CardName": "Iron Bundle PAR 56"
+        },
+        {
+          "Count": 1,
+          "CardName": "Maractus JTG 8"
+        },
+        {
+          "Count": 2,
+          "CardName": "Marnie&#39;s Grimmsnarl ex DRI 136"
+        },
+        {
+          "Count": 3,
+          "CardName": "Marnie&#39;s Impidimp DRI 134"
+        },
+        {
+          "Count": 2,
+          "CardName": "Marnie&#39;s Morgrem DRI 135"
+        },
+        {
+          "Count": 3,
+          "CardName": "Munkidori TWM 95"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shaymin DRI 10"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snorunt TWM 51"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Air Balloon BLK 79"
+        },
+        {
+          "Count": 1,
+          "CardName": "Artazon PAL 171"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arven OBF 186"
+        },
+        {
+          "Count": 3,
+          "CardName": "Arven SVI 166"
+        },
+        {
+          "Count": 8,
+          "CardName": "Basic {D} Energy SVE 15"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boss&#39;s Orders PAL 172"
+        },
+        {
+          "Count": 2,
+          "CardName": "Buddy-Buddy Poffin TEF 144"
+        },
+        {
+          "Count": 2,
+          "CardName": "Counter Catcher PAR 160"
+        },
+        {
+          "Count": 1,
+          "CardName": "Energy Search SVI 172"
+        },
+        {
+          "Count": 1,
+          "CardName": "Energy Switch SVI 173"
+        },
+        {
+          "Count": 4,
+          "CardName": "Iono PAL 185"
+        },
+        {
+          "Count": 2,
+          "CardName": "Night Stretcher SFA 61"
+        },
+        {
+          "Count": 3,
+          "CardName": "Professor&#39;s Research JTG 155"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rare Candy SVI 191"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spikemuth Gym DRI 169"
+        },
+        {
+          "Count": 1,
+          "CardName": "Super Rod PAL 188"
+        },
+        {
+          "Count": 1,
+          "CardName": "Technical Machine: Devolution PAR 177"
+        },
+        {
+          "Count": 2,
+          "CardName": "Technical Machine: Evolution PAR 178"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ultra Ball SVI 196"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unfair Stamp TWM 165"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "ivanphilos",
+      "Result": "10th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/f8b86581-35ca-4aa5-94d2-b35800e19a64",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Artazon PAL 171"
+        },
+        {
+          "Count": 3,
+          "CardName": "Counter Catcher PAR 160"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crushing Hammer SVI 168"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dudunsparce TEF 129/pre080"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dunsparce JTG 120"
+        },
+        {
+          "Count": 3,
+          "CardName": "Earthen Vessel PAR 163"
+        },
+        {
+          "Count": 4,
+          "CardName": "Explorer&#39;s Guidance TEF 147"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fan Rotom SCR 118/pre 085"
+        },
+        {
+          "Count": 7,
+          "CardName": "Fighting Energy SVE 14"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Tusk TEF 97/pre 055"
+        },
+        {
+          "Count": 3,
+          "CardName": "Handheld Fan TWM 150"
+        },
+        {
+          "Count": 2,
+          "CardName": "Jet Energy PAL 190"
+        },
+        {
+          "Count": 1,
+          "CardName": "martelo avan&#231;ado TWM 224"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mimikyu SVP 075"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nest Ball SVI 181"
+        },
+        {
+          "Count": 1,
+          "CardName": "Neutralization Zone SFA 60"
+        },
+        {
+          "Count": 1,
+          "CardName": "Night Stretcher SFA 61"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pal Pad SVI 182"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pok&#233;gear 3.0 SVI 186"
+        },
+        {
+          "Count": 4,
+          "CardName": "Professor Sada&#39;s Vitality PAR 170"
+        },
+        {
+          "Count": 1,
+          "CardName": "Redeemable Ticket JTG 156"
+        },
+        {
+          "Count": 2,
+          "CardName": "Super Rod PAL 188"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ultra Ball SVI 196"
+        },
+        {
+          "Count": 1,
+          "CardName": "Xerosic&#39;s Machinations SFA 64"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Ucha",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.77777778,
+      "OGWP": 0.52430556
+    },
+    {
+      "Rank": 2,
+      "Player": "Digaoomestre",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.66666667,
+      "OGWP": 0.51388889
+    },
+    {
+      "Rank": 3,
+      "Player": "Hugo Paiva",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.47916667,
+      "GWP": 0.55555556,
+      "OGWP": 0.54513889
+    },
+    {
+      "Rank": 4,
+      "Player": "GuilhermeBaldini",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.5,
+      "OGWP": 0.62152778
+    },
+    {
+      "Rank": 5,
+      "Player": "CassioH",
+      "Points": 6,
+      "Wins": 1,
+      "Losses": 0,
+      "Draws": 3,
+      "OMWP": 0.39583333,
+      "GWP": 0.625,
+      "OGWP": 0.42708333
+    },
+    {
+      "Rank": 6,
+      "Player": "JOO355080",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.38888889,
+      "GWP": 0.66666667,
+      "OGWP": 0.42592593
+    },
+    {
+      "Rank": 7,
+      "Player": "MissLP",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.625,
+      "GWP": 0.44444444,
+      "OGWP": 0.62847222
+    },
+    {
+      "Rank": 8,
+      "Player": "vellstone",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.52083333,
+      "GWP": 0.375,
+      "OGWP": 0.55902778
+    },
+    {
+      "Rank": 9,
+      "Player": "QTL674560",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.44444444,
+      "GWP": 0.33333333,
+      "OGWP": 0.45833333
+    },
+    {
+      "Rank": 10,
+      "Player": "ivanphilos",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.33333333,
+      "OGWP": 0.54513889
+    }
+  ]
+}

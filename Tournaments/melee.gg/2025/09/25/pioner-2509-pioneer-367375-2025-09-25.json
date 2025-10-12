@@ -1,0 +1,382 @@
+{
+  "Tournament": {
+    "Date": "2025-09-25T16:00:00Z",
+    "Name": "Пионер (25.09)",
+    "Uri": "https://melee.gg/Tournament/View/367375"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Roman_B",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/fb5583c5-42cc-4fee-b100-b36300fb31c5",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aclazotz, Deepest Betrayal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Archfiend of the Dross"
+        },
+        {
+          "Count": 3,
+          "CardName": "Castle Locthwain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gifted Aetherborn"
+        },
+        {
+          "Count": 3,
+          "CardName": "Graveyard Trespasser"
+        },
+        {
+          "Count": 2,
+          "CardName": "Invoke Despair"
+        },
+        {
+          "Count": 3,
+          "CardName": "Liliana of the Veil"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mutavault"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheoldred&#39;s Edict"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sunset Saboteur"
+        },
+        {
+          "Count": 15,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Takenuma, Abandoned Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unholy Annex // Ritual Chamber"
+        },
+        {
+          "Count": 3,
+          "CardName": "Unstoppable Slasher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urborg, Tomb of Yawgmoth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Cecil, Dark Knight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extinction Event"
+        },
+        {
+          "Count": 1,
+          "CardName": "Go Blank"
+        },
+        {
+          "Count": 2,
+          "CardName": "Invoke Despair"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kalitas, Traitor of Ghet"
+        },
+        {
+          "Count": 2,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sheoldred, the Apocalypse"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Meathook Massacre"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "NickLatkovich",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/77c2de40-64ea-42cc-965a-b36300f89ecf",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Change the Equation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deduce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deserted Beach"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dovin&#39;s Veto"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Field of Ruin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Geier Reach Sanitarium"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Memory Deluge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 4,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 4,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seachrome Coast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Hero of Dominaria"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Wandering Emperor"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Change the Equation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Destroy Evil"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elspeth, Storm Slayer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Farewell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Roman_B",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.47916667,
+      "GWP": 0.7,
+      "OGWP": 0.48863636
+    },
+    {
+      "Rank": 2,
+      "Player": "vorotinskyV",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.63636364,
+      "OGWP": 0.49444444
+    },
+    {
+      "Rank": 3,
+      "Player": "Dukalis1985",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.45833333,
+      "GWP": 0.66666667,
+      "OGWP": 0.44444444
+    },
+    {
+      "Rank": 4,
+      "Player": "NickLatkovich",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.5,
+      "OGWP": 0.56388889
+    },
+    {
+      "Rank": 5,
+      "Player": "ispinyouround",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.5,
+      "OGWP": 0.52272727
+    },
+    {
+      "Rank": 6,
+      "Player": "SutkoA",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.44444444,
+      "OGWP": 0.46590909
+    },
+    {
+      "Rank": 7,
+      "Player": "Maxim Shagoiko",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.45454545,
+      "OGWP": 0.5020202
+    },
+    {
+      "Rank": 8,
+      "Player": "Alex Khan",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.47916667,
+      "GWP": 0.44444444,
+      "OGWP": 0.48863636
+    },
+    {
+      "Rank": 9,
+      "Player": "GlebK",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.3,
+      "OGWP": 0.56186869
+    },
+    {
+      "Rank": 10,
+      "Player": "Professor013",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.36363636,
+      "OGWP": 0.51085859
+    }
+  ]
+}

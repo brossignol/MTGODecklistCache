@@ -1,0 +1,424 @@
+{
+  "Tournament": {
+    "Date": "2025-07-18T23:20:00Z",
+    "Name": "Pauper Semanal",
+    "Uri": "https://melee.gg/Tournament/View/341470"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "RedTiago",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/62595cad-1b12-4b9b-9b23-b31e017ae936",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Artful Dodge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryptic Serpent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delver of Secrets"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dragon Wings"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force Spike"
+        },
+        {
+          "Count": 15,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "L&#243;rien Revealed"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 3,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "MateusQueiroz",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/5eb408dc-aba9-4d9d-9408-b31e0164c403",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Bind the Monster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brinebarrow Intruder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harrier Strix"
+        },
+        {
+          "Count": 18,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 4,
+          "CardName": "Of One Mind"
+        },
+        {
+          "Count": 3,
+          "CardName": "Snap"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snaremaster Sprite"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bind the Monster"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "LunaSophy",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/a2dfa1db-2a74-4082-b001-b31e01765fb4",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Balustrade Spy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dimir House Guard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dread Return"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dregscape Zombie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Exhume"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gatecreeper Vine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Land Grant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lead the Stampede"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotleth Giant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 3,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sakura-Tribe Elder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stormshriek Feral"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Troll of Khazad-d&#251;m"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Conjurer&#39;s Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crawl from the Cellar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Healer of the Glade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 1,
+          "CardName": "Songs of the Damned"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "peladohh",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.8,
+      "OGWP": 0.51190476
+    },
+    {
+      "Rank": 2,
+      "Player": "Gibastation",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.71428571,
+      "OGWP": 0.50833333
+    },
+    {
+      "Rank": 3,
+      "Player": "RedTiago",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.4,
+      "OGWP": 0.64220779
+    },
+    {
+      "Rank": 4,
+      "Player": "Maugust",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.6,
+      "OGWP": 0.56388889
+    },
+    {
+      "Rank": 5,
+      "Player": "Whenevar",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.5,
+      "OGWP": 0.55609668
+    },
+    {
+      "Rank": 6,
+      "Player": "MateusQueiroz",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.55555556,
+      "OGWP": 0.44166667
+    },
+    {
+      "Rank": 7,
+      "Player": "Daniel Andrade",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.5,
+      "OGWP": 0.44166667
+    },
+    {
+      "Rank": 8,
+      "Player": "LunaSophy",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.45454545,
+      "OGWP": 0.39166667
+    },
+    {
+      "Rank": 9,
+      "Player": "GilbertoAntunes",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.33333333,
+      "OGWP": 0.57752525
+    },
+    {
+      "Rank": 10,
+      "Player": "Kirby47",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.125,
+      "OGWP": 0.55609668
+    }
+  ]
+}

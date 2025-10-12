@@ -1,0 +1,476 @@
+{
+  "Tournament": {
+    "Date": "2025-06-26T16:00:00Z",
+    "Name": "Пионер. Летняя Лига (26.07)",
+    "Uri": "https://melee.gg/Tournament/View/330422"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "K1ppy",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/d9f32b51-d0ed-4cc1-9c14-b3080084a0ac",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrupt Decay"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ancient Cornucopia"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bleachbone Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bring to Light"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deafening Clarion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elenda, Saint of Dusk"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extinction Event"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hushwood Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Indatha Triome"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jetmir&#39;s Garden"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ketria Triome"
+        },
+        {
+          "Count": 1,
+          "CardName": "Knight of Autumn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kolaghan&#39;s Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Binding"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Helix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Maelstrom Pulse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nahiri, the Harbinger"
+        },
+        {
+          "Count": 2,
+          "CardName": "Niv-Mizzet Reborn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Niv-Mizzet, Supreme"
+        },
+        {
+          "Count": 2,
+          "CardName": "Omnath, Locus of Creation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Overlord of the Hauntwoods"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pillage the Bog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raffine&#39;s Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raugrin Triome"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Savai Triome"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spara&#39;s Headquarters"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunfall"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sylvan Caryatid"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thornspire Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Up the Beanstalk"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valki, God of Lies"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vanishing Verse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 1,
+          "CardName": "Xander&#39;s Lounge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zagoth Triome"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ziatora&#39;s Proving Ground"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ashiok, Dream Render"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deafening Clarion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dovin&#39;s Veto"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 1,
+          "CardName": "Notion Thief"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nowhere to Run"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pest Control"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unmoored Ego"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "MiFlyer",
+      "Result": "11th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e49482d4-6da1-4816-9a42-b30801035d2e",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Cacophony Scamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Callous Sell-Sword"
+        },
+        {
+          "Count": 4,
+          "CardName": "Heartfire Hero"
+        },
+        {
+          "Count": 3,
+          "CardName": "Kumano Faces Kakkazan"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of Resonance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lightning Strike"
+        },
+        {
+          "Count": 3,
+          "CardName": "Might of the Meek"
+        },
+        {
+          "Count": 3,
+          "CardName": "Monastery Swiftspear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monstrous Rage"
+        },
+        {
+          "Count": 16,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ramunap Ruins"
+        },
+        {
+          "Count": 3,
+          "CardName": "Screaming Nemesis"
+        },
+        {
+          "Count": 2,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thud"
+        },
+        {
+          "Count": 3,
+          "CardName": "Turn Inside Out"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 3,
+          "CardName": "Roiling Vortex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vengeful Possession"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Dukalis1985",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.72727273,
+      "OGWP": 0.48263889
+    },
+    {
+      "Rank": 2,
+      "Player": "Dzianis Chuyanau",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.55555556,
+      "OGWP": 0.58627946
+    },
+    {
+      "Rank": 3,
+      "Player": "vorotinskyV",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.63636364,
+      "OGWP": 0.45763889
+    },
+    {
+      "Rank": 4,
+      "Player": "Maxim Shagoiko",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.33333333,
+      "GWP": 0.59259259,
+      "OGWP": 0.3974537
+    },
+    {
+      "Rank": 5,
+      "Player": "K1ppy",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.5,
+      "OGWP": 0.54292929
+    },
+    {
+      "Rank": 6,
+      "Player": "Valentine Novikov",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.5,
+      "OGWP": 0.56127946
+    },
+    {
+      "Rank": 7,
+      "Player": "Aleksei Raptunovich",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.375,
+      "GWP": 0.55555556,
+      "OGWP": 0.4287037
+    },
+    {
+      "Rank": 8,
+      "Player": "ispinyouround",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.58333333,
+      "GWP": 0.48148148,
+      "OGWP": 0.55092593
+    },
+    {
+      "Rank": 9,
+      "Player": "GlebK",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.77777778,
+      "GWP": 0.375,
+      "OGWP": 0.65207632
+    },
+    {
+      "Rank": 10,
+      "Player": "gerber2000",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.4,
+      "OGWP": 0.54612795
+    },
+    {
+      "Rank": 11,
+      "Player": "MiFlyer",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.3,
+      "OGWP": 0.51203704
+    },
+    {
+      "Rank": 12,
+      "Player": "Rostislav Brozhat",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.38888889,
+      "GWP": 0.4,
+      "OGWP": 0.41111111
+    }
+  ]
+}

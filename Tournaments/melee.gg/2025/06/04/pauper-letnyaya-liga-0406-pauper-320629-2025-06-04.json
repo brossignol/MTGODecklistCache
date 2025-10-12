@@ -1,0 +1,652 @@
+{
+  "Tournament": {
+    "Date": "2025-06-04T16:00:00Z",
+    "Name": "Паупер. Летняя Лига (04.06)",
+    "Uri": "https://melee.gg/Tournament/View/320629"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "BuRial63",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/53cc26d6-7c8b-4e84-ae9d-b2f201065fb5",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "AndreyG",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/55c09170-b32b-4f3f-bd8c-b2f201043651",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Agony Warp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 2,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Decay"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 3,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gurmag Angler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ice Tunnel"
+        },
+        {
+          "Count": 9,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "L&#243;rien Revealed"
+        },
+        {
+          "Count": 2,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mukotai Ambusher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 4,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seething Landscape"
+        },
+        {
+          "Count": 3,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thorn of the Black Rose"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tolarian Terror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Troll of Khazad-d&#251;m"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Decay"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mukotai Ambusher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stormbound Geist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "NickLatkovich",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/cc7aa358-97ac-4074-a65d-b2f201090737",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cleansing Wildfire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eviscerator&#39;s Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slagwoods Bridge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Twisted Landscape"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vault of Whispers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crypt Incursion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Last Rites"
+        },
+        {
+          "Count": 1,
+          "CardName": "Okiba-Gang Shinobi"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxin Analysis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Troublemaker Ouphe"
+        },
+        {
+          "Count": 2,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Artem Sutko",
+      "Result": "10th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/917015f3-7e50-4238-ad23-b2f20101a122",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Yauheni Ihnatsik",
+      "Result": "13th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/4d864848-f4bf-4a34-b3fa-b2f200cb1e40",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Agony Warp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gurmag Angler"
+        },
+        {
+          "Count": 10,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "L&#243;rien Revealed"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seething Landscape"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Modern Age"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thorn of the Black Rose"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unexpected Fangs"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gurmag Angler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unexpected Fangs"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Andrey Ivanov",
+      "Result": "14th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/029cdba5-9f50-4b7e-a1cb-b2f20108ae38",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Aleksandr_KoLishk",
+      "Result": "17th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/cf2dbfda-679b-4835-9bf3-b2f201058130",
+      "Mainboard": [
+        {
+          "Count": 60,
+          "CardName": "Island"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Роман Кохан",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.88888889,
+      "OGWP": 0.51666667
+    },
+    {
+      "Rank": 2,
+      "Player": "Maxim Shagoiko",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.66666667,
+      "OGWP": 0.61111111
+    },
+    {
+      "Rank": 3,
+      "Player": "Aleksei Raptunovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.6,
+      "OGWP": 0.51666667
+    },
+    {
+      "Rank": 4,
+      "Player": "vorotinskyV",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.6,
+      "OGWP": 0.53125
+    },
+    {
+      "Rank": 5,
+      "Player": "BuRial63",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47222222,
+      "GWP": 0.6,
+      "OGWP": 0.51851852
+    },
+    {
+      "Rank": 6,
+      "Player": "Ihar Plisko",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.375,
+      "GWP": 0.63636364,
+      "OGWP": 0.39166667
+    },
+    {
+      "Rank": 7,
+      "Player": "AndreyG",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.64583333,
+      "GWP": 0.66666667,
+      "OGWP": 0.59513889
+    },
+    {
+      "Rank": 8,
+      "Player": "NickLatkovich",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.54166667,
+      "GWP": 0.625,
+      "OGWP": 0.525
+    },
+    {
+      "Rank": 9,
+      "Player": "Egor Yushkevich",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.69444444,
+      "GWP": 0.5,
+      "OGWP": 0.61952862
+    },
+    {
+      "Rank": 10,
+      "Player": "Artem Sutko",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.5,
+      "OGWP": 0.57222222
+    },
+    {
+      "Rank": 11,
+      "Player": "Maksim Martseniuk",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.55555556,
+      "OGWP": 0.56666667
+    },
+    {
+      "Rank": 12,
+      "Player": "Valentine Novikov",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.5,
+      "OGWP": 0.53125
+    },
+    {
+      "Rank": 13,
+      "Player": "Yauheni Ihnatsik",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.5,
+      "OGWP": 0.45833333
+    },
+    {
+      "Rank": 14,
+      "Player": "Andrey Ivanov",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.375,
+      "GWP": 0.4,
+      "OGWP": 0.425
+    },
+    {
+      "Rank": 15,
+      "Player": "Alexei Abramenkov",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.4,
+      "OGWP": 0.5962963
+    },
+    {
+      "Rank": 16,
+      "Player": "Egor Kryshkavets",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.4,
+      "OGWP": 0.56767677
+    },
+    {
+      "Rank": 17,
+      "Player": "Aleksandr_KoLishk",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.3,
+      "OGWP": 0.5729798
+    },
+    {
+      "Rank": 18,
+      "Player": "gerber2000",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.4,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 19,
+      "Player": "Aliaksandr",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.22222222,
+      "OGWP": 0.59034091
+    }
+  ]
+}

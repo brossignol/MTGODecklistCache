@@ -1,0 +1,610 @@
+{
+  "Tournament": {
+    "Date": "2025-06-20T23:40:00Z",
+    "Name": "LCQ - Pauper BARÃO",
+    "Uri": "https://melee.gg/Tournament/View/329078"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "mathevs",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/91d7cf73-1170-4903-908c-b30201510191",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ancient Den"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 2,
+          "CardName": "Contaminated Landscape"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dawnbringer Cleric"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eviscerator&#39;s Insight"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glint Hawk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goldmire Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Goliath Paladin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kor Skyfisher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 4,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 1,
+          "CardName": "Omen of the Dead"
+        },
+        {
+          "Count": 2,
+          "CardName": "Orzhov Basilica"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Radiant Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tithing Blade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vault of Whispers"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wayfarer&#39;s Bauble"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dust to Dust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lone Missionary"
+        },
+        {
+          "Count": 3,
+          "CardName": "Navigator&#39;s Compass"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Camata",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/09dc3091-a4bb-4f9f-ba45-b3020173de88",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "RedTiago",
+      "Result": "14th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/35f44ea0-b2fb-4fcf-8b62-b302017a14ee",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Aether Burst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryptic Serpent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delver of Secrets"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dragon Wings"
+        },
+        {
+          "Count": 2,
+          "CardName": "Echoing Truth"
+        },
+        {
+          "Count": 15,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "L&#243;rien Revealed"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hydroblast"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Ravager",
+      "Result": "15th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/248ce072-da0f-4999-9098-b302017da859",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Annoyed Altisaur"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 3,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boarding Party"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eldrazi Repurposer"
+        },
+        {
+          "Count": 15,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mwonvuli Acid-Moss"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stone Rain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thermokarst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wooded Ridgeline"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deglamer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Ronaldfelipe",
+      "Result": "24th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/061dbb88-3960-4311-b977-b302017c7a46",
+      "Mainboard": [],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "mathevs",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.58333333,
+      "GWP": 0.63636364,
+      "OGWP": 0.59191919
+    },
+    {
+      "Rank": 2,
+      "Player": "Camata",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.5625,
+      "GWP": 0.77777778,
+      "OGWP": 0.49242424
+    },
+    {
+      "Rank": 3,
+      "Player": "JeanPieri",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.66666667,
+      "OGWP": 0.60887446
+    },
+    {
+      "Rank": 4,
+      "Player": "Felipe Barreto",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.6,
+      "OGWP": 0.56136364
+    },
+    {
+      "Rank": 5,
+      "Player": "Pedro Gomes",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.7,
+      "OGWP": 0.50833333
+    },
+    {
+      "Rank": 6,
+      "Player": "HugoMotta",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.66666667,
+      "OGWP": 0.53636364
+    },
+    {
+      "Rank": 7,
+      "Player": "Niightmaree",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.71428571,
+      "OGWP": 0.44444444
+    },
+    {
+      "Rank": 8,
+      "Player": "leonardopereira",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.52083333,
+      "GWP": 0.55555556,
+      "OGWP": 0.53914141
+    },
+    {
+      "Rank": 9,
+      "Player": "WilS47",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.4375,
+      "GWP": 0.54545455,
+      "OGWP": 0.47222222
+    },
+    {
+      "Rank": 10,
+      "Player": "ThiagoMattos",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.6,
+      "OGWP": 0.60075758
+    },
+    {
+      "Rank": 11,
+      "Player": "Maurício Junior",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.44444444,
+      "OGWP": 0.5512987
+    },
+    {
+      "Rank": 12,
+      "Player": "Lucas Buzon",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.54545455,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 13,
+      "Player": "Indiano",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.54545455,
+      "OGWP": 0.46565657
+    },
+    {
+      "Rank": 14,
+      "Player": "RedTiago",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.45454545,
+      "OGWP": 0.50505051
+    },
+    {
+      "Rank": 15,
+      "Player": "Ravager",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.4780303
+    },
+    {
+      "Rank": 16,
+      "Player": "Derrom",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.44444444,
+      "OGWP": 0.51414141
+    },
+    {
+      "Rank": 17,
+      "Player": "GusOTavo",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5625,
+      "GWP": 0.33333333,
+      "OGWP": 0.57882395
+    },
+    {
+      "Rank": 18,
+      "Player": "Gabriel Pinheiro",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.45833333,
+      "GWP": 0.5,
+      "OGWP": 0.44191919
+    },
+    {
+      "Rank": 19,
+      "Player": "MarcosDiegoC",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.22222222,
+      "OGWP": 0.57777778
+    },
+    {
+      "Rank": 20,
+      "Player": "Paulo Lencioni",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.33333333,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 21,
+      "Player": "BrunoHenrique",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.45833333,
+      "GWP": 0.4,
+      "OGWP": 0.45555556
+    },
+    {
+      "Rank": 22,
+      "Player": "Tiago Santos",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.45833333,
+      "GWP": 0.36363636,
+      "OGWP": 0.46969697
+    },
+    {
+      "Rank": 23,
+      "Player": "FelipeMarras",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.125,
+      "OGWP": 0.50281385
+    },
+    {
+      "Rank": 24,
+      "Player": "Ronaldfelipe",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.2,
+      "OGWP": 0.43080808
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "Tournament": {
+    "Date": "2025-06-12T16:00:00Z",
+    "Name": "Пионер. Летняя Лига (12.06)",
+    "Uri": "https://melee.gg/Tournament/View/324253"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "MiFlyer",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/025dfde4-2ada-4a36-ae9b-b2fa01016bbb",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Bonecrusher Giant"
+        },
+        {
+          "Count": 3,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kumano Faces Kakkazan"
+        },
+        {
+          "Count": 4,
+          "CardName": "Light Up the Stage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monastery Swiftspear"
+        },
+        {
+          "Count": 17,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Play with Fire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ramunap Ruins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Screaming Nemesis"
+        },
+        {
+          "Count": 3,
+          "CardName": "Skewer the Critics"
+        },
+        {
+          "Count": 2,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Soul-Scar Mage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vengeful Possession"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wizard&#39;s Lightning"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Bonecrusher Giant"
+        },
+        {
+          "Count": 3,
+          "CardName": "Magma Spray"
+        },
+        {
+          "Count": 4,
+          "CardName": "Roiling Vortex"
+        },
+        {
+          "Count": 3,
+          "CardName": "Searing Blood"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "GlebK",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.88888889,
+      "OGWP": 0.56022727
+    },
+    {
+      "Rank": 2,
+      "Player": "Valentine Novikov",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.75,
+      "OGWP": 0.54419192
+    },
+    {
+      "Rank": 3,
+      "Player": "vorotinskyV",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.63636364,
+      "OGWP": 0.56944444
+    },
+    {
+      "Rank": 4,
+      "Player": "Maxim Shagoiko",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.45833333,
+      "GWP": 0.6,
+      "OGWP": 0.46085859
+    },
+    {
+      "Rank": 5,
+      "Player": "Dzianis Chuyanau",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.45454545,
+      "OGWP": 0.61085859
+    },
+    {
+      "Rank": 6,
+      "Player": "MiFlyer",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.55555556,
+      "OGWP": 0.50606061
+    },
+    {
+      "Rank": 7,
+      "Player": "Rostislav Brozhat",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.5,
+      "OGWP": 0.59659091
+    },
+    {
+      "Rank": 8,
+      "Player": "ispinyouround",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.45454545,
+      "OGWP": 0.54002525
+    },
+    {
+      "Rank": 9,
+      "Player": "K1ppy",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.5,
+      "OGWP": 0.45833333
+    },
+    {
+      "Rank": 10,
+      "Player": "Egor Yushkevich",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.4,
+      "OGWP": 0.61447811
+    },
+    {
+      "Rank": 11,
+      "Player": "AntonV",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 12,
+      "Player": "OMGProfunny",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.44444444,
+      "GWP": 0.5,
+      "OGWP": 0.42929293
+    },
+    {
+      "Rank": 13,
+      "Player": "Dukalis1985",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.2,
+      "OGWP": 0.61818182
+    },
+    {
+      "Rank": 14,
+      "Player": "IvaD",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.0,
+      "OGWP": 0.57638889
+    }
+  ]
+}

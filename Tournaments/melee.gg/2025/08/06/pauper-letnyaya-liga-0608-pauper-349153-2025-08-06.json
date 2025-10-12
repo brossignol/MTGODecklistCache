@@ -1,0 +1,318 @@
+{
+  "Tournament": {
+    "Date": "2025-08-06T16:00:00Z",
+    "Name": "Паупер. Летняя Лига (06.08)",
+    "Uri": "https://melee.gg/Tournament/View/349153"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Yauheni Malcheuski",
+      "Result": "14th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/97025007-757c-43ad-bb34-b3310104d1f2",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Aleksei Raptunovich",
+      "Result": "18th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/dc4c4b96-6a91-4b60-8b06-b33100a2613b",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Augur of Bolas \t\t$0.35"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm \t\t$2.79"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deep Analysis \t\t$0.35"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dispel \t\t$0.49"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disrupt \t\t$0.49"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gigadrowse \t\t$0.69"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hidden Strings \t\t$0.35"
+        },
+        {
+          "Count": 4,
+          "CardName": "High Tide \t\t$1.99"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ideas Unbound \t\t$1.49"
+        },
+        {
+          "Count": 15,
+          "CardName": "Island \t\t$0.01"
+        },
+        {
+          "Count": 4,
+          "CardName": "L&#243;rien Revealed \t\t$3.49"
+        },
+        {
+          "Count": 4,
+          "CardName": "Merchant Scroll \t\t$13.99"
+        },
+        {
+          "Count": 2,
+          "CardName": "Muddle the Mixture \t\t$3.49"
+        },
+        {
+          "Count": 4,
+          "CardName": "Peer Through Depths \t\t$0.35"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pieces of the Puzzle \t\t$0.35"
+        },
+        {
+          "Count": 4,
+          "CardName": "Preordain \t\t$1.99"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Puppetry \t\t$0.49"
+        },
+        {
+          "Count": 2,
+          "CardName": "Reach Through Mists \t\t$0.35"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snap \t\t$2.99"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stream of Thought \t\t$0.35"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Mamkalover228",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.88888889,
+      "OGWP": 0.49488636
+    },
+    {
+      "Rank": 2,
+      "Player": "DanilaNabeshko",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.58333333,
+      "OGWP": 0.49772727
+    },
+    {
+      "Rank": 3,
+      "Player": "Valentine Novikov",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.63636364,
+      "OGWP": 0.475
+    },
+    {
+      "Rank": 4,
+      "Player": "Irina Gornovskaya",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.63636364,
+      "OGWP": 0.47291667
+    },
+    {
+      "Rank": 5,
+      "Player": "Timophey Belousov",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4375,
+      "GWP": 0.75,
+      "OGWP": 0.42708333
+    },
+    {
+      "Rank": 6,
+      "Player": "Valery Zubovich",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.64583333,
+      "GWP": 0.6,
+      "OGWP": 0.63920455
+    },
+    {
+      "Rank": 7,
+      "Player": "Danila Skamarokh",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.63888889,
+      "GWP": 0.625,
+      "OGWP": 0.6212963
+    },
+    {
+      "Rank": 8,
+      "Player": "Yauheni Ihnatsik",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.36111111,
+      "GWP": 0.625,
+      "OGWP": 0.44318182
+    },
+    {
+      "Rank": 9,
+      "Player": "Роман Кохан",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.8125,
+      "GWP": 0.4,
+      "OGWP": 0.71464646
+    },
+    {
+      "Rank": 10,
+      "Player": "KirT2",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.5,
+      "OGWP": 0.57828283
+    },
+    {
+      "Rank": 11,
+      "Player": "Maksim Martseniuk",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.45454545,
+      "OGWP": 0.48825758
+    },
+    {
+      "Rank": 12,
+      "Player": "AndreyG",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.54545455,
+      "OGWP": 0.52272727
+    },
+    {
+      "Rank": 13,
+      "Player": "SteB30",
+      "Points": 5,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.49583333
+    },
+    {
+      "Rank": 14,
+      "Player": "Yauheni Malcheuski",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.52083333,
+      "GWP": 0.375,
+      "OGWP": 0.55208333
+    },
+    {
+      "Rank": 15,
+      "Player": "Ihar Plisko",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.375,
+      "OGWP": 0.48200758
+    },
+    {
+      "Rank": 16,
+      "Player": "Aleksandr_KoLishk",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.45454545,
+      "OGWP": 0.63983586
+    },
+    {
+      "Rank": 17,
+      "Player": "StrahaM",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47222222,
+      "GWP": 0.4,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 18,
+      "Player": "Aleksei Raptunovich",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.38888889,
+      "GWP": 0.28571429,
+      "OGWP": 0.40151515
+    },
+    {
+      "Rank": 19,
+      "Player": "Aliaksandr",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.11111111,
+      "OGWP": 0.56534091
+    }
+  ]
+}

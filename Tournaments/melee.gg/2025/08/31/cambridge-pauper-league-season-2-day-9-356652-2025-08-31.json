@@ -1,0 +1,418 @@
+{
+  "Tournament": {
+    "Date": "2025-08-31T12:00:00Z",
+    "Name": "Cambridge Pauper League Season 2 Day 9",
+    "Uri": "https://melee.gg/Tournament/View/356652"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "TheKingsmantm",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/49c1d5b4-9b0e-4ebe-9a0b-b349017a0dd5",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brinebarrow Intruder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 3,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 20,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Moonsnare Specialist"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 4,
+          "CardName": "Of One Mind"
+        },
+        {
+          "Count": 4,
+          "CardName": "Run Away Together"
+        },
+        {
+          "Count": 3,
+          "CardName": "Snaremaster Sprite"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unstable Mutation"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boomerang"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "tabz3",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/d73917e5-1a5b-42bd-88f1-b34800eedd6f",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bannerhide Krushok"
+        },
+        {
+          "Count": 15,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jewel Thief"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Oliphaunt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wooded Ridgeline"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        },
+        {
+          "Count": 2,
+          "CardName": "You Meet in a Tavern"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nylea&#39;s Disciple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tormod&#39;s Crypt"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Atrain1788",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/dba615f3-352b-410a-881e-b3490145bc56",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aerial Predation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blossoming Sands"
+        },
+        {
+          "Count": 2,
+          "CardName": "Broken Wings"
+        },
+        {
+          "Count": 1,
+          "CardName": "Circle of the Moon Druid"
+        },
+        {
+          "Count": 4,
+          "CardName": "Colossal Growth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elderleaf Mentor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Filigree Familiar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fin-Clade Fugitives"
+        },
+        {
+          "Count": 10,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gnoll Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guardian Gladewalker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hitchclaw Recluse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Horizon Seeker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Inspiring Bard"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ironshell Beetle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ivy Elemental"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jaspera Sentinel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jungle Hollow"
+        },
+        {
+          "Count": 1,
+          "CardName": "Larger Than Life"
+        },
+        {
+          "Count": 2,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Llanowar Stalker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Murasa Behemoth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nimble Mongoose"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rugged Highlands"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scrounging Bandar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scryb Sprites"
+        },
+        {
+          "Count": 1,
+          "CardName": "Siege Wurm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunbathing Rootwalla"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sylvan Shepherd"
+        },
+        {
+          "Count": 2,
+          "CardName": "Treetop Ambusher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Twin-Silk Spider"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underdark Basilisk"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vigorspore Wurm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wary Okapi"
+        },
+        {
+          "Count": 3,
+          "CardName": "Yavimaya Sojourner"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Battle-Rage Blessing"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bite Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dire Wolf Prowler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elvish Fury"
+        },
+        {
+          "Count": 2,
+          "CardName": "King Harald&#39;s Revenge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mother Bear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Portcullis Vine"
+        },
+        {
+          "Count": 2,
+          "CardName": "Trumpeting Herd"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wildheart Invoker"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "TheKingsmantm",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.44444444,
+      "GWP": 0.75,
+      "OGWP": 0.49206349
+    },
+    {
+      "Rank": 2,
+      "Player": "tabz3",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.55555556,
+      "GWP": 0.71428571,
+      "OGWP": 0.50396825
+    },
+    {
+      "Rank": 3,
+      "Player": "sunshine797",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.42857143,
+      "OGWP": 0.59920635
+    },
+    {
+      "Rank": 4,
+      "Player": "Atrain1788",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.0,
+      "OGWP": 0.63095238
+    }
+  ]
+}

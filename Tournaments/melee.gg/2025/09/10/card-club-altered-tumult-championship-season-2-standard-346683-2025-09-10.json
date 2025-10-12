@@ -1,0 +1,615 @@
+{
+  "Tournament": {
+    "Date": "2025-09-10T16:30:00Z",
+    "Name": "Card Club - Altered Tumult Championship Season 2",
+    "Uri": "https://melee.gg/Tournament/View/346683"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Buc",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/4affa336-aff5-4516-98f1-b338015514ee",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Zuckerpuppe",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/42412452-5827-4a04-afed-b35100ecc641",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "&#220;ppige Wiese (ALT_CORE_B_MU_24_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Aloe Vera (ALT_CORE_B_MU_16_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bl&#252;tenzelt (ALT_ALIZE_B_MU_44_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Die Spindel, Muna-Bastion (ALT_COREKS_B_MU_30_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dracaena (ALT_CORE_B_MU_15_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gro&#223;er Bwa (ALT_BISE_B_MU_56_U_1833)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Knuddeliger Corgi (ALT_BISE_B_MU_52_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mini-Dschinn (ALT_CORE_B_BR_06_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Muna-Betreuerin (ALT_CORE_B_MU_04_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Muna-Druide (ALT_CORE_B_MU_13_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Niespilz (ALT_CORE_B_MU_08_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ogun (ALT_CORE_B_AX_06_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ogun (ALT_COREKS_B_AX_06_U_4372)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Requiem (ALT_BISE_B_MU_60_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Saskia, clevere Naturkundlerin (ALT_ALIZE_B_MU_35_U_6231)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sohn von Yggdrasil (ALT_COREKS_B_MU_21_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spindelsammler (ALT_CORE_B_MU_06_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Zauberbohnen (ALT_ALIZE_B_MU_43_C)"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Teija &amp; Nauraa (ALT_CORE_B_MU_01_C)"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Intermetzo",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/43bee155-eab5-47fc-bbcf-b352005d2f20",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Avalanche (ALT_ALIZE_B_AX_42_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boom! (ALT_CORE_B_AX_21_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Brassbug Hive (ALT_CORE_B_AX_30_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bug-Out Bag (ALT_BISE_B_AX_62_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Designer Drone (ALT_BISE_B_AX_51_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dredger Drone (ALT_BISE_B_AX_50_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Efr&#233;n, Puppet Master (ALT_BISE_B_LY_56_U_13879)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Frozen Delivery (ALT_ALIZE_B_AX_41_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Haven Bouncer (ALT_COREKS_B_BR_15_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haven Bouncer (ALT_COREKS_B_BR_15_U_519)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jian, Assembly Overseer (ALT_COREKS_B_AX_10_U_5146)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ouroboros Inkcaster (ALT_CORE_B_LY_10_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Foundry, Axiom Bastion (ALT_CORE_B_AX_29_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Grems (ALT_BISE_B_AX_53_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Nilam, Withered Tree (ALT_ALIZE_B_YZ_45_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tinker Bell (ALT_CORE_B_AX_09_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vaike, Energy Pioneer (ALT_ALIZE_A_AX_35_C)"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Sierra &amp; Oddball (ALT_CORE_B_AX_01_C)"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Trulli9",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/0d2f0a8a-43ed-4b1a-9a7d-b35100ad1fb6",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Banishing Gate (ALT_CORE_B_YZ_24_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Beauty Sleep (ALT_COREKS_B_MU_28_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Conjuring Seal (ALT_COREKS_B_YZ_23_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Evanescence (ALT_BISE_B_YZ_58_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Feast of Thoughts (ALT_BISE_B_YZ_61_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Field Reinforcements (ALT_ALIZE_B_OR_43_R2)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hua Mulan (ALT_COREKS_B_BR_12_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hua Mulan (ALT_COREKS_B_BR_12_U_1533)"
+        },
+        {
+          "Count": 3,
+          "CardName": "License Withdrawal (ALT_BISE_B_OR_59_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Magical Training (ALT_COREKS_B_YZ_19_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Metamorphosis (ALT_BISE_B_YZ_60_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Moth to a Flame (ALT_ALIZE_B_YZ_41_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nilam Spires (ALT_BISE_B_YZ_62_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Off You Go! (ALT_CORE_B_YZ_21_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ordis Carrier (ALT_COREKS_B_OR_30_R2)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sap Infusion (ALT_BISE_B_YZ_57_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spy Craft (ALT_CORE_B_YZ_22_C)"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Afanas &amp; Senka (ALT_CORE_B_YZ_03_C)"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Guardian4ng3l",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/2099c765-194b-4052-b474-b35400bd8beb",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Pixelaffe",
+      "Result": "9th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/5c4e5c57-549a-4d7b-8e3a-b35400754ea8",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "„Eat Me“-Energieriegel (ALT_ALIZE_B_BR_45_R2)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Aloe Vera (ALT_CORE_B_MU_16_R2)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Anansi (ALT_CORE_B_LY_13_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "BLISS-Bassist (ALT_BISE_B_LY_49_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bravos-Wegbereiter (ALT_ALIZE_B_BR_35_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bravos-Wegbereiter (ALT_ALIZE_B_BR_35_U_18001)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Daidalos (ALT_BISE_A_LY_53_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Daidalos (ALT_BISE_B_LY_53_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Der magische Schlitten (ALT_ALIZE_B_LY_44_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Der Schneemann (ALT_ALIZE_B_LY_33_U_18237)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elstuin-Sammler (ALT_ALIZE_B_LY_31_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gesangstraining (ALT_CORE_B_LY_22_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gl&#252;ckliches Wiedersehen (ALT_BISE_B_LY_58_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harz-Duende (ALT_BISE_B_LY_61_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hathor (ALT_CORE_B_LY_07_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lawine (ALT_ALIZE_B_AX_42_R2)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lyra-Verrenkungsk&#252;nstlerin (ALT_BISE_B_LY_51_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Martengale (ALT_CORE_B_LY_04_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nyala, begnadete Zauberin (ALT_ALIZE_B_LY_34_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ouroboros-Tintengie&#223;erin (ALT_CORE_B_LY_10_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Schlaf, Kindlein, schlaf (ALT_CORE_B_LY_23_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spionage (ALT_CORE_B_YZ_22_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spritztour (ALT_ALIZE_B_LY_40_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stoff-Kokon (ALT_CORE_B_LY_24_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Zaubertraining (ALT_CORE_B_YZ_19_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zeichnender Seestern (ALT_BISE_B_YZ_49_U_10687)"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Fen &amp; Feedback (ALT_CORE_B_LY_03_C)"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Firunja",
+      "Result": "10th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/579586b6-38a9-4afc-87b7-b353006510b4",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "„Eat Me“-Energieriegel (ALT_ALIZE_B_BR_45_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Akhlut (ALT_ALIZE_B_BR_38_R1)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bravos-Klingenwirblerin (ALT_CORE_B_BR_16_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bravos-Pendekar (ALT_BISE_B_BR_51_U_2881)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cheiron (ALT_CORE_B_BR_11_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Der Schneemann (ALT_ALIZE_B_LY_33_U_19)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Die Kantine (ALT_BISE_B_BR_63_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eros (ALT_ALIZE_B_BR_40_U_1250)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Feuerhase (ALT_ALIZE_B_BR_32_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Haven-Seiringar (ALT_ALIZE_B_BR_34_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Haven-T&#252;rsteher (ALT_CORE_B_BR_15_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Haven, Bravos-Bastion (ALT_CORE_B_BR_30_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Helfende Hand (ALT_COREKS_B_BR_25_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lern&#228;ische Hydra (ALT_BISE_B_BR_59_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "M&#228;chtiger Dschinn (ALT_CORE_B_BR_19_R1)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mana&#173;-Eruption (ALT_COREKS_B_BR_29_C)"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mini-Dschinn (ALT_CORE_B_BR_06_R1)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ordis-Spionin (ALT_CORE_B_OR_14_R2)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rotk&#228;ppchen (ALT_CORE_B_BR_10_C)"
+        },
+        {
+          "Count": 2,
+          "CardName": "Talaria-Skaterin (ALT_BISE_B_BR_52_C)"
+        },
+        {
+          "Count": 1,
+          "CardName": "Talaria-Skaterin (ALT_BISE_B_BR_52_R1)"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Basira &amp; Kaizaimon (ALT_CORE_B_BR_03_C)"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Opferklopfer",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 1.0,
+      "OGWP": 0.52083333
+    },
+    {
+      "Rank": 2,
+      "Player": "Buc",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.75,
+      "OGWP": 0.6875
+    },
+    {
+      "Rank": 3,
+      "Player": "Swordinator",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.75,
+      "OGWP": 0.625
+    },
+    {
+      "Rank": 4,
+      "Player": "Zuckerpuppe",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.75,
+      "OGWP": 0.47916667
+    },
+    {
+      "Rank": 5,
+      "Player": "manuelritter",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.69444444,
+      "GWP": 0.5,
+      "OGWP": 0.69444444
+    },
+    {
+      "Rank": 6,
+      "Player": "Intermetzo",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.5,
+      "OGWP": 0.64583333
+    },
+    {
+      "Rank": 7,
+      "Player": "Trulli9",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.5,
+      "OGWP": 0.61111111
+    },
+    {
+      "Rank": 8,
+      "Player": "Guardian4ng3l",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.5,
+      "OGWP": 0.47916667
+    },
+    {
+      "Rank": 9,
+      "Player": "Pixelaffe",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.33333333,
+      "OGWP": 0.75
+    },
+    {
+      "Rank": 10,
+      "Player": "Firunja",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.33333333,
+      "OGWP": 0.52777778
+    },
+    {
+      "Rank": 11,
+      "Player": "Dyrx",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.45833333,
+      "GWP": 0.33333333,
+      "OGWP": 0.45833333
+    }
+  ]
+}

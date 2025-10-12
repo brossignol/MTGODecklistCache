@@ -1,0 +1,496 @@
+{
+  "Tournament": {
+    "Date": "2025-08-13T16:00:00Z",
+    "Name": "Паупер. Летняя Лига (13.08)",
+    "Uri": "https://melee.gg/Tournament/View/351531"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "NickLatkovich",
+      "Result": "9th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/7f2af8a5-1412-4624-a674-b33801020996",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Axebane Guardian"
+        },
+        {
+          "Count": 2,
+          "CardName": "Crashing Drawbridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drift of Phantasms"
+        },
+        {
+          "Count": 13,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Freed from the Real"
+        },
+        {
+          "Count": 1,
+          "CardName": "Galvanic Alchemist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jaspera Sentinel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lead the Stampede"
+        },
+        {
+          "Count": 2,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 2,
+          "CardName": "Orochi Leafcaller"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overgrown Battlement"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quirion Ranger"
+        },
+        {
+          "Count": 1,
+          "CardName": "Reaping the Graves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Saruli Caretaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scholar of Athreos"
+        },
+        {
+          "Count": 1,
+          "CardName": "Secret Door"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shield-Wall Sentinel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Third Path Savant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tuktuk Rubblefort"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wall of Roots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winding Way"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Bramble Wurm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mirrorshell Crab"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scattershot Archer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Standard Bearer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tamiyo&#39;s Safekeeping"
+        },
+        {
+          "Count": 1,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Timophey Belousov",
+      "Result": "11th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1957e35e-24af-4cf1-851d-b338010a4648",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Roman012345",
+      "Result": "12th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/90e4f68d-8397-459f-a196-b338010437d6",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Valery Zubovich",
+      "Result": "14th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/7050a902-246f-4853-919d-b3380101f3ac",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ashnod&#39;s Altar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Candy Trail"
+        },
+        {
+          "Count": 3,
+          "CardName": "Chromatic Star"
+        },
+        {
+          "Count": 2,
+          "CardName": "Conduit Pylons"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eviscerator&#39;s Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Golem Foundry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Myr Kinsmith"
+        },
+        {
+          "Count": 4,
+          "CardName": "Myr Retriever"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pactdoll Terror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prophetic Prism"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Tower"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fangren Marauder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Last Rites"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scattershot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Maksim Martseniuk",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.8,
+      "OGWP": 0.51111111
+    },
+    {
+      "Rank": 2,
+      "Player": "DanilaNabeshko",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.70833333,
+      "GWP": 0.6,
+      "OGWP": 0.61742424
+    },
+    {
+      "Rank": 3,
+      "Player": "gerber2000",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.7,
+      "OGWP": 0.53636364
+    },
+    {
+      "Rank": 4,
+      "Player": "BuRial63",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.6,
+      "OGWP": 0.51111111
+    },
+    {
+      "Rank": 5,
+      "Player": "Artem Sutko",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.63636364,
+      "OGWP": 0.50227273
+    },
+    {
+      "Rank": 6,
+      "Player": "Aleksandr_KoLishk",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.6,
+      "OGWP": 0.45411255
+    },
+    {
+      "Rank": 7,
+      "Player": "Yauheni Malcheuski",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.4375,
+      "GWP": 0.55555556,
+      "OGWP": 0.44924242
+    },
+    {
+      "Rank": 8,
+      "Player": "Valentine Novikov",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.70833333,
+      "GWP": 0.44444444,
+      "OGWP": 0.63611111
+    },
+    {
+      "Rank": 9,
+      "Player": "NickLatkovich",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.45454545,
+      "OGWP": 0.57727273
+    },
+    {
+      "Rank": 10,
+      "Player": "K1ppy",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.54545455,
+      "OGWP": 0.5495671
+    },
+    {
+      "Rank": 11,
+      "Player": "Timophey Belousov",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.5,
+      "OGWP": 0.52020202
+    },
+    {
+      "Rank": 12,
+      "Player": "Roman012345",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.54545455,
+      "OGWP": 0.46287879
+    },
+    {
+      "Rank": 13,
+      "Player": "andrei",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.5,
+      "OGWP": 0.46666667
+    },
+    {
+      "Rank": 14,
+      "Player": "Valery Zubovich",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.42857143,
+      "OGWP": 0.49292929
+    },
+    {
+      "Rank": 15,
+      "Player": "Egor Kryshkavets",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.3,
+      "OGWP": 0.4530303
+    },
+    {
+      "Rank": 16,
+      "Player": "StrahaM",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47222222,
+      "GWP": 0.4,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 17,
+      "Player": "AndreyG",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.44444444,
+      "GWP": 0.44444444,
+      "OGWP": 0.44814815
+    },
+    {
+      "Rank": 18,
+      "Player": "Ihar Plisko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4375,
+      "GWP": 0.3,
+      "OGWP": 0.46572872
+    },
+    {
+      "Rank": 19,
+      "Player": "Aliaksandr",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.58333333,
+      "GWP": 0.36363636,
+      "OGWP": 0.5479798
+    },
+    {
+      "Rank": 20,
+      "Player": "Роман Кохан",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.33333333,
+      "OGWP": 0.47777778
+    }
+  ]
+}

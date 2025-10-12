@@ -1,0 +1,199 @@
+{
+  "Tournament": {
+    "Date": "2025-06-15T10:00:00Z",
+    "Name": "Легаси. Летняя Лига (15.06)",
+    "Uri": "https://melee.gg/Tournament/View/324254"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Yauhen Rapanovich",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/dbc27f54-c909-4315-9457-b2fd008c1a3b",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Animate Dead"
+        },
+        {
+          "Count": 2,
+          "CardName": "Archon of Cruelty"
+        },
+        {
+          "Count": 2,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bayou"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Borborygmos Enraged"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Entomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Griselbrand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reanimate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shallow Grave"
+        },
+        {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underground Mortuary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underground Sea"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unmask"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valgavoth, Terror Eater"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Chain of Smog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Show and Tell"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spoils of the Vault"
+        },
+        {
+          "Count": 4,
+          "CardName": "Witherbloom Apprentice"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "SasK3",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 1.0,
+      "OGWP": 0.55555556
+    },
+    {
+      "Rank": 2,
+      "Player": "Maksim Martseniuk",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.66666667,
+      "OGWP": 0.58333333
+    },
+    {
+      "Rank": 3,
+      "Player": "Ihar Plisko",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.44444444,
+      "OGWP": 0.74074074
+    },
+    {
+      "Rank": 4,
+      "Player": "Maxim Shagoiko",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.69444444,
+      "GWP": 0.55555556,
+      "OGWP": 0.66666667
+    },
+    {
+      "Rank": 5,
+      "Player": "Yauhen Rapanovich",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.55555556,
+      "OGWP": 0.5515873
+    },
+    {
+      "Rank": 6,
+      "Player": "Egor Yushkevich",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.22222222,
+      "OGWP": 0.5515873
+    },
+    {
+      "Rank": 7,
+      "Player": "andrei",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.42857143,
+      "OGWP": 0.44444444
+    }
+  ]
+}

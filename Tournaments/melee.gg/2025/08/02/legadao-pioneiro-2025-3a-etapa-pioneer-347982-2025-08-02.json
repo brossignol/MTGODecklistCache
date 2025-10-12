@@ -1,0 +1,365 @@
+{
+  "Tournament": {
+    "Date": "2025-08-02T15:30:00Z",
+    "Name": "Legadão Pioneiro 2025 - 3ª Etapa",
+    "Uri": "https://melee.gg/Tournament/View/347982"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "gesantos_mid",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/965f88da-5743-4703-8a19-b32d00f0ebf5",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Leandro Fonseca",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/f39d6994-9062-4b8a-bbd5-b32d00ec59db",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Adeline, Resplendent Cathar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Collected Company"
+        },
+        {
+          "Count": 4,
+          "CardName": "Coppercoat Vanguard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Imodane&#39;s Recruiter // Train Troops"
+        },
+        {
+          "Count": 3,
+          "CardName": "Katilda, Dawnhart Prime"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning, Army of One"
+        },
+        {
+          "Count": 3,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 2,
+          "CardName": "Razorverge Thicket"
+        },
+        {
+          "Count": 3,
+          "CardName": "Reflector Mage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Secluded Courtyard"
+        },
+        {
+          "Count": 2,
+          "CardName": "Songcrafter Mage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thalia&#39;s Lieutenant"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thraben Inspector"
+        },
+        {
+          "Count": 1,
+          "CardName": "Three Tree City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unclaimed Territory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Warden of the Inner Sky"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Brutal Cathar"
+        },
+        {
+          "Count": 3,
+          "CardName": "Kambal, Consul of Allocation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Loran of the Third Path"
+        },
+        {
+          "Count": 2,
+          "CardName": "Militia Bugler"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thalia, Guardian of Thraben"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unlicensed Hearse"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Filipe Taginato",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1cc519ff-f9c4-4507-9f7f-b32d00fb5b21",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "PedroTeixeira",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/79330dab-c256-4bbc-9ca1-b32d00e36325",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arclight Phoenix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Artist&#39;s Talent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cori-Steel Cutter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fiery Impulse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hall of Storm Giants"
+        },
+        {
+          "Count": 1,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Axe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Picklock Prankster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverglide Pathway"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shivan Reef"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spikefield Hazard"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sulfur Falls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Treasure Cruise"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Anger of the Gods"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brotherhood&#39;s End"
+        },
+        {
+          "Count": 2,
+          "CardName": "Crackling Drake"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 2,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stern Dismissal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Third Path Iconoclast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Untimely Malfunction"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Jiullyan Nascimento",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.55555556,
+      "GWP": 0.8,
+      "OGWP": 0.55185185
+    },
+    {
+      "Rank": 2,
+      "Player": "gesantos_mid",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.64583333,
+      "GWP": 0.55555556,
+      "OGWP": 0.61388889
+    },
+    {
+      "Rank": 3,
+      "Player": "Leandro Fonseca",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.60416667,
+      "GWP": 0.6,
+      "OGWP": 0.57777778
+    },
+    {
+      "Rank": 4,
+      "Player": "LoDiego",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.5,
+      "OGWP": 0.61851852
+    },
+    {
+      "Rank": 5,
+      "Player": "HugoKling",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.55555556,
+      "OGWP": 0.51388889
+    },
+    {
+      "Rank": 6,
+      "Player": "Filipe Taginato",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47222222,
+      "GWP": 0.5,
+      "OGWP": 0.48518519
+    },
+    {
+      "Rank": 7,
+      "Player": "PedroTeixeira",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.4,
+      "OGWP": 0.55185185
+    }
+  ]
+}

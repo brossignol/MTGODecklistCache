@@ -1,0 +1,520 @@
+{
+  "Tournament": {
+    "Date": "2025-06-22T13:00:00Z",
+    "Name": "SPL - 1 Tappa Road to Autumn Edition 2025",
+    "Uri": "https://melee.gg/Tournament/View/327517"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "miguel91",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/295b8d18-d18b-4020-89aa-b30400cecc46",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Riccardo Ceridono",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/205a0f2a-6ff8-4286-a2e7-b30400d3da1d",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Chain Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clockwork Percussionist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Experimental Synthesizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Tomb Raider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kessig Flamebreather"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 15,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckless Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrenn&#39;s Resolve"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Searing Blaze"
+        },
+        {
+          "Count": 3,
+          "CardName": "Smash to Smithereens"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Andrea37",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/82603de0-083a-4a38-9db7-b30400ce29bc",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Brinebarrow Intruder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Humbling Elder"
+        },
+        {
+          "Count": 17,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lonely Sandbar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 4,
+          "CardName": "Of One Mind"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snap"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snaremaster Sprite"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Echoing Truth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tormod&#39;s Crypt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unable to Scream"
+        },
+        {
+          "Count": 2,
+          "CardName": "Weakstone&#39;s Subjugation"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Alessandro Franzone",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/fa4a27f0-54c0-4724-bed3-b30400d0bdc1",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Bellowing Crier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glistener Seer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gnaw to the Bone"
+        },
+        {
+          "Count": 10,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mothdust Changeling"
+        },
+        {
+          "Count": 12,
+          "CardName": "Persistent Petitioners"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pond Prophet"
+        },
+        {
+          "Count": 2,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tangled Islet"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vitalize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winding Way"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Echoing Truth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Moment&#39;s Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tormod&#39;s Crypt"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Drdej96",
+      "Result": "10th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/f253bd1b-a52a-4e49-99ba-b30400caaedc",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Artful Dodge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryptic Serpent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deem Inferior"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delver of Secrets"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 17,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "L&#243;rien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mental Note"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sleep of the Dead"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deem Inferior"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gut Shot"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Stefano Filippi",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.5625,
+      "GWP": 0.63636364,
+      "OGWP": 0.53863636
+    },
+    {
+      "Rank": 2,
+      "Player": "miguel91",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.54166667,
+      "GWP": 0.7,
+      "OGWP": 0.52272727
+    },
+    {
+      "Rank": 3,
+      "Player": "Riccardo Ceridono",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.66666667,
+      "OGWP": 0.49242424
+    },
+    {
+      "Rank": 4,
+      "Player": "Andrea37",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.375,
+      "GWP": 0.75,
+      "OGWP": 0.375
+    },
+    {
+      "Rank": 5,
+      "Player": "Cristian Cricco",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.70833333,
+      "GWP": 0.5,
+      "OGWP": 0.64280303
+    },
+    {
+      "Rank": 6,
+      "Player": "MBors8",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.5,
+      "OGWP": 0.50833333
+    },
+    {
+      "Rank": 7,
+      "Player": "Pvtratto",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.375,
+      "GWP": 0.45454545,
+      "OGWP": 0.4157197
+    },
+    {
+      "Rank": 8,
+      "Player": "Alessandro Franzone",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.45454545,
+      "OGWP": 0.53106061
+    },
+    {
+      "Rank": 9,
+      "Player": "Saarley",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.3,
+      "OGWP": 0.56534091
+    },
+    {
+      "Rank": 10,
+      "Player": "Drdej96",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.33333333,
+      "OGWP": 0.56155303
+    },
+    {
+      "Rank": 11,
+      "Player": "Elra83",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.38888889,
+      "GWP": 0.375,
+      "OGWP": 0.37373737
+    },
+    {
+      "Rank": 12,
+      "Player": "matthow",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.14285714,
+      "OGWP": 0.56818182
+    }
+  ]
+}

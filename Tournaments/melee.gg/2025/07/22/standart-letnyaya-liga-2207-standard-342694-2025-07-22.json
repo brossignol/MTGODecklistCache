@@ -1,0 +1,417 @@
+{
+  "Tournament": {
+    "Date": "2025-07-22T16:00:00Z",
+    "Name": "Стандарт. Летняя Лига (22.07)",
+    "Uri": "https://melee.gg/Tournament/View/342694"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "K1ppy",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/676f5179-0030-48a5-b70a-b322009a9f42",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Anoint with Affliction"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blooming Marsh"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cut Down"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gix&#39;s Command"
+        },
+        {
+          "Count": 1,
+          "CardName": "Glissa Sunslayer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Go for the Throat"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Wastes"
+        },
+        {
+          "Count": 2,
+          "CardName": "Maelstrom Pulse"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mishra&#39;s Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mosswood Dreadknight"
+        },
+        {
+          "Count": 3,
+          "CardName": "Preacher of the Schism"
+        },
+        {
+          "Count": 4,
+          "CardName": "Restless Cottage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sentinel of the Nameless City"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sheoldred, the Apocalypse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tear Asunder"
+        },
+        {
+          "Count": 1,
+          "CardName": "The End"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thrun, Breaker of Silence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tranquil Frillback"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wastewood Verge"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Anoint with Affliction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Choking Miasma"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harvester of Misery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 2,
+          "CardName": "Liliana of the Veil"
+        },
+        {
+          "Count": 1,
+          "CardName": "Maelstrom Pulse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nissa, Ascended Animist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tranquil Frillback"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "[OMG]Summie",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/252adfac-ecf5-4168-811f-b32200febccb",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Valery Zubovich",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/4f0f2804-8008-431f-936c-b3220107e805",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Hogar",
+      "Result": "13th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/37809b69-fc44-41b3-a655-b3220102ad52",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Brass&#39;s Tunnel-Grinder // Tecutlan, the Searing Rift"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cathar Commando"
+        },
+        {
+          "Count": 4,
+          "CardName": "Caves of Koilos"
+        },
+        {
+          "Count": 4,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Conduit Pylons"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dewdrop Cure"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 16,
+          "CardName": "Hare Apparent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hidden Grotto"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hinterland Sanctifier"
+        },
+        {
+          "Count": 4,
+          "CardName": "Raise the Past"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shocking Sharpshooter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snarling Gorehound"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sulfurous Springs"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Authority of the Consuls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Aven Interrupter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Coordinated Maneuver"
+        },
+        {
+          "Count": 1,
+          "CardName": "Song of Totentanz"
+        },
+        {
+          "Count": 4,
+          "CardName": "Surge of Salvation"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Maksim Martseniuk",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.52083333,
+      "GWP": 0.875,
+      "OGWP": 0.51388889
+    },
+    {
+      "Rank": 2,
+      "Player": "K1ppy",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.69444444,
+      "GWP": 0.6,
+      "OGWP": 0.68611111
+    },
+    {
+      "Rank": 3,
+      "Player": "Роман Кохан",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.58333333,
+      "OGWP": 0.60025253
+    },
+    {
+      "Rank": 4,
+      "Player": "[OMG]Summie",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.66666667,
+      "OGWP": 0.51851852
+    },
+    {
+      "Rank": 5,
+      "Player": "Valery Zubovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.7,
+      "OGWP": 0.47916667
+    },
+    {
+      "Rank": 6,
+      "Player": "Rostislav Brozhat",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.70833333,
+      "GWP": 0.55555556,
+      "OGWP": 0.64236111
+    },
+    {
+      "Rank": 7,
+      "Player": "Valentine Novikov",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.6,
+      "OGWP": 0.56111111
+    },
+    {
+      "Rank": 8,
+      "Player": "Yauheni Ihnatsik",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.5,
+      "OGWP": 0.55965909
+    },
+    {
+      "Rank": 9,
+      "Player": "BuRial63",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.5,
+      "OGWP": 0.51471861
+    },
+    {
+      "Rank": 10,
+      "Player": "Aleksei Raptunovich",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4375,
+      "GWP": 0.54545455,
+      "OGWP": 0.42007576
+    },
+    {
+      "Rank": 11,
+      "Player": "IgnS",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.44444444,
+      "OGWP": 0.46313131
+    },
+    {
+      "Rank": 12,
+      "Player": "4exOFFby",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.60416667,
+      "GWP": 0.4,
+      "OGWP": 0.63725649
+    },
+    {
+      "Rank": 13,
+      "Player": "Hogar",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.36363636,
+      "OGWP": 0.49747475
+    },
+    {
+      "Rank": 14,
+      "Player": "Ilyb",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.42857143,
+      "OGWP": 0.45
+    },
+    {
+      "Rank": 15,
+      "Player": "Flame111",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.0,
+      "OGWP": 0.54747475
+    }
+  ]
+}

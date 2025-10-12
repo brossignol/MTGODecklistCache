@@ -1,0 +1,673 @@
+{
+  "Tournament": {
+    "Date": "2025-06-05T16:00:00Z",
+    "Name": "Пионер. Летняя Лига (05.06)",
+    "Uri": "https://melee.gg/Tournament/View/320651"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "K1ppy",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8c6bc1d7-c7cd-464f-b9ee-b2f3008583b3",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Bonecrusher Giant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Den of the Bugbear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emberheart Challenger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Heartfire Hero"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kumano Faces Kakkazan"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Strike"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manifold Mouse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monstrous Rage"
+        },
+        {
+          "Count": 14,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mutavault"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ramunap Ruins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rockface Village"
+        },
+        {
+          "Count": 4,
+          "CardName": "Screaming Nemesis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tersa Lightshatter"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Magebane Lizard"
+        },
+        {
+          "Count": 3,
+          "CardName": "Redcap Melee"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rending Volley"
+        },
+        {
+          "Count": 3,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Twisted Fealty"
+        },
+        {
+          "Count": 2,
+          "CardName": "Urabrask&#39;s Forge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Witchstalker Frenzy"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "NickLatkovich",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8f1f2e63-beaf-40eb-9eb1-b2f300fe09cb",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Archdruid&#39;s Charm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bala Ged Recovery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dark Petition"
+        },
+        {
+          "Count": 3,
+          "CardName": "Emergent Ultimatum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fae of Wishes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hidden Strings"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lier, Disciple of the Drowned"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Field"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lush Portico"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mana Confluence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Omniscience"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 1,
+          "CardName": "Path of Peril"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pore Over the Pages"
+        },
+        {
+          "Count": 4,
+          "CardName": "Razorverge Thicket"
+        },
+        {
+          "Count": 3,
+          "CardName": "Soul Partition"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spara&#39;s Headquarters"
+        },
+        {
+          "Count": 4,
+          "CardName": "Strict Proctor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sylvan Scrying"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thespian&#39;s Stage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vizier of Tumbling Sands"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Approach of the Second Sun"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dark Petition"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emergent Ultimatum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of Sanctity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nine Lives"
+        },
+        {
+          "Count": 1,
+          "CardName": "Path of Peril"
+        },
+        {
+          "Count": 3,
+          "CardName": "Temporary Lockdown"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zacama, Primal Calamity"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "MiFlyer",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/3a306593-bd69-4e1a-90ab-b2f301052cff",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Bonecrusher Giant"
+        },
+        {
+          "Count": 3,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kumano Faces Kakkazan"
+        },
+        {
+          "Count": 4,
+          "CardName": "Light Up the Stage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monastery Swiftspear"
+        },
+        {
+          "Count": 17,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Play with Fire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ramunap Ruins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Screaming Nemesis"
+        },
+        {
+          "Count": 3,
+          "CardName": "Skewer the Critics"
+        },
+        {
+          "Count": 2,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Soul-Scar Mage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vengeful Possession"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wizard&#39;s Lightning"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Bonecrusher Giant"
+        },
+        {
+          "Count": 3,
+          "CardName": "Magma Spray"
+        },
+        {
+          "Count": 4,
+          "CardName": "Roiling Vortex"
+        },
+        {
+          "Count": 3,
+          "CardName": "Searing Blood"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Yauheni Ihnatsik",
+      "Result": "10th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1a6bf35f-f358-49e7-bd4e-b2f300c14f74",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cling to Dust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dig Through Time"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dovin&#39;s Veto"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Farewell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fetid Pools"
+        },
+        {
+          "Count": 1,
+          "CardName": "Field of Ruin"
+        },
+        {
+          "Count": 1,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 1,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Memory Deluge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 4,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Raffine&#39;s Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shambling Vent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunken Citadel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Takenuma, Abandoned Mire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Teferi, Hero of Dominaria"
+        },
+        {
+          "Count": 2,
+          "CardName": "Temporary Lockdown"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Wandering Emperor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Three Steps Ahead"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vanishing Verse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Change the Equation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dovin&#39;s Veto"
+        },
+        {
+          "Count": 1,
+          "CardName": "Farewell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nezahal, Primal Tide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nowhere to Run"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temporary Lockdown"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Maxim Shagoiko",
+      "Result": "11th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/3373b049-e519-468e-9a56-b2f300907f90",
+      "Mainboard": [],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Rostislav Brozhat",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.88888889,
+      "OGWP": 0.58219697
+    },
+    {
+      "Rank": 2,
+      "Player": "K1ppy",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.75,
+      "OGWP": 0.56944444
+    },
+    {
+      "Rank": 3,
+      "Player": "vorotinskyV",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.7,
+      "OGWP": 0.56691919
+    },
+    {
+      "Rank": 4,
+      "Player": "NickLatkovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.54545455,
+      "OGWP": 0.59747475
+    },
+    {
+      "Rank": 5,
+      "Player": "gerber2000",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.54545455,
+      "OGWP": 0.58181818
+    },
+    {
+      "Rank": 6,
+      "Player": "MiFlyer",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.55555556,
+      "OGWP": 0.54292929
+    },
+    {
+      "Rank": 7,
+      "Player": "Ihar Plisko",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.5,
+      "OGWP": 0.4905303
+    },
+    {
+      "Rank": 8,
+      "Player": "Dukalis1985",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47222222,
+      "GWP": 0.5,
+      "OGWP": 0.47777778
+    },
+    {
+      "Rank": 9,
+      "Player": "Maksim Martseniuk",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.33333333,
+      "OGWP": 0.61111111
+    },
+    {
+      "Rank": 10,
+      "Player": "Yauheni Ihnatsik",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.22222222,
+      "OGWP": 0.5875
+    },
+    {
+      "Rank": 11,
+      "Player": "Maxim Shagoiko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.4,
+      "OGWP": 0.45959596
+    }
+  ]
+}

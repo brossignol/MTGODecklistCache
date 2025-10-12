@@ -1,0 +1,275 @@
+{
+  "Tournament": {
+    "Date": "2025-10-02T16:00:00Z",
+    "Name": "Лига Пионер (1/12)",
+    "Uri": "https://melee.gg/Tournament/View/369531"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Maxim Shagoiko",
+      "Result": "9th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/93d56a33-6ecf-46d3-a93f-b36a0102f066",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "NickLatkovich",
+      "Result": "11th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/c506fc90-af4e-429d-8a76-b36a00f55b0b",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Beanstalk Giant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 2,
+          "CardName": "Clever Impersonator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Greater Tanuki"
+        },
+        {
+          "Count": 4,
+          "CardName": "Indatha Triome"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ketria Triome"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Binding"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quintorius Kand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raffine&#39;s Tower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spark Double"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spinewoods Armadillo"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Trumpeting Carnosaur"
+        },
+        {
+          "Count": 4,
+          "CardName": "Virtue of Persistence"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Bedeck // Bedazzle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign // Oblivion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dragonlord Dromoka"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gyruda, Doom of Depths"
+        },
+        {
+          "Count": 2,
+          "CardName": "Horned Loch-Whale"
+        },
+        {
+          "Count": 2,
+          "CardName": "Roaring Furnace // Steaming Sauna"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Distortion"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "VT",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.70833333,
+      "GWP": 1.0,
+      "OGWP": 0.62222222
+    },
+    {
+      "Rank": 2,
+      "Player": "vorotinskyV",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.66666667,
+      "OGWP": 0.54166667
+    },
+    {
+      "Rank": 3,
+      "Player": "GlebK",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.6,
+      "OGWP": 0.55833333
+    },
+    {
+      "Rank": 4,
+      "Player": "Aleksei Raptunovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.66666667,
+      "OGWP": 0.53333333
+    },
+    {
+      "Rank": 5,
+      "Player": "Dzianis Chuyanau",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.55555556,
+      "OGWP": 0.51666667
+    },
+    {
+      "Rank": 6,
+      "Player": "Dukalis1985",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.5,
+      "OGWP": 0.55555556
+    },
+    {
+      "Rank": 7,
+      "Player": "Rostislav Brozhat",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.33333333,
+      "GWP": 0.6,
+      "OGWP": 0.35555556
+    },
+    {
+      "Rank": 8,
+      "Player": "Alex Khan",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.64583333,
+      "GWP": 0.33333333,
+      "OGWP": 0.62222222
+    },
+    {
+      "Rank": 9,
+      "Player": "Maxim Shagoiko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.4,
+      "OGWP": 0.62222222
+    },
+    {
+      "Rank": 10,
+      "Player": "ispinyouround",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.3,
+      "OGWP": 0.60555556
+    },
+    {
+      "Rank": 11,
+      "Player": "NickLatkovich",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.4,
+      "OGWP": 0.57407407
+    }
+  ]
+}

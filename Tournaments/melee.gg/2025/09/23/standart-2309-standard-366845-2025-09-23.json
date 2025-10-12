@@ -1,0 +1,188 @@
+{
+  "Tournament": {
+    "Date": "2025-09-23T16:00:00Z",
+    "Name": "Стандарт (23.09)",
+    "Uri": "https://melee.gg/Tournament/View/366845"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Egor Snytko",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/81eb9ca2-1a27-4097-8181-b36100ff4cc7",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chandra, Spark Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clockwork Percussionist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dubious Delicacy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kavaron Harrier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Legion Extruder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mephitic Draught"
+        },
+        {
+          "Count": 8,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rottenmouth Viper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rust Harvester"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tarrian&#39;s Journal // The Tomb of Aclazotz"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tithing Blade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weapons Manufacturing"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "[OMG]Summie",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.47916667,
+      "GWP": 0.77777778,
+      "OGWP": 0.48611111
+    },
+    {
+      "Rank": 2,
+      "Player": "Rostislav Brozhat",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.63636364,
+      "OGWP": 0.47222222
+    },
+    {
+      "Rank": 3,
+      "Player": "Роман Кохан",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.63636364,
+      "OGWP": 0.47222222
+    },
+    {
+      "Rank": 4,
+      "Player": "Maxim Shagoiko",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.66666667,
+      "GWP": 0.55555556,
+      "OGWP": 0.5959596
+    },
+    {
+      "Rank": 5,
+      "Player": "BuRial63",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.77777778,
+      "GWP": 0.5,
+      "OGWP": 0.68350168
+    },
+    {
+      "Rank": 6,
+      "Player": "Maksim Martseniuk",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.5,
+      "OGWP": 0.54040404
+    },
+    {
+      "Rank": 7,
+      "Player": "Egor Snytko",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.55555556,
+      "GWP": 0.55555556,
+      "OGWP": 0.53703704
+    },
+    {
+      "Rank": 8,
+      "Player": "Valentine Novikov",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.25,
+      "OGWP": 0.53703704
+    },
+    {
+      "Rank": 9,
+      "Player": "4exOFFby",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.77777778,
+      "GWP": 0.33333333,
+      "OGWP": 0.68350168
+    }
+  ]
+}

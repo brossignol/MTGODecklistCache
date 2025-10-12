@@ -1,0 +1,247 @@
+{
+  "Tournament": {
+    "Date": "2025-08-08T23:25:00Z",
+    "Name": "Pauper Semanal",
+    "Uri": "https://melee.gg/Tournament/View/349967"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "CleitonRasta",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/329a172a-d2d8-4a16-b3f5-b333017e6f89",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "LunaSophy",
+      "Result": "10th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/04ab2af8-68a9-4c0b-92a9-b33301779025",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 2,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delver of Secrets"
+        },
+        {
+          "Count": 4,
+          "CardName": "Exhume"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 1,
+          "CardName": "Geothermal Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gurmag Angler"
+        },
+        {
+          "Count": 9,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "L&#243;rien Revealed"
+        },
+        {
+          "Count": 1,
+          "CardName": "Molten Tributary"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Troll of Khazad-d&#251;m"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unexpected Fangs"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Echoing Truth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rotten Reunion"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Ravager",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.8,
+      "OGWP": 0.61805556
+    },
+    {
+      "Rank": 2,
+      "Player": "Francisco0",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.75,
+      "OGWP": 0.53981481
+    },
+    {
+      "Rank": 3,
+      "Player": "Tiago Santos",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.77777778,
+      "OGWP": 0.50555556
+    },
+    {
+      "Rank": 4,
+      "Player": "DrJozeca",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.41666667,
+      "GWP": 0.6,
+      "OGWP": 0.41319444
+    },
+    {
+      "Rank": 5,
+      "Player": "Daniel Andrade",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.77777778,
+      "GWP": 0.44444444,
+      "OGWP": 0.72592593
+    },
+    {
+      "Rank": 6,
+      "Player": "Paulo Lencioni",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.5,
+      "OGWP": 0.55833333
+    },
+    {
+      "Rank": 7,
+      "Player": "CleitonRasta",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.44444444,
+      "OGWP": 0.59027778
+    },
+    {
+      "Rank": 8,
+      "Player": "JoaoDomingues",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.375,
+      "OGWP": 0.50416667
+    },
+    {
+      "Rank": 9,
+      "Player": "Maugust",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.33333333,
+      "OGWP": 0.49652778
+    },
+    {
+      "Rank": 10,
+      "Player": "LunaSophy",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4375,
+      "GWP": 0.3,
+      "OGWP": 0.43819444
+    },
+    {
+      "Rank": 11,
+      "Player": "Raviell",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.47222222
+    }
+  ]
+}

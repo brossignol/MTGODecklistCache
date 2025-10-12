@@ -1,0 +1,305 @@
+{
+  "Tournament": {
+    "Date": "2025-06-19T16:00:00Z",
+    "Name": "Пионер. Летняя Лига (19.06)",
+    "Uri": "https://melee.gg/Tournament/View/328637"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "NickLatkovich",
+      "Result": "12th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/081cdb42-e73c-40b0-ae85-b3010106412e",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Anger of the Gods"
+        },
+        {
+          "Count": 3,
+          "CardName": "Big Score"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deduce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Indomitable Creativity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jwari Disruption"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mirrex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 3,
+          "CardName": "Phantom Interference"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismari Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverglide Pathway"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scorching Shot"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shivan Reef"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valakut Awakening"
+        },
+        {
+          "Count": 3,
+          "CardName": "Volcanic Spite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Worldspine Wurm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Xenagos, God of Revels"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Aether Gust"
+        },
+        {
+          "Count": 1,
+          "CardName": "Anger of the Gods"
+        },
+        {
+          "Count": 1,
+          "CardName": "Day&#39;s Undoing"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dragonlord Dromoka"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hullbreaker Horror"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 3,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rending Volley"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tears of Valakut"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "vorotinskyV",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.72727273,
+      "OGWP": 0.64242424
+    },
+    {
+      "Rank": 2,
+      "Player": "Dukalis1985",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.6,
+      "OGWP": 0.57239057
+    },
+    {
+      "Rank": 3,
+      "Player": "Rostislav Brozhat",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.63636364,
+      "OGWP": 0.56818182
+    },
+    {
+      "Rank": 4,
+      "Player": "Роман Кохан",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.77777778,
+      "OGWP": 0.48737374
+    },
+    {
+      "Rank": 5,
+      "Player": "ispinyouround",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.55555556,
+      "OGWP": 0.47878788
+    },
+    {
+      "Rank": 6,
+      "Player": "Dzianis Chuyanau",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.4375,
+      "GWP": 0.54545455,
+      "OGWP": 0.45858586
+    },
+    {
+      "Rank": 7,
+      "Player": "Maksim Martseniuk",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.69444444,
+      "GWP": 0.55555556,
+      "OGWP": 0.61279461
+    },
+    {
+      "Rank": 8,
+      "Player": "Maxim Shagoiko",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.54545455,
+      "OGWP": 0.52878788
+    },
+    {
+      "Rank": 9,
+      "Player": "Aleksei Raptunovich",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.44444444,
+      "OGWP": 0.52323232
+    },
+    {
+      "Rank": 10,
+      "Player": "gerber2000",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.25,
+      "OGWP": 0.51414141
+    },
+    {
+      "Rank": 11,
+      "Player": "Valentine Novikov",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47222222,
+      "GWP": 0.33333333,
+      "OGWP": 0.54074074
+    },
+    {
+      "Rank": 12,
+      "Player": "NickLatkovich",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.45833333,
+      "GWP": 0.4,
+      "OGWP": 0.44191919
+    },
+    {
+      "Rank": 13,
+      "Player": "Elixes",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.2,
+      "OGWP": 0.66161616
+    }
+  ]
+}

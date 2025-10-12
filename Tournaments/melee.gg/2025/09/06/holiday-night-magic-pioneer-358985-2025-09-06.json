@@ -1,0 +1,427 @@
+{
+  "Tournament": {
+    "Date": "2025-09-06T12:15:00Z",
+    "Name": "Holiday Night Magic",
+    "Uri": "https://melee.gg/Tournament/View/358985"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "aono12345",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/b7a63d02-42da-4d64-a8ff-b35000c34482",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abhorrent Oculus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Botanical Sanctum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Essence Flux"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fading Hope"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fallaji Archaeologist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hooting Mandrills"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mistrise Village"
+        },
+        {
+          "Count": 4,
+          "CardName": "Neoform"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Otherworldly Gaze"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stubborn Denial"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundertrap Trainer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Town Greeter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Yavimaya Coast"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fading Hope"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Koma, Cosmos Serpent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pick Your Poison"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "Toxrill, the Corrosive"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "SB36",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/16159ff6-75a8-4f3d-8bf6-b35000c31916",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Archdruid&#39;s Charm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bloomvine Regent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Castle Garenbrig"
+        },
+        {
+          "Count": 1,
+          "CardName": "Craterhoof Behemoth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duskwatch Recruiter"
+        },
+        {
+          "Count": 11,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gruff Triplets"
+        },
+        {
+          "Count": 4,
+          "CardName": "Invasion of Ixalan"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nykthos, Shrine to Nyx"
+        },
+        {
+          "Count": 2,
+          "CardName": "Old-Growth Troll"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ouroboroid"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunken Citadel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Titan of Industry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tyvar, the Pummeler"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vorinclex"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Heritage Reclamation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scrapshooter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Setessan Petitioner"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tail Swipe"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Stone Brain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tyrranax Rex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unlicensed Hearse"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "pao1989-06933",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/0fe14cd8-703f-4ae6-b3c3-b350006536d0",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Alrund&#39;s Epiphany"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Divide by Zero"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extraordinary Journey"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fading Hope"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hall of Storm Giants"
+        },
+        {
+          "Count": 2,
+          "CardName": "Interplanar Beacon"
+        },
+        {
+          "Count": 18,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karn&#39;s Temporal Sundering"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lier, Disciple of the Drowned"
+        },
+        {
+          "Count": 2,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nykthos, Shrine to Nyx"
+        },
+        {
+          "Count": 4,
+          "CardName": "Omen Hawker"
+        },
+        {
+          "Count": 1,
+          "CardName": "One with the Multiverse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 3,
+          "CardName": "Portent of Calamity"
+        },
+        {
+          "Count": 3,
+          "CardName": "Proft&#39;s Eidetic Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stormchaser&#39;s Talent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tezzeret, Cruel Captain"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Enigma Jewel"
+        },
+        {
+          "Count": 2,
+          "CardName": "This Town Ain&#39;t Big Enough"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thundertrap Trainer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Treasure Vault"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Environmental Sciences"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fog Bank"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mascot Exhibition"
+        },
+        {
+          "Count": 2,
+          "CardName": "Orvar, the All-Form"
+        },
+        {
+          "Count": 2,
+          "CardName": "Silent Gravestone"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teachings of the Archaics"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ugin, Eye of the Storms"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "aono12345",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.85714286,
+      "OGWP": 0.53571429
+    },
+    {
+      "Rank": 2,
+      "Player": "SB36",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.66666667,
+      "GWP": 0.57142857,
+      "OGWP": 0.67857143
+    },
+    {
+      "Rank": 3,
+      "Player": "pao1989-06933",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.83333333,
+      "GWP": 0.5,
+      "OGWP": 0.71428571
+    }
+  ]
+}
