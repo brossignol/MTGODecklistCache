@@ -1,0 +1,145 @@
+{
+  "Tournament": {
+    "Date": "2025-10-16T00:00:00Z",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2025-10-169766"
+  },
+  "Decks": [
+    {
+      "Date": "2025-10-16T00:00:00",
+      "Player": "meengreen",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-10-169766#deck_meengreen",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Aerith Gainsborough"
+        },
+        {
+          "Count": 3,
+          "CardName": "Amalia Benavides Aguirre"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bleachbone Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Case of the Uneaten Feast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Enduring Innocence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Essence Channeler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 3,
+          "CardName": "Haliya, Guided by Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hinterland Sanctifier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Luis, Pompous Pillager"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lunar Convocation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Starscape Cleric"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Zora, Spider Fancier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Zoraline, Cosmos Caller"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Ademi of the Silkchutes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Authority of the Consuls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elspeth, Storm Slayer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lunar Convocation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Requisition Raid"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shoot the Sheriff"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
