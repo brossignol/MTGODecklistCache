@@ -1,0 +1,283 @@
+{
+  "Tournament": {
+    "Date": "2025-10-17T00:00:00Z",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2025-10-179758"
+  },
+  "Decks": [
+    {
+      "Date": "2025-10-17T00:00:00",
+      "Player": "darg24",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2025-10-179758#deck_darg24",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Change the Equation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deserted Beach"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dovin's Veto"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elspeth, Storm Slayer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Farewell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Field of Ruin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 3,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hall of Storm Giants"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 4,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Hero of Dominaria"
+        },
+        {
+          "Count": 2,
+          "CardName": "Temporary Lockdown"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Wandering Emperor"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Dovin's Veto"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elspeth's Smite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Farewell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaheera, the Orphanguard"
+        },
+        {
+          "Count": 2,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 2,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Temporary Lockdown"
+        }
+      ]
+    },
+    {
+      "Date": "2025-10-17T00:00:00",
+      "Player": "SeventhProphet",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2025-10-179758#deck_SeventhProphet",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Agatha's Soul Cauldron"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Botanical Sanctum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cenote Scout"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deeproot Pilgrimage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Evendo, Waking Haven"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodpits Drowner"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kiora, the Rising Tide"
+        },
+        {
+          "Count": 3,
+          "CardName": "Kiora's Follower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mindspring Merfolk"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sentinel of the Nameless City"
+        },
+        {
+          "Count": 2,
+          "CardName": "Silvergill Adept"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vodalian Hexcatcher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Willowrush Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ephara's Dispersal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mistcaller"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pawpatch Formation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shapers' Sanctuary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tidebinder Mage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unable to Scream"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}

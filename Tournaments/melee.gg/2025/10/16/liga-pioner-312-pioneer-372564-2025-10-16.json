@@ -1,0 +1,234 @@
+{
+  "Tournament": {
+    "Date": "2025-10-16T16:00:00Z",
+    "Name": "Лига Пионер (3/12)",
+    "Uri": "https://melee.gg/Tournament/View/372564"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Stas Voiteh",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/7161d111-9f5b-4bf2-bc1b-b37801149fbf",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arclight Phoenix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Artist&#39;s Talent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cori-Steel Cutter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fiery Impulse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hall of Storm Giants"
+        },
+        {
+          "Count": 2,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Axe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 3,
+          "CardName": "Picklock Prankster"
+        },
+        {
+          "Count": 1,
+          "CardName": "Proft&#39;s Eidetic Memory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverglide Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spikefield Hazard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Treasure Cruise"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Aether Gust"
+        },
+        {
+          "Count": 1,
+          "CardName": "Anger of the Gods"
+        },
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Brazen Borrower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brotherhood&#39;s End"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chandra&#39;s Defeat"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Dzianis Chuyanau",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.54166667,
+      "GWP": 0.73333333,
+      "OGWP": 0.5218254
+    },
+    {
+      "Rank": 2,
+      "Player": "Stas Voiteh",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.66666667,
+      "OGWP": 0.48571429
+    },
+    {
+      "Rank": 3,
+      "Player": "Alex Khan",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.60416667,
+      "GWP": 0.47619048,
+      "OGWP": 0.6
+    },
+    {
+      "Rank": 4,
+      "Player": "Rostislav Brozhat",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.55555556,
+      "GWP": 0.5,
+      "OGWP": 0.57777778
+    },
+    {
+      "Rank": 5,
+      "Player": "ispinyouround",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.55555556,
+      "OGWP": 0.45873016
+    },
+    {
+      "Rank": 6,
+      "Player": "Maxim Shagoiko",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.4,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 7,
+      "Player": "Ihar Plisko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.44444444,
+      "OGWP": 0.52738095
+    },
+    {
+      "Rank": 8,
+      "Player": "GlebK",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.33333333,
+      "OGWP": 0.53333333
+    }
+  ]
+}
