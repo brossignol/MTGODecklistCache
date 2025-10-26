@@ -1,0 +1,235 @@
+{
+  "Tournament": {
+    "Date": "2025-10-26T10:00:00Z",
+    "Name": "️Лига Модерн (4/12)",
+    "Uri": "https://melee.gg/Tournament/View/374673"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Stas Voiteh",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/05b2aa30-fde6-4978-8a5a-b38200956277",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Phelia, Exuberant Shepherd"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phlage, Titan of Fire&#39;s Fury"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 3,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wrath of the Skies"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Celestial Purge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 4,
+          "CardName": "Obsidian Charmaw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Stas Voiteh",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.66666667,
+      "OGWP": 0.6
+    },
+    {
+      "Rank": 2,
+      "Player": "Rostislav Brozhat",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.7,
+      "OGWP": 0.56041667
+    },
+    {
+      "Rank": 3,
+      "Player": "Valery Zubovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.6,
+      "OGWP": 0.55
+    },
+    {
+      "Rank": 4,
+      "Player": "DanilaNabeshko",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.6,
+      "OGWP": 0.56666667
+    },
+    {
+      "Rank": 5,
+      "Player": "Maksim Martseniuk",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.5,
+      "OGWP": 0.54722222
+    },
+    {
+      "Rank": 6,
+      "Player": "Mikita Charniauski",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.375,
+      "OGWP": 0.51111111
+    },
+    {
+      "Rank": 7,
+      "Player": "EggsLicker",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52777778,
+      "GWP": 0.33333333,
+      "OGWP": 0.525
+    }
+  ]
+}
