@@ -1,0 +1,320 @@
+{
+  "Tournament": {
+    "Date": "2025-10-31T22:00:00Z",
+    "Name": "LDXP SEA25 10/31 Legacy Challenge 3:00 PM",
+    "Uri": "https://melee.gg/Tournament/View/372953"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Gobbos4Daze",
+      "Result": "13th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e95f87bd-11d4-4154-b042-b3870156cb5d",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Badlands"
+        },
+        {
+          "Count": 3,
+          "CardName": "Beseech the Mirror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burning Wish"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chrome Mox"
+        },
+        {
+          "Count": 1,
+          "CardName": "Commercial District"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 3,
+          "CardName": "Echo of Eons"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gaea&#39;s Will"
+        },
+        {
+          "Count": 2,
+          "CardName": "Galvanic Relay"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gamble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lion&#39;s Eye Diamond"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Opal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Runehorn Hellkite"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Song of Creation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Taiga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tendrils of Agony"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underground Sea"
+        },
+        {
+          "Count": 4,
+          "CardName": "Veil of Summer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Verdant Catacombs"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Approach of the Second Sun"
+        },
+        {
+          "Count": 1,
+          "CardName": "Beseech the Mirror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echo of Eons"
+        },
+        {
+          "Count": 1,
+          "CardName": "Empty the Warrens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Galvanic Relay"
+        },
+        {
+          "Count": 2,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pulverize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spider-Punk"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tendrils of Agony"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Void Snare"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Markus Thibeau",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 1.0,
+      "OGWP": 0.51136364
+    },
+    {
+      "Rank": 2,
+      "Player": "Danyul",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.54545455,
+      "OGWP": 0.66666667
+    },
+    {
+      "Rank": 3,
+      "Player": "RobinH",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.77777778,
+      "OGWP": 0.51136364
+    },
+    {
+      "Rank": 4,
+      "Player": "LaurenDolceVita",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.66666667,
+      "OGWP": 0.56313131
+    },
+    {
+      "Rank": 5,
+      "Player": "David Dimalanta",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.66666667,
+      "OGWP": 0.48737374
+    },
+    {
+      "Rank": 6,
+      "Player": "Omer Boudrissa",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.5,
+      "OGWP": 0.63535354
+    },
+    {
+      "Rank": 7,
+      "Player": "ESGoftheEmeraldCity",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.55555556,
+      "OGWP": 0.51414141
+    },
+    {
+      "Rank": 8,
+      "Player": "TheJenShow",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.44444444,
+      "OGWP": 0.47979798
+    },
+    {
+      "Rank": 9,
+      "Player": "Dawson Carson",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.4,
+      "OGWP": 0.44570707
+    },
+    {
+      "Rank": 10,
+      "Player": "Neil Hartman",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.36363636,
+      "OGWP": 0.51666667
+    },
+    {
+      "Rank": 11,
+      "Player": "GoblinDezNuts",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.3,
+      "OGWP": 0.56313131
+    },
+    {
+      "Rank": 12,
+      "Player": "Jason Wong",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.36363636,
+      "OGWP": 0.44090909
+    },
+    {
+      "Rank": 13,
+      "Player": "Gobbos4Daze",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.36363636,
+      "OGWP": 0.41035354
+    },
+    {
+      "Rank": 14,
+      "Player": "Kayl Graydon",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.27272727,
+      "OGWP": 0.56818182
+    }
+  ]
+}
