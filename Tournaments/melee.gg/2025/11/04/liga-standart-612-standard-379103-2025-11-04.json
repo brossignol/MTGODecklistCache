@@ -1,0 +1,222 @@
+{
+  "Tournament": {
+    "Date": "2025-11-04T16:00:00Z",
+    "Name": "Лига Стандарт (6/12)",
+    "Uri": "https://melee.gg/Tournament/View/379103"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "NickLatkovich",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/18b622ed-4190-43b6-b9e2-b38b0101ac30",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Agatha&#39;s Soul Cauldron"
+        },
+        {
+          "Count": 4,
+          "CardName": "Botanical Sanctum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bushwhack"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gingerbrute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hard-Hitting Question"
+        },
+        {
+          "Count": 3,
+          "CardName": "Iron Spider, Stark Upgrade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Jackal, Genius Geneticist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Marvin, Murderous Mimic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ouroboroid"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Vinestalk"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spyglass Siren"
+        },
+        {
+          "Count": 2,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 3,
+          "CardName": "Subterranean Schooner"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tough Cookie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Willowrush Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Zoetic Glyph"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Azure Beastbinder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Enduring Curiosity"
+        },
+        {
+          "Count": 2,
+          "CardName": "Heritage Reclamation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 3,
+          "CardName": "Repulsive Mutation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Unable to Scream"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Rostislav Brozhat",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.8,
+      "OGWP": 0.54646465
+    },
+    {
+      "Rank": 2,
+      "Player": "Stas Voiteh",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.66666667,
+      "OGWP": 0.51313131
+    },
+    {
+      "Rank": 3,
+      "Player": "NickLatkovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.6,
+      "OGWP": 0.49166667
+    },
+    {
+      "Rank": 4,
+      "Player": "[OMG]Summie",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.55555556,
+      "OGWP": 0.575
+    },
+    {
+      "Rank": 5,
+      "Player": "Maksim Martseniuk",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.5,
+      "OGWP": 0.46313131
+    },
+    {
+      "Rank": 6,
+      "Player": "Maxim Shagoiko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.36363636,
+      "OGWP": 0.575
+    },
+    {
+      "Rank": 7,
+      "Player": "Yauheni Ihnatsik",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.58333333,
+      "GWP": 0.3,
+      "OGWP": 0.525
+    },
+    {
+      "Rank": 8,
+      "Player": "Egor Snytko",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.27272727,
+      "OGWP": 0.46313131
+    }
+  ]
+}
