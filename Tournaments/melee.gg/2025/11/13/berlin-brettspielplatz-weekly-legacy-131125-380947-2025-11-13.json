@@ -1,0 +1,162 @@
+{
+  "Tournament": {
+    "Date": "2025-11-13T18:15:00Z",
+    "Name": "Berlin Brettspielplatz Weekly Legacy 13.11.25",
+    "Uri": "https://melee.gg/Tournament/View/380947"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Hanlin X",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/f8f38c8c-aff4-4c9e-bc3a-b38e0170e88d",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "realplayazgrind4ever",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/77c253f2-0359-4fba-8040-b39400fb6df9",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Tamiyo, Inquisitive Student"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Thevoidsleeper",
+      "Result": "11th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1e6cdde1-3c01-4a3c-bfa1-b39300d3d67a",
+      "Mainboard": [],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Lucas Römmer",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.70833333,
+      "GWP": 0.875,
+      "OGWP": 0.60511364
+    },
+    {
+      "Rank": 2,
+      "Player": "Hanlin X",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.54166667,
+      "GWP": 0.875,
+      "OGWP": 0.52708333
+    },
+    {
+      "Rank": 3,
+      "Player": "realplayazgrind4ever",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.6,
+      "OGWP": 0.67348485
+    },
+    {
+      "Rank": 4,
+      "Player": "Christoph Ransmann",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.54545455,
+      "OGWP": 0.52935606
+    },
+    {
+      "Rank": 5,
+      "Player": "Ju Tau",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.4,
+      "OGWP": 0.67840909
+    },
+    {
+      "Rank": 6,
+      "Player": "FrancescoC1",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.61111111,
+      "GWP": 0.54545455,
+      "OGWP": 0.51515152
+    },
+    {
+      "Rank": 7,
+      "Player": "Jochen Nies",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.55555556,
+      "GWP": 0.5,
+      "OGWP": 0.61287879
+    },
+    {
+      "Rank": 8,
+      "Player": "Vinc355",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.6,
+      "OGWP": 0.45833333
+    },
+    {
+      "Rank": 9,
+      "Player": "DavP15",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.33333333,
+      "OGWP": 0.60511364
+    },
+    {
+      "Rank": 10,
+      "Player": "CooperW",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52083333,
+      "GWP": 0.36363636,
+      "OGWP": 0.46136364
+    },
+    {
+      "Rank": 11,
+      "Player": "Thevoidsleeper",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.38888889,
+      "GWP": 0.4,
+      "OGWP": 0.41414141
+    }
+  ]
+}
