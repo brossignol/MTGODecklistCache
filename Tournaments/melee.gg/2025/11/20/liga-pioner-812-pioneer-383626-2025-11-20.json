@@ -1,0 +1,260 @@
+{
+  "Tournament": {
+    "Date": "2025-11-20T16:00:00Z",
+    "Name": "Лига Пионер (8/12)",
+    "Uri": "https://melee.gg/Tournament/View/383626"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "NickLatkovich",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/36c2ad56-285d-44f2-9fe5-b39b00d44070",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Censor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deduce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Prophecy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Indomitable Creativity"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mirrex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mistrise Village"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismari Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverglide Pathway"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shark Typhoon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Titan of Industry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unable to Scream"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valgavoth, Terror Eater"
+        },
+        {
+          "Count": 4,
+          "CardName": "Volcanic Spite"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Aether Gust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chandra, Awakened Inferno"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chandra&#39;s Defeat"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fiery Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of Sanctity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroclasm"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Rostislav Brozhat",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.72727273,
+      "OGWP": 0.54166667
+    },
+    {
+      "Rank": 2,
+      "Player": "NickLatkovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.60416667,
+      "GWP": 0.75,
+      "OGWP": 0.49848485
+    },
+    {
+      "Rank": 3,
+      "Player": "praim",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.58333333,
+      "OGWP": 0.52651515
+    },
+    {
+      "Rank": 4,
+      "Player": "Tsimafei Paulouski",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.47916667,
+      "GWP": 0.6,
+      "OGWP": 0.4905303
+    },
+    {
+      "Rank": 5,
+      "Player": "GlebK",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.54545455,
+      "OGWP": 0.4625
+    },
+    {
+      "Rank": 6,
+      "Player": "ykcyc",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.69444444,
+      "GWP": 0.5,
+      "OGWP": 0.5479798
+    },
+    {
+      "Rank": 7,
+      "Player": "Maxim Shagoiko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.64583333,
+      "GWP": 0.33333333,
+      "OGWP": 0.56666667
+    },
+    {
+      "Rank": 8,
+      "Player": "diuzhev",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.33333333,
+      "OGWP": 0.62424242
+    },
+    {
+      "Rank": 9,
+      "Player": "Dzianis Chuyanau",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.54166667,
+      "GWP": 0.33333333,
+      "OGWP": 0.625
+    },
+    {
+      "Rank": 10,
+      "Player": "OMGProfunny",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.41666667,
+      "GWP": 0.33333333,
+      "OGWP": 0.43939394
+    }
+  ]
+}
