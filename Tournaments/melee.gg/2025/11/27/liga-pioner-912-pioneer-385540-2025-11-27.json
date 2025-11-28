@@ -1,0 +1,303 @@
+{
+  "Tournament": {
+    "Date": "2025-11-27T16:00:00Z",
+    "Name": "️Лига Пионер (9/12)",
+    "Uri": "https://melee.gg/Tournament/View/385540"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "NickLatkovich",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/cfa67788-a751-4a71-b446-b3a200f44b32",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Censor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deduce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Prophecy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Indomitable Creativity"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mirrex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mistrise Village"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismari Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverglide Pathway"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shark Typhoon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Titan of Industry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unable to Scream"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valgavoth, Terror Eater"
+        },
+        {
+          "Count": 4,
+          "CardName": "Volcanic Spite"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Aether Gust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chandra, Awakened Inferno"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chandra&#39;s Defeat"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fiery Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of Sanctity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroclasm"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Asafas",
+      "Result": "12th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/7bbbf4c1-d71b-474a-a705-b3a200f127d0",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Didn&#39;t Say Please"
+        },
+        {
+          "Count": 3,
+          "CardName": "Quench"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unsummon"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "NickLatkovich",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.7272727,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 2,
+      "Player": "Aleksei Raptunovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.6,
+      "OGWP": 0.6010101
+    },
+    {
+      "Rank": 3,
+      "Player": "Tsimafei Paulouski",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.6666667,
+      "OGWP": 0.4897817
+    },
+    {
+      "Rank": 4,
+      "Player": "Egor Kryshkavets",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5416667,
+      "GWP": 0.6,
+      "OGWP": 0.5190747
+    },
+    {
+      "Rank": 5,
+      "Player": "diuzhev",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.5555556,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 6,
+      "Player": "Maxim Shagoiko",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.4545455,
+      "OGWP": 0.4801136
+    },
+    {
+      "Rank": 7,
+      "Player": "Rostislav Brozhat",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4375,
+      "GWP": 0.5454545,
+      "OGWP": 0.4636364
+    },
+    {
+      "Rank": 8,
+      "Player": "Alex Khan",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5416667,
+      "GWP": 0.375,
+      "OGWP": 0.530303
+    },
+    {
+      "Rank": 9,
+      "Player": "Dzianis Chuyanau",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.4,
+      "OGWP": 0.5508207
+    },
+    {
+      "Rank": 10,
+      "Player": "praim",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.4,
+      "OGWP": 0.5151515
+    },
+    {
+      "Rank": 11,
+      "Player": "GlebK",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555555,
+      "GWP": 0.4285714,
+      "OGWP": 0.5333333
+    },
+    {
+      "Rank": 12,
+      "Player": "Asafas",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.3888889,
+      "GWP": 0.3333333,
+      "OGWP": 0.4613757
+    }
+  ]
+}
