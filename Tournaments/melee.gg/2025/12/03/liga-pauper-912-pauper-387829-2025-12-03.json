@@ -1,0 +1,339 @@
+{
+  "Tournament": {
+    "Date": "2025-12-03T16:00:00Z",
+    "Name": "Лига Паупер (9/12)",
+    "Uri": "https://melee.gg/Tournament/View/387829"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "A Klshk",
+      "Result": "11th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/da512455-c07d-4e5e-86f5-b3a801057ea2",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 100,
+          "CardName": "Island"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Asafas",
+      "Result": "14th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1b74c7ba-89c2-4b98-83fe-b3a8010319b9",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 3,
+          "CardName": "Anticipate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Clear the Mind"
+        },
+        {
+          "Count": 2,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Divination"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dreams of Laguna"
+        },
+        {
+          "Count": 4,
+          "CardName": "Evolving Wilds"
+        },
+        {
+          "Count": 3,
+          "CardName": "Frantic Inventory"
+        },
+        {
+          "Count": 15,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lose Focus"
+        },
+        {
+          "Count": 3,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Otherworldly Gaze"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rune Snag"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stern Dismissal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unsummon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vapor Snag"
+        },
+        {
+          "Count": 2,
+          "CardName": "Waterknot"
+        },
+        {
+          "Count": 2,
+          "CardName": "Watery Grasp"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Anticipate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cryptic Serpent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Didn&#39;t Say Please"
+        },
+        {
+          "Count": 3,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Frantic Inventory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lose Focus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rune Snag"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Роман Кохан",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.625,
+      "GWP": 0.875,
+      "OGWP": 0.5710317
+    },
+    {
+      "Rank": 2,
+      "Player": "Valentine Novikov",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.5416667,
+      "GWP": 0.7,
+      "OGWP": 0.5773359
+    },
+    {
+      "Rank": 3,
+      "Player": "Danila Skamarokh",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.6363636,
+      "OGWP": 0.5919192
+    },
+    {
+      "Rank": 4,
+      "Player": "Aleksei Raptunovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.6,
+      "OGWP": 0.56875
+    },
+    {
+      "Rank": 5,
+      "Player": "BuRial63",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.6666667,
+      "OGWP": 0.4960317
+    },
+    {
+      "Rank": 6,
+      "Player": "diuzhev",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.4583333,
+      "GWP": 0.5555556,
+      "OGWP": 0.4854167
+    },
+    {
+      "Rank": 7,
+      "Player": "Aliaksandr",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6458333,
+      "GWP": 0.5454545,
+      "OGWP": 0.5729798
+    },
+    {
+      "Rank": 8,
+      "Player": "Maksim Martseniuk",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6041667,
+      "GWP": 0.5555556,
+      "OGWP": 0.5174242
+    },
+    {
+      "Rank": 9,
+      "Player": "Dukalis1985",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.5555556,
+      "OGWP": 0.469697
+    },
+    {
+      "Rank": 10,
+      "Player": "Maxim Shagoiko",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.4,
+      "OGWP": 0.4661616
+    },
+    {
+      "Rank": 11,
+      "Player": "A Klshk",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6388889,
+      "GWP": 0.4285714,
+      "OGWP": 0.625
+    },
+    {
+      "Rank": 12,
+      "Player": "AmericanSoup",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6111111,
+      "GWP": 0.4,
+      "OGWP": 0.5185185
+    },
+    {
+      "Rank": 13,
+      "Player": "Ihar Plisko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.3636364,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 14,
+      "Player": "Asafas",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5277778,
+      "GWP": 0.3333333,
+      "OGWP": 0.5555556
+    },
+    {
+      "Rank": 15,
+      "Player": "andrei",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6388889,
+      "GWP": 0.3333333,
+      "OGWP": 0.6037037
+    },
+    {
+      "Rank": 16,
+      "Player": "Valery Zubovich",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.3333333,
+      "GWP": 0.3333333,
+      "OGWP": 0.3961039
+    }
+  ]
+}
