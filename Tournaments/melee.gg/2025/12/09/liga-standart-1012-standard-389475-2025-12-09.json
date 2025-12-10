@@ -1,0 +1,245 @@
+{
+  "Tournament": {
+    "Date": "2025-12-09T16:00:00Z",
+    "Name": "Лига Стандарт (10/12)",
+    "Uri": "https://melee.gg/Tournament/View/389475"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Egor Snytko",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/f6f2a9bd-91b6-4b4d-ad8d-b3ae010389ed",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Chandra, Spark Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Collector&#39;s Vault"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Detective&#39;s Satchel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gleaming Geardrake"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Legion Extruder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Raucous Theater"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tarrian&#39;s Journal // The Tomb of Aclazotz"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Enigma Jewel"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Soul Stone"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tithing Blade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 3,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weapons Manufacturing"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Binding Negotiation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deadly Cover-Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Intimidation Tactics"
+        },
+        {
+          "Count": 1,
+          "CardName": "Molten Collapse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Egor Snytko",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4583333,
+      "GWP": 0.8,
+      "OGWP": 0.46875
+    },
+    {
+      "Rank": 2,
+      "Player": "[OMG]Summie",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.6666667,
+      "OGWP": 0.4768519
+    },
+    {
+      "Rank": 3,
+      "Player": "Maksim Martseniuk",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.5,
+      "OGWP": 0.6305556
+    },
+    {
+      "Rank": 4,
+      "Player": "Valentine Novikov",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.5,
+      "OGWP": 0.6518519
+    },
+    {
+      "Rank": 5,
+      "Player": "Mimakasya",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.5,
+      "OGWP": 0.56875
+    },
+    {
+      "Rank": 6,
+      "Player": "Yauheni Ihnatsik",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5208333,
+      "GWP": 0.5555556,
+      "OGWP": 0.5104167
+    },
+    {
+      "Rank": 7,
+      "Player": "Rostislav Brozhat",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.6,
+      "OGWP": 0.4583333
+    },
+    {
+      "Rank": 8,
+      "Player": "Asafas",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6111111,
+      "GWP": 0.375,
+      "OGWP": 0.5916667
+    },
+    {
+      "Rank": 9,
+      "Player": "Iliatrukhin2",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5208333,
+      "GWP": 0.375,
+      "OGWP": 0.5243056
+    }
+  ]
+}
