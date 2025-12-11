@@ -1,0 +1,172 @@
+{
+  "Tournament": {
+    "Date": "2025-12-10T16:00:00Z",
+    "Name": "Лига Паупер (10/12)",
+    "Uri": "https://melee.gg/Tournament/View/389691"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "A Klshk",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/cb291e27-8df7-4e51-baef-b3af0101e526",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 56,
+          "CardName": "Island"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "A Klshk",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.7272727,
+      "OGWP": 0.5103535
+    },
+    {
+      "Rank": 2,
+      "Player": "AndreyG",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6458333,
+      "GWP": 0.7777778,
+      "OGWP": 0.5540404
+    },
+    {
+      "Rank": 3,
+      "Player": "Aleksei Raptunovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.6,
+      "OGWP": 0.5368687
+    },
+    {
+      "Rank": 4,
+      "Player": "Valentine Novikov",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5277778,
+      "GWP": 0.6363636,
+      "OGWP": 0.4878788
+    },
+    {
+      "Rank": 5,
+      "Player": "Dukalis1985",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.6666667,
+      "OGWP": 0.4333333
+    },
+    {
+      "Rank": 6,
+      "Player": "Valery Zubovich",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6458333,
+      "GWP": 0.5,
+      "OGWP": 0.5520202
+    },
+    {
+      "Rank": 7,
+      "Player": "Maksim Martseniuk",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.5555556,
+      "OGWP": 0.5611111
+    },
+    {
+      "Rank": 8,
+      "Player": "Роман Кохан",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.4444444,
+      "OGWP": 0.4825758
+    },
+    {
+      "Rank": 9,
+      "Player": "Aliaksandr",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6458333,
+      "GWP": 0.3636364,
+      "OGWP": 0.5353535
+    },
+    {
+      "Rank": 10,
+      "Player": "Ihar Plisko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.4,
+      "OGWP": 0.5805556
+    },
+    {
+      "Rank": 11,
+      "Player": "HeartlessHero",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.4,
+      "OGWP": 0.5151515
+    },
+    {
+      "Rank": 12,
+      "Player": "BuRial63",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.3333333,
+      "OGWP": 0.7777778
+    },
+    {
+      "Rank": 13,
+      "Player": "AmericanSoup",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.3333333,
+      "OGWP": 0.5075758
+    }
+  ]
+}
