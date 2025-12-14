@@ -1,0 +1,248 @@
+{
+  "Tournament": {
+    "Date": "2025-12-13T17:00:00Z",
+    "Name": "MLCG LEgacy Challenge",
+    "Uri": "https://melee.gg/Tournament/View/385762"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Orlando DelValle",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/86d4be6e-b42c-4ed2-9f55-b3b20115c560",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ajani, Nacatl Pariah"
+        },
+        {
+          "Count": 4,
+          "CardName": "Amped Raptor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Badlands"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Goblin Bombardment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guide of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karakas"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plateau"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scrubland"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Staff of the Storyteller"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 3,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Containment Priest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jegantha, the Wellspring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meltdown"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Void Mirror"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Carter Kenehan",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.8,
+      "OGWP": 0.5366162
+    },
+    {
+      "Rank": 2,
+      "Player": "Phil Pratt",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.5454545,
+      "OGWP": 0.5727273
+    },
+    {
+      "Rank": 3,
+      "Player": "Orlando DelValle",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5208333,
+      "GWP": 0.7,
+      "OGWP": 0.4949495
+    },
+    {
+      "Rank": 4,
+      "Player": "chalmersac",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.7083333,
+      "GWP": 0.5454545,
+      "OGWP": 0.594697
+    },
+    {
+      "Rank": 5,
+      "Player": "Tyler Bailey",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6041667,
+      "GWP": 0.5555556,
+      "OGWP": 0.5416667
+    },
+    {
+      "Rank": 6,
+      "Player": "Fabian Dauzvardis",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6041667,
+      "GWP": 0.5454545,
+      "OGWP": 0.5030303
+    },
+    {
+      "Rank": 7,
+      "Player": "Eric Tamney",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6041667,
+      "GWP": 0.5,
+      "OGWP": 0.5030303
+    },
+    {
+      "Rank": 8,
+      "Player": "JVKasenchak",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4583333,
+      "GWP": 0.3333333,
+      "OGWP": 0.4835859
+    },
+    {
+      "Rank": 9,
+      "Player": "Will Greider",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4583333,
+      "GWP": 0.3333333,
+      "OGWP": 0.4810606
+    },
+    {
+      "Rank": 10,
+      "Player": "Sagheer Faiz",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.3333333,
+      "OGWP": 0.4805556
+    }
+  ]
+}
