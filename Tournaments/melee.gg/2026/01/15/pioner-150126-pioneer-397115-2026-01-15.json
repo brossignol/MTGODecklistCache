@@ -1,0 +1,158 @@
+{
+  "Tournament": {
+    "Date": "2026-01-15T16:00:00Z",
+    "Name": "Пионер (15.01.26)",
+    "Uri": "https://melee.gg/Tournament/View/397115"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "MiFlyer",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/35d4daff-9aa1-4b35-aec3-b3d30102adfb",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Copperline Gorge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emberheart Challenger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Heroes&#39; Hangout"
+        },
+        {
+          "Count": 4,
+          "CardName": "Karplusan Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kumano Faces Kakkazan"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monastery Swiftspear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monstrous Rage"
+        },
+        {
+          "Count": 8,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Questing Druid"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ramunap Ruins"
+        },
+        {
+          "Count": 3,
+          "CardName": "Reckless Rage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snakeskin Veil"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Soul-Scar Mage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Destructive Revelry"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lantern of the Lost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raze the Effigy"
+        },
+        {
+          "Count": 2,
+          "CardName": "Redcap Melee"
+        },
+        {
+          "Count": 3,
+          "CardName": "Roiling Vortex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scorching Shot"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vengeful Possession"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "MiFlyer",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.5714286,
+      "OGWP": 0.4708995
+    },
+    {
+      "Rank": 2,
+      "Player": "Глеб Крапіўніцкі",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.5555556,
+      "OGWP": 0.4761905
+    },
+    {
+      "Rank": 3,
+      "Player": "NickLatkovich",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.4285714,
+      "OGWP": 0.5185185
+    },
+    {
+      "Rank": 4,
+      "Player": "Bubuntailo",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.4285714,
+      "OGWP": 0.5185185
+    }
+  ]
+}
