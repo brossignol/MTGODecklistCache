@@ -1,0 +1,579 @@
+{
+  "Tournament": {
+    "Date": "2026-01-17T16:00:00Z",
+    "Name": "The NYCIS Heavy Play Championship",
+    "Uri": "https://melee.gg/Tournament/View/391510"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Jason Qiu",
+      "Result": "9th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/a1b542a8-a5d1-40cb-af40-b3d50005b8de",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Court Gold",
+      "Result": "12th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/ed6d07ad-f175-447d-9f98-b3d401830f95",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "John Tunney",
+      "Result": "16th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/124214a0-8a34-4897-862f-b3d5011a1779",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Chain Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clockwork Percussionist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Demand Answers"
+        },
+        {
+          "Count": 2,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 4,
+          "CardName": "Experimental Synthesizer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gingerbrute"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Tomb Raider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inventor&#39;s Axe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 13,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Electrickery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Smash to Smithereens"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "rodion trost",
+      "Result": "20th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/f8d14079-12c3-4678-b8a4-b3d5004fab4e",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "EtchedRavager",
+      "Result": "22th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8972e6b2-5aaa-4456-812b-b3d500657630",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "PatH24",
+      "Result": "28th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/a5c60202-b467-4b04-ba86-b3d5003aad15",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Jeff Jao",
+      "Result": "29th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/efb1f607-1208-4e40-a846-b3c700fca830",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Gino Bautista",
+      "Result": "30th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/ed275fe8-2fb8-4bf4-83d0-b3d50044294e",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Herman Lee",
+      "Result": "31th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/fff27ab4-1325-4fdd-b077-b3d3003aaee1",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Benjamin Chen",
+      "Result": "34th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8e5c297e-811b-4db5-9a0b-b3d500660bb5",
+      "Mainboard": [
+        {
+          "Count": 40,
+          "CardName": "Tundra"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Chris Cruz",
+      "Result": "35th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/6b93d686-46ad-46cb-a6f7-b3d401453cf6",
+      "Mainboard": [],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Michael Flores",
+      "Points": 13,
+      "Wins": 6,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5462963,
+      "GWP": 0.6,
+      "OGWP": 0.5184295
+    },
+    {
+      "Rank": 2,
+      "Player": "David Marchese",
+      "Points": 12,
+      "Wins": 6,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.5882353,
+      "OGWP": 0.5503061
+    },
+    {
+      "Rank": 3,
+      "Player": "Forrest Wang",
+      "Points": 14,
+      "Wins": 5,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.6666667,
+      "GWP": 0.5882353,
+      "OGWP": 0.5858932
+    },
+    {
+      "Rank": 4,
+      "Player": "Ryan Davis",
+      "Points": 13,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.537037,
+      "GWP": 0.625,
+      "OGWP": 0.4997989
+    },
+    {
+      "Rank": 5,
+      "Player": "Teddy Froelich",
+      "Points": 14,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.6203704,
+      "GWP": 0.625,
+      "OGWP": 0.5384395
+    },
+    {
+      "Rank": 6,
+      "Player": "Jakob Pablo",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6574074,
+      "GWP": 0.5882353,
+      "OGWP": 0.5726276
+    },
+    {
+      "Rank": 7,
+      "Player": "David Adelman",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6018518,
+      "GWP": 0.5625,
+      "OGWP": 0.5232707
+    },
+    {
+      "Rank": 8,
+      "Player": "Aaron Kaufman-Haft",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.4814815,
+      "GWP": 0.6222222,
+      "OGWP": 0.5182158
+    },
+    {
+      "Rank": 9,
+      "Player": "Jason Qiu",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4907407,
+      "GWP": 0.625,
+      "OGWP": 0.4790297
+    },
+    {
+      "Rank": 10,
+      "Player": "henrymorehouse",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4814815,
+      "GWP": 0.5555556,
+      "OGWP": 0.4659722
+    },
+    {
+      "Rank": 11,
+      "Player": "Soulnog",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.3703704,
+      "GWP": 0.5333333,
+      "OGWP": 0.4298611
+    },
+    {
+      "Rank": 12,
+      "Player": "Court Gold",
+      "Points": 11,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.5740741,
+      "GWP": 0.6222222,
+      "OGWP": 0.5322094
+    },
+    {
+      "Rank": 13,
+      "Player": "LouiseC",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.4259259,
+      "GWP": 0.5490196,
+      "OGWP": 0.4568554
+    },
+    {
+      "Rank": 14,
+      "Player": "Ryan Condon",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6203704,
+      "GWP": 0.4666667,
+      "OGWP": 0.5353612
+    },
+    {
+      "Rank": 15,
+      "Player": "Mora Steudel",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.5333333,
+      "OGWP": 0.5385307
+    },
+    {
+      "Rank": 16,
+      "Player": "John Tunney",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5648148,
+      "GWP": 0.5333333,
+      "OGWP": 0.5246596
+    },
+    {
+      "Rank": 17,
+      "Player": "Chris Danis",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5092593,
+      "GWP": 0.4615385,
+      "OGWP": 0.4916667
+    },
+    {
+      "Rank": 18,
+      "Player": "Gregory Berlinrut",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4907407,
+      "GWP": 0.5384615,
+      "OGWP": 0.4741076
+    },
+    {
+      "Rank": 19,
+      "Player": "Willliam Deadwyler",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4722222,
+      "GWP": 0.5384615,
+      "OGWP": 0.5024984
+    },
+    {
+      "Rank": 20,
+      "Player": "rodion trost",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.5,
+      "OGWP": 0.448433
+    },
+    {
+      "Rank": 21,
+      "Player": "Connor Mitnick",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4259259,
+      "GWP": 0.5384615,
+      "OGWP": 0.4510404
+    },
+    {
+      "Rank": 22,
+      "Player": "EtchedRavager",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.3888889,
+      "GWP": 0.5,
+      "OGWP": 0.4267806
+    },
+    {
+      "Rank": 23,
+      "Player": "Tencteri",
+      "Points": 8,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 2,
+      "OMWP": 0.3777778,
+      "GWP": 0.5384615,
+      "OGWP": 0.4120261
+    },
+    {
+      "Rank": 24,
+      "Player": "BryanGulotta",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.5648148,
+      "GWP": 0.4375,
+      "OGWP": 0.523145
+    },
+    {
+      "Rank": 25,
+      "Player": "swb 👋",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.6203704,
+      "GWP": 0.4375,
+      "OGWP": 0.5642806
+    },
+    {
+      "Rank": 26,
+      "Player": "Spencer Warburton",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.537037,
+      "GWP": 0.4,
+      "OGWP": 0.5181878
+    },
+    {
+      "Rank": 27,
+      "Player": "Greg Berg",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.4285714,
+      "OGWP": 0.5039153
+    },
+    {
+      "Rank": 28,
+      "Player": "PatH24",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4351852,
+      "GWP": 0.3333333,
+      "OGWP": 0.4357906
+    },
+    {
+      "Rank": 29,
+      "Player": "Jeff Jao",
+      "Points": 5,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 2,
+      "OMWP": 0.5277778,
+      "GWP": 0.4222222,
+      "OGWP": 0.5413608
+    },
+    {
+      "Rank": 30,
+      "Player": "Gino Bautista",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.5111111,
+      "GWP": 0.3333333,
+      "OGWP": 0.4889706
+    },
+    {
+      "Rank": 31,
+      "Player": "Herman Lee",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.4,
+      "OGWP": 0.507532
+    },
+    {
+      "Rank": 32,
+      "Player": "Sam_lsd",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5111111,
+      "GWP": 0.3846154,
+      "OGWP": 0.4876923
+    },
+    {
+      "Rank": 33,
+      "Player": "Andy Biekert",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3846154,
+      "OGWP": 0.515274
+    },
+    {
+      "Rank": 34,
+      "Player": "Benjamin Chen",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333,
+      "OGWP": 0.4946047
+    },
+    {
+      "Rank": 35,
+      "Player": "Chris Cruz",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4583333,
+      "GWP": 0.3333333,
+      "OGWP": 0.4543651
+    },
+    {
+      "Rank": 36,
+      "Player": "Colin Hostetter",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.3333333,
+      "OGWP": 0.4391026
+    }
+  ]
+}
