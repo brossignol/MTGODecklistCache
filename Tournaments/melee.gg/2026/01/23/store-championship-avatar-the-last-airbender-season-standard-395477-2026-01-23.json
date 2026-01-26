@@ -1,0 +1,233 @@
+{
+  "Tournament": {
+    "Date": "2026-01-23T12:00:00Z",
+    "Name": "Store Championship 🏆 Avatar: The Last Airbender™ Season",
+    "Uri": "https://melee.gg/Tournament/View/395477"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "KilT",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8d93b60d-bc92-48b2-93aa-b3dd01101ed8",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 2,
+          "CardName": "Diamond Pick-Axe"
+        },
+        {
+          "Count": 3,
+          "CardName": "Firebrand Archer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fleeting Flight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Healer&#39;s Hawk"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hunter&#39;s Blowgun"
+        },
+        {
+          "Count": 4,
+          "CardName": "Item Shopkeep"
+        },
+        {
+          "Count": 3,
+          "CardName": "Laughing Mad"
+        },
+        {
+          "Count": 6,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Paladin&#39;s Arms"
+        },
+        {
+          "Count": 8,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raucous Carnival"
+        },
+        {
+          "Count": 1,
+          "CardName": "Razor Rings"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sabotender"
+        },
+        {
+          "Count": 1,
+          "CardName": "Samurai&#39;s Katana"
+        },
+        {
+          "Count": 2,
+          "CardName": "Short Bow"
+        },
+        {
+          "Count": 2,
+          "CardName": "Slash of Light"
+        },
+        {
+          "Count": 3,
+          "CardName": "White Mage&#39;s Staff"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wind-Scarred Crag"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "KilT",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.75,
+      "OGWP": 0.5227273
+    },
+    {
+      "Rank": 2,
+      "Player": "VorT",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6458333,
+      "GWP": 0.6666667,
+      "OGWP": 0.6098485
+    },
+    {
+      "Rank": 3,
+      "Player": "OkiT",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.6363636,
+      "OGWP": 0.5625
+    },
+    {
+      "Rank": 4,
+      "Player": "GooF1",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.6363636,
+      "OGWP": 0.530303
+    },
+    {
+      "Rank": 5,
+      "Player": "SutT1",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5625,
+      "GWP": 0.6666667,
+      "OGWP": 0.5208333
+    },
+    {
+      "Rank": 6,
+      "Player": "JakB11",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.5,
+      "OGWP": 0.5227273
+    },
+    {
+      "Rank": 7,
+      "Player": "DalH9",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.6,
+      "OGWP": 0.4257576
+    },
+    {
+      "Rank": 8,
+      "Player": "farmmiiezz",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.4,
+      "OGWP": 0.5060606
+    },
+    {
+      "Rank": 9,
+      "Player": "mystikal29",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6458333,
+      "GWP": 0.4545455,
+      "OGWP": 0.5715909
+    },
+    {
+      "Rank": 10,
+      "Player": "MatT20",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.3333333,
+      "OGWP": 0.5590909
+    },
+    {
+      "Rank": 11,
+      "Player": "KunT",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.3333333,
+      "OGWP": 0.475
+    },
+    {
+      "Rank": 12,
+      "Player": "KhoK",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333,
+      "OGWP": 0.5041667
+    }
+  ]
+}
