@@ -1,0 +1,355 @@
+{
+  "Tournament": {
+    "Date": "2026-01-28T16:00:00Z",
+    "Name": "Паупер (28.01)",
+    "Uri": "https://melee.gg/Tournament/View/400201"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Pivovarishe",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/d6d37999-ab58-4e8d-9502-b3e00095986c",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Axebane Guardian"
+        },
+        {
+          "Count": 4,
+          "CardName": "Balustrade Spy"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dread Return"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elves of Deep Shadow"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gatecreeper Vine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Land Grant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lead the Stampede"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotleth Giant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overgrown Battlement"
+        },
+        {
+          "Count": 2,
+          "CardName": "Quirion Ranger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Saruli Caretaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tinder Wall"
+        },
+        {
+          "Count": 2,
+          "CardName": "Troll of Khazad-d&#251;m"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wall of Roots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winding Way"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Haunting Misery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Healer of the Glade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jack-o&#39;-Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nylea&#39;s Disciple"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Alex Khan",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.7272727,
+      "OGWP": 0.5210317
+    },
+    {
+      "Rank": 2,
+      "Player": "A Klshk",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.6,
+      "OGWP": 0.6397306
+    },
+    {
+      "Rank": 3,
+      "Player": "Pivovarishe",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.6363636,
+      "OGWP": 0.5666667
+    },
+    {
+      "Rank": 4,
+      "Player": "Maksim Martseniuk",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.7777778,
+      "OGWP": 0.5063131
+    },
+    {
+      "Rank": 5,
+      "Player": "Valery Zubovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4583333,
+      "GWP": 0.6,
+      "OGWP": 0.4835859
+    },
+    {
+      "Rank": 6,
+      "Player": "praim",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5833333,
+      "GWP": 0.5,
+      "OGWP": 0.6145833
+    },
+    {
+      "Rank": 7,
+      "Player": "Egor Kryshkavets",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5208333,
+      "GWP": 0.625,
+      "OGWP": 0.5277778
+    },
+    {
+      "Rank": 8,
+      "Player": "Ihar Plisko",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.5555556,
+      "OGWP": 0.5804924
+    },
+    {
+      "Rank": 9,
+      "Player": "Danila Grishel",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6458333,
+      "GWP": 0.5555556,
+      "OGWP": 0.5777778
+    },
+    {
+      "Rank": 10,
+      "Player": "Aleksei Raptunovich",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5555556,
+      "OGWP": 0.5178571
+    },
+    {
+      "Rank": 11,
+      "Player": "Valentine Novikov",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.4729167
+    },
+    {
+      "Rank": 12,
+      "Player": "AndreyG",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.5454545,
+      "OGWP": 0.4833333
+    },
+    {
+      "Rank": 13,
+      "Player": "Aliaksandr",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.5,
+      "OGWP": 0.6363636
+    },
+    {
+      "Rank": 14,
+      "Player": "Роман Кохан",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6111111,
+      "GWP": 0.4285714,
+      "OGWP": 0.5387205
+    },
+    {
+      "Rank": 15,
+      "Player": "Pavel Miadzvedski",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.5,
+      "OGWP": 0.5227273
+    },
+    {
+      "Rank": 16,
+      "Player": "diuzhev",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5277778,
+      "GWP": 0.3333333,
+      "OGWP": 0.5521885
+    },
+    {
+      "Rank": 17,
+      "Player": "Andrey Ivanov",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5208333,
+      "GWP": 0.3333333,
+      "OGWP": 0.5063131
+    },
+    {
+      "Rank": 18,
+      "Player": "BuRial63",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.3333333,
+      "OGWP": 0.4654762
+    },
+    {
+      "Rank": 19,
+      "Player": "Kiryl_Smaktunovich",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.3333333,
+      "OGWP": 0.4444444
+    }
+  ]
+}
