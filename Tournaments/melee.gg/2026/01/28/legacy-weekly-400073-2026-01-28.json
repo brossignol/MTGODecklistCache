@@ -1,0 +1,392 @@
+{
+  "Tournament": {
+    "Date": "2026-01-28T18:00:00Z",
+    "Name": "Legacy Weekly",
+    "Uri": "https://melee.gg/Tournament/View/400073"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Daniel Åkerblom",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8faa4a06-61a4-4fb0-af74-b3e0007af8d0",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abundant Countryside"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Broadside Bombardiers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Linebreaker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 3,
+          "CardName": "Eye of Ugin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glaring Fleshraker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek&#39;s Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Reality Smasher"
+        },
+        {
+          "Count": 3,
+          "CardName": "Simian Spirit Guide"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wastescape Battlemage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eldrazi Obligator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mindbreak Trap"
+        },
+        {
+          "Count": 2,
+          "CardName": "Null Rod"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sire of Seven Deaths"
+        },
+        {
+          "Count": 1,
+          "CardName": "Warping Wail"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Pierre Carlsson",
+      "Result": "12th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/2679b4cd-dc9f-4c7d-be66-b3e000f83b44",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burning Wish"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chrome Mox"
+        },
+        {
+          "Count": 4,
+          "CardName": "Desperate Ritual"
+        },
+        {
+          "Count": 3,
+          "CardName": "Echo of Eons"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elvish Spirit Guide"
+        },
+        {
+          "Count": 3,
+          "CardName": "Empty the Warrens"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gamble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Charbelcher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Irencrag Feat"
+        },
+        {
+          "Count": 4,
+          "CardName": "Land Grant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lion&#39;s Eye Diamond"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manamorphose"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyretic Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rite of Flame"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seething Song"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simian Spirit Guide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Taiga"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tinder Wall"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Cave-In"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chatterstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echo of Eons"
+        },
+        {
+          "Count": 1,
+          "CardName": "Empty the Warrens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Goblin War Strike"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hull Breach"
+        },
+        {
+          "Count": 1,
+          "CardName": "Irencrag Feat"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Reverent Silence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shattering Spree"
+        },
+        {
+          "Count": 1,
+          "CardName": "Telemin Performance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tendrils of Agony"
+        },
+        {
+          "Count": 3,
+          "CardName": "Veil of Summer"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Jonatan Larsson",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.75,
+      "OGWP": 0.5714286
+    },
+    {
+      "Rank": 2,
+      "Player": "ChristopherTisell",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.625,
+      "OGWP": 0.5892857
+    },
+    {
+      "Rank": 3,
+      "Player": "ljungdahl",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.5714286,
+      "OGWP": 0.5694444
+    },
+    {
+      "Rank": 4,
+      "Player": "Christoffer Johansson",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.7142857,
+      "OGWP": 0.5039683
+    },
+    {
+      "Rank": 5,
+      "Player": "Christoffer Lyngsaa",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.625,
+      "OGWP": 0.4305555
+    },
+    {
+      "Rank": 6,
+      "Player": "Daniel Åkerblom",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.5714286,
+      "OGWP": 0.4623016
+    },
+    {
+      "Rank": 7,
+      "Player": "Sebastian Ronnefjord",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.3333333,
+      "GWP": 0.5714286,
+      "OGWP": 0.3650794
+    },
+    {
+      "Rank": 8,
+      "Player": "TTA",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.4285714,
+      "OGWP": 0.5515873
+    },
+    {
+      "Rank": 9,
+      "Player": "AlbinE",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.6369048
+    },
+    {
+      "Rank": 10,
+      "Player": "Victor Bexell",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555555,
+      "GWP": 0.4285714,
+      "OGWP": 0.5396825
+    },
+    {
+      "Rank": 11,
+      "Player": "AronL",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.5892857
+    },
+    {
+      "Rank": 12,
+      "Player": "Pierre Carlsson",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.3333333,
+      "OGWP": 0.4761905
+    }
+  ]
+}
