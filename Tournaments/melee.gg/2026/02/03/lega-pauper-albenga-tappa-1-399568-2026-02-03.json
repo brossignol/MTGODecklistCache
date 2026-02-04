@@ -1,0 +1,528 @@
+{
+  "Tournament": {
+    "Date": "2026-02-03T20:30:00Z",
+    "Name": "Lega Pauper Albenga Tappa 1",
+    "Uri": "https://melee.gg/Tournament/View/399568"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Ivanhoe82",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/227ab505-89cc-4ab0-a771-b3e500ffba28",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abraded Bluffs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Den"
+        },
+        {
+          "Count": 3,
+          "CardName": "Auriok Sunchaser"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boros Garrison"
+        },
+        {
+          "Count": 4,
+          "CardName": "Experimental Synthesizer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Foundry Helix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glint Hawk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jolted Awake"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kor Skyfisher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rustvale Bridge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thraben Inspector"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Destroy Evil"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dust to Dust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Navigator&#39;s Compass"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Siege Smash"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Marrai",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/f6ba9313-aed8-4e4a-94a2-b3e60112d8fa",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Marco Delfino",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/ca9b9b63-a1b3-443e-8c51-b3dd016e3648",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Marcolino99",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/3b9145a0-2b14-4657-90bb-b3de0084d070",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Black Mage&#39;s Rod"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mistvault Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Myr Enforcer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckoner&#39;s Bargain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seat of the Synod"
+        },
+        {
+          "Count": 2,
+          "CardName": "Silverbluff Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtcast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxin Analysis"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vault of Whispers"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 2,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unexpected Fangs"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "cavi92",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/735399e9-46e8-4285-be18-b3e40132b197",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Bayou Groff"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burning-Tree Emissary"
+        },
+        {
+          "Count": 3,
+          "CardName": "Elephant Guide"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elven Farsight"
+        },
+        {
+          "Count": 17,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Garruk&#39;s Companion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mutagenic Growth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nettle Sentinel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rancor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vines of Vastwood"
+        },
+        {
+          "Count": 4,
+          "CardName": "Young Wolf"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Gleeful Sabotage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mire Boa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scattershot Archer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Banii",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/08b5b540-742e-4d65-92f1-b3e10143a5d8",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "MattiaComitangelo",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/5607b2ff-0068-4541-a8f7-b3e50159ca8f",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Chain Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clockwork Percussionist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Experimental Synthesizer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Tomb Raider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kessig Flamebreather"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 14,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thermo-Alchemist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrenn&#39;s Resolve"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Electrickery"
+        },
+        {
+          "Count": 3,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Smash to Smithereens"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Ivanhoe82",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 1.0,
+      "OGWP": 0.4761905
+    },
+    {
+      "Rank": 2,
+      "Player": "Marrai",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.6666667,
+      "OGWP": 0.6111111
+    },
+    {
+      "Rank": 3,
+      "Player": "Marco Delfino",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.5,
+      "OGWP": 0.6031746
+    },
+    {
+      "Rank": 4,
+      "Player": "Marcolino99",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.7142857,
+      "OGWP": 0.3888889
+    },
+    {
+      "Rank": 5,
+      "Player": "cavi92",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.4285714,
+      "OGWP": 0.6111111
+    },
+    {
+      "Rank": 6,
+      "Player": "Banii",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.6825397
+    },
+    {
+      "Rank": 7,
+      "Player": "MattiaComitangelo",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.3333333,
+      "OGWP": 0.4920635
+    },
+    {
+      "Rank": 8,
+      "Player": "Paglia22",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.3333333,
+      "OGWP": 0.4444444
+    }
+  ]
+}
