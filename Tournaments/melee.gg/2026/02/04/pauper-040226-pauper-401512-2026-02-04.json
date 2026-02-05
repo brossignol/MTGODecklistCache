@@ -1,0 +1,315 @@
+{
+  "Tournament": {
+    "Date": "2026-02-04T16:00:00Z",
+    "Name": "Паупер (04.02.26)",
+    "Uri": "https://melee.gg/Tournament/View/401512"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Pivovarishe",
+      "Result": "11th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/d80f5050-1a8d-442f-b867-b3e700821de0",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Irina Gornovskaya",
+      "Result": "13th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/cbb9251a-e94a-491a-90f9-b3e701028a47",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bannerhide Krushok"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boarding Party"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Repurposer"
+        },
+        {
+          "Count": 14,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jewel Thief"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ram Through"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deglamer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Valery Zubovich",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.7,
+      "OGWP": 0.5727273
+    },
+    {
+      "Rank": 2,
+      "Player": "Valentine Novikov",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.7,
+      "OGWP": 0.5525253
+    },
+    {
+      "Rank": 3,
+      "Player": "Andrey Ivanov",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.625,
+      "OGWP": 0.6089947
+    },
+    {
+      "Rank": 4,
+      "Player": "diuzhev",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.6363636,
+      "OGWP": 0.4972222
+    },
+    {
+      "Rank": 5,
+      "Player": "Egor Kryshkavets",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5208333,
+      "GWP": 0.7,
+      "OGWP": 0.4923611
+    },
+    {
+      "Rank": 6,
+      "Player": "Роман Кохан",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.6666667,
+      "OGWP": 0.4361111
+    },
+    {
+      "Rank": 7,
+      "Player": "BuRial63",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.4444444,
+      "OGWP": 0.6257576
+    },
+    {
+      "Rank": 8,
+      "Player": "Aleksei Raptunovich",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6458333,
+      "GWP": 0.4545455,
+      "OGWP": 0.5861111
+    },
+    {
+      "Rank": 9,
+      "Player": "Alex Khan",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6041667,
+      "GWP": 0.5,
+      "OGWP": 0.5270833
+    },
+    {
+      "Rank": 10,
+      "Player": "praim",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.5555556,
+      "OGWP": 0.5256944
+    },
+    {
+      "Rank": 11,
+      "Player": "Pivovarishe",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5208333,
+      "GWP": 0.5,
+      "OGWP": 0.531746
+    },
+    {
+      "Rank": 12,
+      "Player": "ykcyc",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.5714286,
+      "OGWP": 0.475
+    },
+    {
+      "Rank": 13,
+      "Player": "Irina Gornovskaya",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5277778,
+      "GWP": 0.4444444,
+      "OGWP": 0.5223064
+    },
+    {
+      "Rank": 14,
+      "Player": "A Klshk",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.4166667,
+      "GWP": 0.375,
+      "OGWP": 0.4623016
+    },
+    {
+      "Rank": 15,
+      "Player": "AndreyG",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.5,
+      "OGWP": 0.5772727
+    },
+    {
+      "Rank": 16,
+      "Player": "Ihar Plisko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6111111,
+      "GWP": 0.4,
+      "OGWP": 0.6037037
+    },
+    {
+      "Rank": 17,
+      "Player": "Maksim Martseniuk",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.4,
+      "OGWP": 0.551948
+    },
+    {
+      "Rank": 18,
+      "Player": "Kiryl_Smaktunovich",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.4444444,
+      "OGWP": 0.4515152
+    },
+    {
+      "Rank": 19,
+      "Player": "Alexei Abramenkov",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.3333333,
+      "OGWP": 0.4576389
+    }
+  ]
+}
