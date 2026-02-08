@@ -1,0 +1,301 @@
+{
+  "Tournament": {
+    "Date": "2026-02-08T00:00:00Z",
+    "Name": "Duel Commander League",
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-league-2026-02-0810282"
+  },
+  "Decks": [
+    {
+      "Date": "2026-02-08T00:00:00",
+      "Player": "bonatokiske",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/duel-commander-league-2026-02-0810282#deck_bonatokiske",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Ash Zealot"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ball Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bloodthirsty Adversary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boltwave"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bonecrusher Giant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brimstone Volley"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chain Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra, Dressed to Kill"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra, Torch of Defiance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Den of the Bugbear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Detective's Phoenix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eidolon of the Great Revel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emberheart Challenger"
+        },
+        {
+          "Count": 1,
+          "CardName": "Exquisite Firecraft"
+        },
+        {
+          "Count": 1,
+          "CardName": "Feldon, Ronom Excavator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fiery Confluence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flame Slash"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flames of the Blood Hand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flare of Duplication"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Rage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forked Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fugitive Codebreaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghostfire Slice"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hazoret the Fervent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Headliner Scarlett"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hired Claw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Impetuous Devils"
+        },
+        {
+          "Count": 1,
+          "CardName": "Incinerate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Inti, Seneschal of the Sun"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kari Zev's Expertise"
+        },
+        {
+          "Count": 1,
+          "CardName": "Laelia, the Blade Reforged"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lava Spike"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lightning Strike"
+        },
+        {
+          "Count": 1,
+          "CardName": "Loyal Apprentice"
+        },
+        {
+          "Count": 1,
+          "CardName": "Magus of the Moon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Monastery Swiftspear"
+        },
+        {
+          "Count": 31,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mutavault"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Party Thrasher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Play with Fire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyrokinesis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyrostatic Pillar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Quint's Insight"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ramunap Ruins"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rift Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Risk Factor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ruination"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seal of Fire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Searing Blaze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Searing Blood"
+        },
+        {
+          "Count": 1,
+          "CardName": "Searing Spear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shock"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skewer the Critics"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skullcrack"
+        },
+        {
+          "Count": 1,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Scar Mage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Squee, Dubious Monarch"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sulfuric Vortex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunscorched Desert"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tarfire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Territorial Hellkite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tersa Lightshatter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Devil"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Zurgo Bellstriker"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
