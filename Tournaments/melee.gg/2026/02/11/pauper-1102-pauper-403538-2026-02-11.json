@@ -1,0 +1,350 @@
+{
+  "Tournament": {
+    "Date": "2026-02-11T16:00:00Z",
+    "Name": "Паупер (11.02)",
+    "Uri": "https://melee.gg/Tournament/View/403538"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Valery Zubovich",
+      "Result": "20th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/214afbcd-8dc0-4ff3-9b0a-b3ee01033ca8",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cleansing Wildfire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eviscerator&#39;s Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slagwoods Bridge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxin Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Twisted Landscape"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vault of Whispers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Troublemaker Ouphe"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Ihar Plisko",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.6041667,
+      "GWP": 0.7777778,
+      "OGWP": 0.5955808
+    },
+    {
+      "Rank": 2,
+      "Player": "praim",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.5625,
+      "GWP": 0.7777778,
+      "OGWP": 0.5141414
+    },
+    {
+      "Rank": 3,
+      "Player": "Aleksei Raptunovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6041667,
+      "GWP": 0.75,
+      "OGWP": 0.5763889
+    },
+    {
+      "Rank": 4,
+      "Player": "diuzhev",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.75,
+      "OGWP": 0.4791667
+    },
+    {
+      "Rank": 5,
+      "Player": "Maksim Martseniuk",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4583333,
+      "GWP": 0.75,
+      "OGWP": 0.4194444
+    },
+    {
+      "Rank": 6,
+      "Player": "Egor Kryshkavets",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.75,
+      "OGWP": 0.4080808
+    },
+    {
+      "Rank": 7,
+      "Player": "Valentine Novikov",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.4583333,
+      "GWP": 0.5454545,
+      "OGWP": 0.4914141
+    },
+    {
+      "Rank": 8,
+      "Player": "Alex Khan",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.5,
+      "OGWP": 0.5694444
+    },
+    {
+      "Rank": 9,
+      "Player": "Avdeenko Dmitry",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.4444444,
+      "OGWP": 0.5997475
+    },
+    {
+      "Rank": 10,
+      "Player": "Роман Кохан",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.4,
+      "OGWP": 0.6205808
+    },
+    {
+      "Rank": 11,
+      "Player": "AndreyG",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.4,
+      "OGWP": 0.6092172
+    },
+    {
+      "Rank": 12,
+      "Player": "Miroslav1k",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5208333,
+      "GWP": 0.4444444,
+      "OGWP": 0.5069444
+    },
+    {
+      "Rank": 13,
+      "Player": "Timophey Belousov",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6041667,
+      "GWP": 0.3333333,
+      "OGWP": 0.6363636
+    },
+    {
+      "Rank": 14,
+      "Player": "Maxim Shagoiko",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.3888889,
+      "GWP": 0.5,
+      "OGWP": 0.3777778
+    },
+    {
+      "Rank": 15,
+      "Player": "A Klshk",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.4545455,
+      "OGWP": 0.6183081
+    },
+    {
+      "Rank": 16,
+      "Player": "Andrey Ivanov",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.3333333,
+      "OGWP": 0.5138889
+    },
+    {
+      "Rank": 17,
+      "Player": "Danila Grishel",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4583333,
+      "GWP": 0.4545455,
+      "OGWP": 0.3944444
+    },
+    {
+      "Rank": 18,
+      "Player": "Kiryl_Smaktunovich",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.4583333,
+      "GWP": 0.4,
+      "OGWP": 0.5227273
+    },
+    {
+      "Rank": 19,
+      "Player": "BuRial63",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6111111,
+      "GWP": 0.3333333,
+      "OGWP": 0.6111111
+    },
+    {
+      "Rank": 20,
+      "Player": "Valery Zubovich",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.3333333,
+      "OGWP": 0.6022727
+    }
+  ]
+}
