@@ -1,0 +1,296 @@
+{
+  "Tournament": {
+    "Date": "2026-02-18T16:00:00Z",
+    "Name": "Лига Весна 26. ПАУПЕР (1/12)",
+    "Uri": "https://melee.gg/Tournament/View/405308"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Ihar Plisko",
+      "Result": "14th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/0d585305-4369-40d9-aa18-b3f500fdd3b6",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Augur of Bolas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 4,
+          "CardName": "L&#243;rien Revealed"
+        },
+        {
+          "Count": 1,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mukotai Ambusher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seething Landscape"
+        },
+        {
+          "Count": 10,
+          "CardName": "Snow-Covered Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thorn of the Black Rose"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mukotai Ambusher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Okiba-Gang Shinobi"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Andrey Ivanov",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.6666667,
+      "OGWP": 0.5454545
+    },
+    {
+      "Rank": 2,
+      "Player": "diuzhev",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.6363636,
+      "OGWP": 0.5625
+    },
+    {
+      "Rank": 3,
+      "Player": "Aleksei Raptunovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6458333,
+      "GWP": 0.6666667,
+      "OGWP": 0.5488095
+    },
+    {
+      "Rank": 4,
+      "Player": "Maksim Martseniuk",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5208333,
+      "GWP": 0.6,
+      "OGWP": 0.5189394
+    },
+    {
+      "Rank": 5,
+      "Player": "Kiryl_Smaktunovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.5833333,
+      "OGWP": 0.475
+    },
+    {
+      "Rank": 6,
+      "Player": "A Klshk",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6041667,
+      "GWP": 0.5454545,
+      "OGWP": 0.5147186
+    },
+    {
+      "Rank": 7,
+      "Player": "BuRial63",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.5,
+      "OGWP": 0.5162338
+    },
+    {
+      "Rank": 8,
+      "Player": "Valery Zubovich",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.5,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 9,
+      "Player": "AntonH",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4375,
+      "GWP": 0.5,
+      "OGWP": 0.4272186
+    },
+    {
+      "Rank": 10,
+      "Player": "Alex Khan",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.4791667,
+      "GWP": 0.4,
+      "OGWP": 0.4450758
+    },
+    {
+      "Rank": 11,
+      "Player": "Роман Кохан",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.4285714,
+      "OGWP": 0.5530303
+    },
+    {
+      "Rank": 12,
+      "Player": "Valentine Novikov",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5208333,
+      "GWP": 0.3636364,
+      "OGWP": 0.4981061
+    },
+    {
+      "Rank": 13,
+      "Player": "Egor Kryshkavets",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.4791667,
+      "GWP": 0.3636364,
+      "OGWP": 0.4659091
+    },
+    {
+      "Rank": 14,
+      "Player": "Ihar Plisko",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.3333333,
+      "OGWP": 0.5166667
+    }
+  ]
+}
