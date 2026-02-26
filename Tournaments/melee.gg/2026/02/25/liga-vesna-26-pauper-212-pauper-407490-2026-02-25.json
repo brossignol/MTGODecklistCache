@@ -1,0 +1,357 @@
+{
+  "Tournament": {
+    "Date": "2026-02-25T16:00:00Z",
+    "Name": "Лига Весна 26. ПАУПЕР (2/12)",
+    "Uri": "https://melee.gg/Tournament/View/407490"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Ihar Plisko",
+      "Result": "17th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/694540f3-a06e-4ecd-8103-b3fc00995eda",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Big Score"
+        },
+        {
+          "Count": 3,
+          "CardName": "Burning Curiosity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Desperate Ritual"
+        },
+        {
+          "Count": 3,
+          "CardName": "First Day of Class"
+        },
+        {
+          "Count": 4,
+          "CardName": "Geothermal Crevice"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glimpse the Impossible"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Anarchomancer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hickory Woodlot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manamorphose"
+        },
+        {
+          "Count": 5,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pirate&#39;s Pillage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckless Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sandstone Needle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seething Song"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seize the Storm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spider Manifestation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thornscape Familiar"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abandon Attachments"
+        },
+        {
+          "Count": 1,
+          "CardName": "Feldon&#39;s Cane"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 1,
+          "CardName": "How to Start a Riot"
+        },
+        {
+          "Count": 1,
+          "CardName": "Origin of Metalbending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Waterbending Lesson"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Aleksei Raptunovich",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.7272727,
+      "OGWP": 0.5625
+    },
+    {
+      "Rank": 2,
+      "Player": "Maksim Martseniuk",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.4791667,
+      "GWP": 0.6363636,
+      "OGWP": 0.5694444
+    },
+    {
+      "Rank": 3,
+      "Player": "Exidra",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6111111,
+      "GWP": 0.6666667,
+      "OGWP": 0.5424242
+    },
+    {
+      "Rank": 4,
+      "Player": "Egor Kryshkavets",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.5833333,
+      "OGWP": 0.5204545
+    },
+    {
+      "Rank": 5,
+      "Player": "Kiryl_Smaktunovich",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.7777778,
+      "OGWP": 0.4810606
+    },
+    {
+      "Rank": 6,
+      "Player": "Valentine Novikov",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.7,
+      "OGWP": 0.4515152
+    },
+    {
+      "Rank": 7,
+      "Player": "AntonH",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.6666667,
+      "OGWP": 0.469697
+    },
+    {
+      "Rank": 8,
+      "Player": "BuRial63",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.4545455,
+      "OGWP": 0.6516414
+    },
+    {
+      "Rank": 9,
+      "Player": "Danila Skamarokh",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6111111,
+      "GWP": 0.5,
+      "OGWP": 0.5925926
+    },
+    {
+      "Rank": 10,
+      "Player": "Aleksandr_KoLoshk",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6041667,
+      "GWP": 0.5454545,
+      "OGWP": 0.5643939
+    },
+    {
+      "Rank": 11,
+      "Player": "Andrey Ivanov",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6041667,
+      "GWP": 0.5,
+      "OGWP": 0.5318182
+    },
+    {
+      "Rank": 12,
+      "Player": "diuzhev",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.5,
+      "OGWP": 0.5291667
+    },
+    {
+      "Rank": 13,
+      "Player": "Роман Кохан",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.5204545
+    },
+    {
+      "Rank": 14,
+      "Player": "Alex Khan",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.375,
+      "GWP": 0.5,
+      "OGWP": 0.3916667
+    },
+    {
+      "Rank": 15,
+      "Player": "praim",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6458333,
+      "GWP": 0.5,
+      "OGWP": 0.5871212
+    },
+    {
+      "Rank": 16,
+      "Player": "Valery Zubovich",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.4,
+      "OGWP": 0.5625
+    },
+    {
+      "Rank": 17,
+      "Player": "Ihar Plisko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.3333333,
+      "OGWP": 0.5997475
+    },
+    {
+      "Rank": 18,
+      "Player": "Nikeeeeeen",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.4545455,
+      "OGWP": 0.4674242
+    },
+    {
+      "Rank": 19,
+      "Player": "Timophey Belousov",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.4,
+      "OGWP": 0.4969697
+    },
+    {
+      "Rank": 20,
+      "Player": "Maxim Shagoiko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4583333,
+      "GWP": 0.3333333,
+      "OGWP": 0.4583333
+    },
+    {
+      "Rank": 21,
+      "Player": "Miroslav1k",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.3888889,
+      "GWP": 0.3333333,
+      "OGWP": 0.4111111
+    }
+  ]
+}
