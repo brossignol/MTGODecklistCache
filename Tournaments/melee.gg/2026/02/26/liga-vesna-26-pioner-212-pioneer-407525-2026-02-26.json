@@ -1,0 +1,241 @@
+{
+  "Tournament": {
+    "Date": "2026-02-26T16:00:00Z",
+    "Name": "Лига Весна 26. ПИОНЕР (2/12)",
+    "Uri": "https://melee.gg/Tournament/View/407525"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Slava Belezeko",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/2f235d3f-e470-4231-bba9-b3fd010b2e6c",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blackcleave Cliffs"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blade of the Oni"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodtithe Harvester"
+        },
+        {
+          "Count": 1,
+          "CardName": "Castle Locthwain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extinction Event"
+        },
+        {
+          "Count": 2,
+          "CardName": "Go for the Throat"
+        },
+        {
+          "Count": 1,
+          "CardName": "Heartless Act"
+        },
+        {
+          "Count": 2,
+          "CardName": "Invoke Despair"
+        },
+        {
+          "Count": 2,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mutavault"
+        },
+        {
+          "Count": 4,
+          "CardName": "Preacher of the Schism"
+        },
+        {
+          "Count": 2,
+          "CardName": "Reckoner Bankbuster"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheoldred, the Apocalypse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sulfurous Springs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unholy Annex // Ritual Chamber"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urborg, Tomb of Yawgmoth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Brotherhood&#39;s End"
+        },
+        {
+          "Count": 2,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hidetsugu Consumes All / Vessel of the All-Consuming"
+        },
+        {
+          "Count": 1,
+          "CardName": "Invoke Despair"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ob Nixilis, the Adversary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "TroV1",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5208333,
+      "GWP": 0.8,
+      "OGWP": 0.4958333
+    },
+    {
+      "Rank": 2,
+      "Player": "vorotinskyV",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.5833333,
+      "OGWP": 0.55
+    },
+    {
+      "Rank": 3,
+      "Player": "GlebK",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.6363636,
+      "OGWP": 0.4666667
+    },
+    {
+      "Rank": 4,
+      "Player": "NickLatkovich",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.625,
+      "GWP": 0.5454545,
+      "OGWP": 0.5435606
+    },
+    {
+      "Rank": 5,
+      "Player": "Rostislav Brozhat",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6111111,
+      "GWP": 0.5,
+      "OGWP": 0.569697
+    },
+    {
+      "Rank": 6,
+      "Player": "Dzianis Chuyanau",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.5,
+      "OGWP": 0.5636364
+    },
+    {
+      "Rank": 7,
+      "Player": "Maxim Shagoiko",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.4545455,
+      "OGWP": 0.5454545
+    },
+    {
+      "Rank": 8,
+      "Player": "Slava Belezeko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.8333333,
+      "GWP": 0.4,
+      "OGWP": 0.6732323
+    },
+    {
+      "Rank": 9,
+      "Player": "[OMG]Summie",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.4545455,
+      "OGWP": 0.5277778
+    }
+  ]
+}
