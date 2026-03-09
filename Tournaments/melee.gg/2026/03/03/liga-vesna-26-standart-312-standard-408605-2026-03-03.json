@@ -1,0 +1,184 @@
+{
+  "Tournament": {
+    "Date": "2026-03-03T16:00:00Z",
+    "Name": "Лига Весна 26. СТАНДАРТ (3/12)",
+    "Uri": "https://melee.gg/Tournament/View/408605"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "ykcyc",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1b98b663-293f-4675-9cb1-b40200d39a72",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burnout Bashtronaut"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emberheart Challenger"
+        },
+        {
+          "Count": 3,
+          "CardName": "Full Bore"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hazoret, Godseeker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hired Claw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Iroh&#39;s Demonstration"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kellan, Planar Trailblazer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lightning Strike"
+        },
+        {
+          "Count": 19,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Muraganda Raceway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rockface Village"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shock"
+        },
+        {
+          "Count": 2,
+          "CardName": "Zhao, the Moon Slayer"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra, Spark Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cut Propulsion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Magebane Lizard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Rostislav Brozhat",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.7272727,
+      "OGWP": 0.5108375
+    },
+    {
+      "Rank": 2,
+      "Player": "Ilya Bogdan",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.6041667,
+      "GWP": 0.5757576,
+      "OGWP": 0.5382997
+    },
+    {
+      "Rank": 3,
+      "Player": "Maxim Shagoiko",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5625,
+      "GWP": 0.5925926,
+      "OGWP": 0.5028409
+    },
+    {
+      "Rank": 4,
+      "Player": "ykcyc",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.5,
+      "OGWP": 0.5028409
+    },
+    {
+      "Rank": 5,
+      "Player": "[OMG]Summie",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6041667,
+      "GWP": 0.375,
+      "OGWP": 0.5382997
+    },
+    {
+      "Rank": 6,
+      "Player": "EugF",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333,
+      "OGWP": 0.5108375
+    }
+  ]
+}

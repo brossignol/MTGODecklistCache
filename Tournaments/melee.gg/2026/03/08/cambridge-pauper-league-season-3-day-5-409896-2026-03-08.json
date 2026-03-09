@@ -1,0 +1,391 @@
+{
+  "Tournament": {
+    "Date": "2026-03-08T13:10:00Z",
+    "Name": "Cambridge Pauper League Season 3 Day 5",
+    "Uri": "https://melee.gg/Tournament/View/409896"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "tabz3",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/f49b6c4d-ca53-4789-ae62-b40201134344",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bannerhide Krushok"
+        },
+        {
+          "Count": 15,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jewel Thief"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ram Through"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sagu Wildling // Roost Seek"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        },
+        {
+          "Count": 2,
+          "CardName": "You Meet in a Tavern"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deglamer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Meffo",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/81b89b0c-206a-44eb-8552-b40600d77c86",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Black Mage&#39;s Rod"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cleansing Wildfire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Experimental Synthesizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glint Hawk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kor Skyfisher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Omen of the Dead"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rustvale Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shattered Landscape"
+        },
+        {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tithing Blade // Consuming Sepulcher"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Journey to Nowhere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 3,
+          "CardName": "Navigator&#39;s Compass"
+        },
+        {
+          "Count": 2,
+          "CardName": "Suplex"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thraben Charm"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Atrain1788",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/4aa367e6-7012-4a19-bf30-b4070064bff7",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Bayou Groff"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elephant Guide"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flesh Burrower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fog"
+        },
+        {
+          "Count": 16,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Garruk&#39;s Companion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hunger of the Howlpack"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jewel Thief"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ram Through"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rancor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Return to Nature"
+        },
+        {
+          "Count": 4,
+          "CardName": "Treetop Scout"
+        },
+        {
+          "Count": 1,
+          "CardName": "Twin-Silk Spider"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vault Skirge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Young Wolf"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Garruk&#39;s Companion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grazing Whiptail"
+        },
+        {
+          "Count": 2,
+          "CardName": "Healer of the Glade"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nest Invader"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Return to Nature"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vines of Vastwood"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrap in Vigor"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "tabz3",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.75,
+      "OGWP": 0.5873016
+    },
+    {
+      "Rank": 2,
+      "Player": "Meffo",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.7142857,
+      "OGWP": 0.5515873
+    },
+    {
+      "Rank": 3,
+      "Player": "Noz777",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.7142857,
+      "OGWP": 0.5416667
+    },
+    {
+      "Rank": 4,
+      "Player": "sunshine797",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.5714286,
+      "OGWP": 0.515873
+    },
+    {
+      "Rank": 5,
+      "Player": "Atrain1788",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.8333333,
+      "GWP": 0.3333333,
+      "OGWP": 0.6607143
+    },
+    {
+      "Rank": 6,
+      "Player": "SublimeLime",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.3333333,
+      "OGWP": 0.6428571
+    },
+    {
+      "Rank": 7,
+      "Player": "Jakiri",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5,
+      "OGWP": 0.452381
+    }
+  ]
+}

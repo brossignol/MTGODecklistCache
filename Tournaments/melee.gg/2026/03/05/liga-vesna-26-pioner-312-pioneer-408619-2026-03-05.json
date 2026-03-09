@@ -1,0 +1,268 @@
+{
+  "Tournament": {
+    "Date": "2026-03-05T16:00:00Z",
+    "Name": "Лига Весна 26. ПИОНЕР (3/12)",
+    "Uri": "https://melee.gg/Tournament/View/408619"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "NickLatkovich",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e40637e8-fd01-409d-8c3b-b40401019401",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aftermath Analyst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arid Archway"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Conduit Pylons"
+        },
+        {
+          "Count": 4,
+          "CardName": "Crumbling Vestige"
+        },
+        {
+          "Count": 2,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emrakul, the Promised End"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Formidable Speaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Glasspool Mimic // Glasspool Shore"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hedge Maze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ishkanah, Grafwidow"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Field"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lumra, Bellow of the Woods"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lush Oasis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mirrorpool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pit of Offerings"
+        },
+        {
+          "Count": 4,
+          "CardName": "Port of Karfell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scapeshift"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spelunking"
+        },
+        {
+          "Count": 1,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunken Citadel"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Wandering Minstrel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vibrance"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Ephara&#39;s Dispersal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of Sanctity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mistrise Village"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pick Your Poison"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vibrance"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "NickLatkovich",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.8,
+      "OGWP": 0.5666667
+    },
+    {
+      "Rank": 2,
+      "Player": "vorotinskyV",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.6666667,
+      "OGWP": 0.4853535
+    },
+    {
+      "Rank": 3,
+      "Player": "Tsimafei Paulouski",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5625,
+      "GWP": 0.6,
+      "OGWP": 0.5055556
+    },
+    {
+      "Rank": 4,
+      "Player": "Dzianis Chuyanau",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.4375,
+      "GWP": 0.5555556,
+      "OGWP": 0.4631313
+    },
+    {
+      "Rank": 5,
+      "Player": "TroV1",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6041667,
+      "GWP": 0.4444444,
+      "OGWP": 0.5409091
+    },
+    {
+      "Rank": 6,
+      "Player": "GlebK",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5625,
+      "GWP": 0.5555556,
+      "OGWP": 0.5055556
+    },
+    {
+      "Rank": 7,
+      "Player": "Maxim Shagoiko",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6041667,
+      "GWP": 0.3333333,
+      "OGWP": 0.5944444
+    },
+    {
+      "Rank": 8,
+      "Player": "Rostislav Brozhat",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.3636364,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 9,
+      "Player": "Valery Zubovich",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 10,
+      "Player": "Yauheni Ihnatsik",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4583333,
+      "GWP": 0.3333333,
+      "OGWP": 0.4818182
+    }
+  ]
+}
