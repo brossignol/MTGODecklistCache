@@ -1,0 +1,252 @@
+{
+  "Tournament": {
+    "Date": "2026-04-04T12:10:00Z",
+    "Name": "Cambridge Pauper League Season 3 Day 7",
+    "Uri": "https://melee.gg/Tournament/View/418524"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "tabz3",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/a62d7789-8731-4ad5-bd8d-b41e016e4112",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bannerhide Krushok"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 15,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jewel Thief"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sagu Wildling // Roost Seek"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        },
+        {
+          "Count": 2,
+          "CardName": "You Meet in a Tavern"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Atrain1788",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/127ba0dc-e734-43af-a789-b420009c4985",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Bayou Groff"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elephant Guide"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flesh Burrower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fog"
+        },
+        {
+          "Count": 16,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hunger of the Howlpack"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jewel Thief"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ram Through"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rancor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Return to Nature"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thornweald Archer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Twin-Silk Spider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vault Skirge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vines of Vastwood"
+        },
+        {
+          "Count": 4,
+          "CardName": "Young Wolf"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Garruk&#39;s Companion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Healer of the Glade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hitchclaw Recluse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lone Wolf"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Return to Nature"
+        },
+        {
+          "Count": 2,
+          "CardName": "Silhana Ledgewalker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Treetop Scout"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrap in Vigor"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Noz777",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.75,
+      "OGWP": 0.4920635
+    },
+    {
+      "Rank": 2,
+      "Player": "Jakiri",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.7142857,
+      "OGWP": 0.5039683
+    },
+    {
+      "Rank": 3,
+      "Player": "tabz3",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.4285714,
+      "OGWP": 0.5992063
+    },
+    {
+      "Rank": 4,
+      "Player": "Atrain1788",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.6309524
+    }
+  ]
+}
