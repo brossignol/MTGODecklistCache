@@ -1,0 +1,109 @@
+{
+  "Tournament": {
+    "Date": "2026-04-17T00:00:00Z",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2026-04-1710429"
+  },
+  "Decks": [
+    {
+      "Date": "2026-04-17T00:00:00",
+      "Player": "_ZNT_",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-04-1710429#deck__ZNT_",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Archdruid's Charm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
+        },
+        {
+          "Count": 3,
+          "CardName": "Escape Tunnel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Esper Origins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 15,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lumbering Worldwagon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meltstrider's Resolve"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Promising Vein"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Archdruid's Charm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pawpatch Formation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scrapshooter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
