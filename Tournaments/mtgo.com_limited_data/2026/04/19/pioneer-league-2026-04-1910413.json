@@ -1,0 +1,141 @@
+{
+  "Tournament": {
+    "Date": "2026-04-19T00:00:00Z",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2026-04-1910413"
+  },
+  "Decks": [
+    {
+      "Date": "2026-04-19T00:00:00",
+      "Player": "VitorCarvalho01",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-04-1910413#deck_VitorCarvalho01",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Academic Dispute"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arclight Phoenix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cori-Steel Cutter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Impulse"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ledger Shredder"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Axe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Picklock Prankster"
+        },
+        {
+          "Count": 2,
+          "CardName": "Proft's Eidetic Memory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverglide Pathway"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shivan Reef"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spikefield Hazard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Treasure Cruise"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abandon Attachments"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boomerang Basics"
+        },
+        {
+          "Count": 3,
+          "CardName": "Brazen Borrower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Combustion Technique"
+        },
+        {
+          "Count": 1,
+          "CardName": "Firebending Lesson"
+        },
+        {
+          "Count": 1,
+          "CardName": "Iroh's Demonstration"
+        },
+        {
+          "Count": 1,
+          "CardName": "It'll Quench Ya!"
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Octopus Form"
+        },
+        {
+          "Count": 1,
+          "CardName": "Price of Freedom"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spell Pierce"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}

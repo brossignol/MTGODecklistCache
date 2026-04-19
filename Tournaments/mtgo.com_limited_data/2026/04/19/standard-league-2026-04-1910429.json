@@ -1,0 +1,109 @@
+{
+  "Tournament": {
+    "Date": "2026-04-19T00:00:00Z",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2026-04-1910429"
+  },
+  "Decks": [
+    {
+      "Date": "2026-04-19T00:00:00",
+      "Player": "tarkanmag",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-04-1910429#deck_tarkanmag",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Agna Qel'a"
+        },
+        {
+          "Count": 2,
+          "CardName": "Belion, the Parched"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bounce Off"
+        },
+        {
+          "Count": 1,
+          "CardName": "Confounding Riddle"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eddymurk Crab"
+        },
+        {
+          "Count": 3,
+          "CardName": "Eluge, the Shoreless Sea"
+        },
+        {
+          "Count": 3,
+          "CardName": "Get Out"
+        },
+        {
+          "Count": 19,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunderflock"
+        },
+        {
+          "Count": 3,
+          "CardName": "Three Steps Ahead"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unsummon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Aetherize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Detect Intrusion"
+        },
+        {
+          "Count": 3,
+          "CardName": "Glen Elendra's Answer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Octopus Form"
+        },
+        {
+          "Count": 3,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
