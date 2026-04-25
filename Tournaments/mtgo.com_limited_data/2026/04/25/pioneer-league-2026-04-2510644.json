@@ -1,0 +1,149 @@
+{
+  "Tournament": {
+    "Date": "2026-04-25T00:00:00Z",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2026-04-2510644"
+  },
+  "Decks": [
+    {
+      "Date": "2026-04-25T00:00:00",
+      "Player": "TheLukeman1998",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-04-2510644#deck_TheLukeman1998",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Abrupt Decay"
+        },
+        {
+          "Count": 4,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blooming Marsh"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 2,
+          "CardName": "Culling Ritual"
+        },
+        {
+          "Count": 2,
+          "CardName": "Darkbore Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Wastes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mutavault"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Professor Dellian Fel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sentinel of the Nameless City"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sheoldred, the Apocalypse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Takenuma, Abandoned Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unholy Annex // Ritual Chamber"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urborg, Tomb of Yawgmoth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Witherbloom Charm"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Culling Ritual"
+        },
+        {
+          "Count": 1,
+          "CardName": "Decorum Dissertation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Invoke Despair"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaervek, the Spiteful"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kalitas, Traitor of Ghet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Necromentia"
+        },
+        {
+          "Count": 1,
+          "CardName": "Professor Dellian Fel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ray of Enfeeblement"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadows' Verdict"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unlicensed Hearse"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
