@@ -1,0 +1,105 @@
+{
+  "Tournament": {
+    "Date": "2026-05-29T00:00:00Z",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2026-05-2910644"
+  },
+  "Decks": [
+    {
+      "Date": "2026-05-29T00:00:00",
+      "Player": "MHayashi",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-05-2910644#deck_MHayashi",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Blast Zone"
+        },
+        {
+          "Count": 4,
+          "CardName": "Candy Trail"
+        },
+        {
+          "Count": 4,
+          "CardName": "Castle Ardenvale"
+        },
+        {
+          "Count": 4,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emergency Eject"
+        },
+        {
+          "Count": 4,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Farewell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Field of Ruin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mazemind Tome"
+        },
+        {
+          "Count": 8,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Settle the Wreckage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lantern of the Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vanish into Eternity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zirda, the Dawnwaker"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
