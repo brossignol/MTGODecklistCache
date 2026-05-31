@@ -1,0 +1,481 @@
+{
+  "Tournament": {
+    "Date": "2026-05-30T17:00:00Z",
+    "Name": "Legacy Trst 1b",
+    "Uri": "https://melee.gg/Tournament/View/429562"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Nocciolinoll",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/25621967-7f68-4e59-b0e0-b45a00f3659a",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Broadside Bombardiers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chrome Mox"
+        },
+        {
+          "Count": 4,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Magus of the Moon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyrogoyf"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shatterskull Smashing // Shatterskull, the Hammer Pass"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simian Spirit Guide"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sundering Eruption // Volcanic Fissure"
+        },
+        {
+          "Count": 4,
+          "CardName": "The One Ring"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Dead // Gone"
+        },
+        {
+          "Count": 3,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fiery Confluence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 2,
+          "CardName": "Red Elemental Blast"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "paolo zamolo",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/c4221ee4-0aec-453c-9225-b45a010aae57",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Barrowgoyf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brazen Borrower // Petty Theft"
+        },
+        {
+          "Count": 2,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flow State"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murktide Regent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nethergoyf"
+        },
+        {
+          "Count": 3,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stifle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Underground Sea"
+        },
+        {
+          "Count": 1,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Barrowgoyf"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dauthi Voidwalker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Massacre"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheoldred&#39;s Edict"
+        },
+        {
+          "Count": 1,
+          "CardName": "Toxic Deluge"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "TomasDellaVedova",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/25138c26-c36d-4878-9187-b45a00c281b4",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 2,
+          "CardName": "Enlightened Tutor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ensnaring Bridge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Goblin Engineer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Goblin Welder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Grindstone"
+        },
+        {
+          "Count": 3,
+          "CardName": "Imperial Recruiter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Karn, the Great Creator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lion&#39;s Eye Diamond"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mox Opal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Painter&#39;s Servant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phyrexian Dragon Engine"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plateau"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 2,
+          "CardName": "Simian Spirit Guide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Twinshot Sniper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Saga"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ensnaring Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ethersworn Canonist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 1,
+          "CardName": "Goblin Cratermaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger&#39;s Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grindstone"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Magus of the Moon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod&#39;s Crypt"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Nocciolinoll",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5208333,
+      "GWP": 0.8888889,
+      "OGWP": 0.5347222
+    },
+    {
+      "Rank": 2,
+      "Player": "paolo zamolo",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.75,
+      "OGWP": 0.6481482
+    },
+    {
+      "Rank": 3,
+      "Player": "bavjf",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6944444,
+      "GWP": 0.5555556,
+      "OGWP": 0.6574074
+    },
+    {
+      "Rank": 4,
+      "Player": "Beppe",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6944444,
+      "GWP": 0.5,
+      "OGWP": 0.6574074
+    },
+    {
+      "Rank": 5,
+      "Player": "TomasDellaVedova",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.6481482
+    }
+  ]
+}
