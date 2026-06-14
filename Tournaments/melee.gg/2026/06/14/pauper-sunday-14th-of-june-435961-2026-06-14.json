@@ -1,0 +1,200 @@
+{
+  "Tournament": {
+    "Date": "2026-06-14T10:00:00Z",
+    "Name": "Pauper Sunday 14th of June",
+    "Uri": "https://melee.gg/Tournament/View/435961"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Benedikt Ricken",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/3117f314-39d9-4b4f-a123-b468014c0e6c",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cauldron Familiar"
+        },
+        {
+          "Count": 3,
+          "CardName": "Eviscerator&#39;s Insight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 2,
+          "CardName": "Golgari Rot Farm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grapple with Death"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haunted Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Heaped Harvest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Heritage Reclamation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 4,
+          "CardName": "Khalni Garden"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nutrient Block"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pestilence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 9,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tithing Blade // Consuming Sepulcher"
+        },
+        {
+          "Count": 3,
+          "CardName": "Troll of Khazad-d&#251;m"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Drown in Sorrow"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 2,
+          "CardName": "Moment&#39;s Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tragic Slip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Troublemaker Ouphe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Yannic Wetzel",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.75,
+      "OGWP": 0.4623016
+    },
+    {
+      "Rank": 2,
+      "Player": "Schmerbert",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5925926,
+      "GWP": 0.625,
+      "OGWP": 0.5277778
+    },
+    {
+      "Rank": 3,
+      "Player": "Josua",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.4444444,
+      "GWP": 0.5,
+      "OGWP": 0.4623016
+    },
+    {
+      "Rank": 4,
+      "Player": "youcanheal",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5925926,
+      "GWP": 0.3333333,
+      "OGWP": 0.5277778
+    },
+    {
+      "Rank": 5,
+      "Player": "Matthias53",
+      "Points": 2,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.5925926,
+      "GWP": 0.4285714,
+      "OGWP": 0.5277778
+    },
+    {
+      "Rank": 6,
+      "Player": "Benedikt Ricken",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.4444444,
+      "GWP": 0.3333333,
+      "OGWP": 0.4623016
+    }
+  ]
+}
