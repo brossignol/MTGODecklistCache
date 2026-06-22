@@ -1,0 +1,113 @@
+{
+  "Tournament": {
+    "Date": "2026-06-22T00:00:00Z",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2026-06-2210644"
+  },
+  "Decks": [
+    {
+      "Date": "2026-06-22T00:00:00",
+      "Player": "AnotherStep",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-06-2210644#deck_AnotherStep",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 1,
+          "CardName": "Craterhoof Behemoth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elvish Mystic"
+        },
+        {
+          "Count": 14,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Invasion of Ikoria"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lair of the Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Weaver"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nature's Rhythm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nykthos, Shrine to Nyx"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slumbering Trudge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Summon: Bahamut"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Great Henge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Titan of Industry"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vastlands Scavenger"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Elder Gargaroth"
+        },
+        {
+          "Count": 3,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 3,
+          "CardName": "Reclamation Sage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Setessan Petitioner"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tail Swipe"
+        },
+        {
+          "Count": 1,
+          "CardName": "Void Winnower"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
