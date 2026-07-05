@@ -1,0 +1,522 @@
+{
+  "Tournament": {
+    "Date": "2026-07-04T13:30:00Z",
+    "Name": "Modern RCQ - F2FTour Truro",
+    "Uri": "https://melee.gg/Tournament/View/440469"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Evan Mercer",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/bcf60ec3-ef0b-4a1d-9da1-b47d00cf7ce5",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Amulet of Vigor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crumbling Vestige"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cultivator Colossus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dryad of the Ilysian Grove"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 3,
+          "CardName": "Explore"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Green Sun&#39;s Zenith"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gruul Turf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hanweir Battlements"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mirrorpool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Primeval Titan"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shifting Woodland"
+        },
+        {
+          "Count": 3,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spelunking"
+        },
+        {
+          "Count": 2,
+          "CardName": "Summoner&#39;s Pact"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Mycosynth Gardens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tolaria West"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza&#39;s Cave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Saga"
+        },
+        {
+          "Count": 2,
+          "CardName": "Valakut, the Molten Pinnacle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vesuva"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Collector Ouphe"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Six"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tireless Tracker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "WeWoo",
+      "Result": "24th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/0a5dc29b-48a6-4d4f-b930-b47d00daf723",
+      "Mainboard": [],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Philippe Leger",
+      "Points": 14,
+      "Wins": 7,
+      "Losses": 0,
+      "Draws": 2,
+      "OMWP": 0.6203704,
+      "GWP": 0.6666667,
+      "OGWP": 0.5699405
+    },
+    {
+      "Rank": 2,
+      "Player": "Nicolas Bourque",
+      "Points": 13,
+      "Wins": 6,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6333333,
+      "GWP": 0.6428571,
+      "OGWP": 0.5864683
+    },
+    {
+      "Rank": 3,
+      "Player": "Josh Breau",
+      "Points": 14,
+      "Wins": 5,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.5648148,
+      "GWP": 0.6428571,
+      "OGWP": 0.5231151
+    },
+    {
+      "Rank": 4,
+      "Player": "JorC6",
+      "Points": 13,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5925926,
+      "GWP": 0.6,
+      "OGWP": 0.5328373
+    },
+    {
+      "Rank": 5,
+      "Player": "Tijler deJong",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5925926,
+      "GWP": 0.6,
+      "OGWP": 0.5534112
+    },
+    {
+      "Rank": 6,
+      "Player": "Graveland",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5648148,
+      "GWP": 0.625,
+      "OGWP": 0.5390873
+    },
+    {
+      "Rank": 7,
+      "Player": "Evan Mercer",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6018519,
+      "GWP": 0.5625,
+      "OGWP": 0.5679233
+    },
+    {
+      "Rank": 8,
+      "Player": "MikeLantz",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5740741,
+      "GWP": 0.5625,
+      "OGWP": 0.5258929
+    },
+    {
+      "Rank": 9,
+      "Player": "Tim Foley",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5092593,
+      "GWP": 0.6428571,
+      "OGWP": 0.4798611
+    },
+    {
+      "Rank": 10,
+      "Player": "VaughnM",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4814815,
+      "GWP": 0.5333333,
+      "OGWP": 0.4659722
+    },
+    {
+      "Rank": 11,
+      "Player": "JayS16",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4462963,
+      "GWP": 0.6,
+      "OGWP": 0.4449074
+    },
+    {
+      "Rank": 12,
+      "Player": "HopelessHippo",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6314815,
+      "GWP": 0.5714286,
+      "OGWP": 0.5481151
+    },
+    {
+      "Rank": 13,
+      "Player": "BlackComboLover",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6203704,
+      "GWP": 0.5208333,
+      "OGWP": 0.5590329
+    },
+    {
+      "Rank": 14,
+      "Player": "MikaelaCameron",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5296296,
+      "GWP": 0.5,
+      "OGWP": 0.4962632
+    },
+    {
+      "Rank": 15,
+      "Player": "Adam Joyce",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5185185,
+      "GWP": 0.5,
+      "OGWP": 0.5009972
+    },
+    {
+      "Rank": 16,
+      "Player": "Jameshazelton",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5111111,
+      "GWP": 0.5,
+      "OGWP": 0.5079654
+    },
+    {
+      "Rank": 17,
+      "Player": "Justin Hockney",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4537037,
+      "GWP": 0.4615385,
+      "OGWP": 0.4701389
+    },
+    {
+      "Rank": 18,
+      "Player": "MicR58",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4277778,
+      "GWP": 0.5,
+      "OGWP": 0.4243056
+    },
+    {
+      "Rank": 19,
+      "Player": "Remi Goupil",
+      "Points": 8,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 2,
+      "OMWP": 0.462963,
+      "GWP": 0.4888889,
+      "OGWP": 0.4770503
+    },
+    {
+      "Rank": 20,
+      "Player": "Mustard4Geese",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.5462963,
+      "GWP": 0.4444444,
+      "OGWP": 0.5287037
+    },
+    {
+      "Rank": 21,
+      "Player": "Schapman",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.4166667,
+      "OGWP": 0.5009524
+    },
+    {
+      "Rank": 22,
+      "Player": "EzraWexler",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4888889,
+      "GWP": 0.4,
+      "OGWP": 0.485641
+    },
+    {
+      "Rank": 23,
+      "Player": "Hedron67",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4814815,
+      "GWP": 0.4666667,
+      "OGWP": 0.4528069
+    },
+    {
+      "Rank": 24,
+      "Player": "WeWoo",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4583333,
+      "GWP": 0.4,
+      "OGWP": 0.4778139
+    },
+    {
+      "Rank": 25,
+      "Player": "BenS19",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5555556,
+      "GWP": 0.375,
+      "OGWP": 0.5238456
+    },
+    {
+      "Rank": 26,
+      "Player": "ChrB80",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.4,
+      "OGWP": 0.4868056
+    },
+    {
+      "Rank": 27,
+      "Player": "eggybenny",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333,
+      "OGWP": 0.468254
+    },
+    {
+      "Rank": 28,
+      "Player": "HunterCardinal",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.4466667,
+      "GWP": 0.3333333,
+      "OGWP": 0.4691667
+    },
+    {
+      "Rank": 29,
+      "Player": "JasonLeBlanc",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.3636364,
+      "OGWP": 0.4354167
+    },
+    {
+      "Rank": 30,
+      "Player": "Sebastian Steffe",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.7222222,
+      "GWP": 0.3333333,
+      "OGWP": 0.6
+    },
+    {
+      "Rank": 31,
+      "Player": "MatM64",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6388889,
+      "GWP": 0.3333333,
+      "OGWP": 0.5714286
+    },
+    {
+      "Rank": 32,
+      "Player": "BNRhynold",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5416667,
+      "GWP": 0.3333333,
+      "OGWP": 0.4820513
+    }
+  ]
+}
