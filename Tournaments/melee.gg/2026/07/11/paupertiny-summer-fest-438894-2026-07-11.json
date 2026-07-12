@@ -1,0 +1,319 @@
+{
+  "Tournament": {
+    "Date": "2026-07-11T12:00:00Z",
+    "Name": "Pauper-Tiny Summer Fest",
+    "Uri": "https://melee.gg/Tournament/View/438894"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "andreaaaa",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e021ca32-f9ea-4cec-9165-b4830087208f",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryptic Serpent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deem Inferior"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delver of Secrets // Insectile Aberration"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force Spike"
+        },
+        {
+          "Count": 16,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "L&#243;rien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mental Note"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sleep of the Dead"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gut Shot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Roberto Varisco",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/abce584a-8d8d-4761-b34d-b48300b2b14b",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Basilisk Gate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bitter Reunion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Citadel Gate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cliffgate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Journey to Nowhere"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Manor Gate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Melded Moxite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 3,
+          "CardName": "Outlaw Medic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Prismatic Strands"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pursue the Past"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Cat"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shattered Acolyte"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sheltering Landscape"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Ancient Grudge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Celestial Flare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Electrickery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flame Slash"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thraben Charm"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Frabarza",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.75,
+      "OGWP": 0.6
+    },
+    {
+      "Rank": 2,
+      "Player": "ClaudioMTG",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.75,
+      "OGWP": 0.5458333
+    },
+    {
+      "Rank": 3,
+      "Player": "andreaaaa",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5208333,
+      "GWP": 0.75,
+      "OGWP": 0.5069444
+    },
+    {
+      "Rank": 4,
+      "Player": "Roberto Varisco",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.6,
+      "OGWP": 0.4958333
+    },
+    {
+      "Rank": 5,
+      "Player": "Andrea Mantovani",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6875,
+      "GWP": 0.5,
+      "OGWP": 0.65
+    },
+    {
+      "Rank": 6,
+      "Player": "Cepe18",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.5,
+      "OGWP": 0.5648148
+    },
+    {
+      "Rank": 7,
+      "Player": "opfpw",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5277778,
+      "GWP": 0.4444444,
+      "OGWP": 0.55
+    },
+    {
+      "Rank": 8,
+      "Player": "rqrem",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.3333333,
+      "OGWP": 0.7
+    },
+    {
+      "Rank": 9,
+      "Player": "dgbjd",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.4,
+      "OGWP": 0.5981481
+    }
+  ]
+}
