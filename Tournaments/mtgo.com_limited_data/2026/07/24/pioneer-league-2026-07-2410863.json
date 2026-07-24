@@ -1,0 +1,223 @@
+{
+  "Tournament": {
+    "Date": "2026-07-24T00:00:00Z",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2026-07-2410863"
+  },
+  "Decks": [
+    {
+      "Date": "2026-07-24T00:00:00",
+      "Player": "Maarlfox",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-07-2410863#deck_Maarlfox",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eclipsed Realms"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Emptiness"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Explosive Prodigy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flamebraider"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Omnath, Locus of Creation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Omnath, Locus of the Roil"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Risen Reef"
+        },
+        {
+          "Count": 4,
+          "CardName": "Secluded Courtyard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunderflock"
+        },
+        {
+          "Count": 3,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unclaimed Territory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Up the Beanstalk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vibrance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Resurgence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wistfulness"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deafening Silence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deceit"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaheera, the Orphanguard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunderflock"
+        }
+      ]
+    },
+    {
+      "Date": "2026-07-24T00:00:00",
+      "Player": "bookofwarlostchapter",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-07-2410863#deck_bookofwarlostchapter",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 3,
+          "CardName": "Craterhoof Behemoth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earth's Mightiest Heroes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elvish Mystic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Emeritus of Abundance"
+        },
+        {
+          "Count": 16,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lovestruck Beast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nature's Rhythm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nykthos, Shrine to Nyx"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spider Manifestation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vastlands Scavenger"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Archdruid's Charm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fade from History"
+        },
+        {
+          "Count": 3,
+          "CardName": "Setessan Petitioner"
+        },
+        {
+          "Count": 2,
+          "CardName": "Skyreaping"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tail Swipe"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unlicensed Hearse"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
