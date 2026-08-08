@@ -1,0 +1,610 @@
+{
+  "Tournament": {
+    "Date": "2026-08-08T02:00:00Z",
+    "Name": "スタンダード対戦会 Daily Deck Club Vol.6 in 東京",
+    "Uri": "https://melee.gg/Tournament/View/447929"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "gotcha",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/b195006f-a4bc-4dc9-a5f8-b49f0010d47f",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Boomerang Basics"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eddymurk Crab"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flow State"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Out"
+        },
+        {
+          "Count": 7,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismari Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Roaring Furnace // Steaming Sauna"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stormchaser&#39;s Talent"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bounce Off"
+        },
+        {
+          "Count": 1,
+          "CardName": "Broadside Barrage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ral, Crackling Wit"
+        },
+        {
+          "Count": 1,
+          "CardName": "Return the Favor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Slagstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wan Shi Tong, Librarian"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Onoda Kenji",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/372637ac-3548-4d72-a446-b4a000115419",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Boomerang Basics"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eddymurk Crab"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flow State"
+        },
+        {
+          "Count": 1,
+          "CardName": "Get Out"
+        },
+        {
+          "Count": 6,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Octopus Form"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismari Charm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ral, Crackling Wit"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Roaring Furnace // Steaming Sauna"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 3,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stormchaser&#39;s Talent"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emeritus of Ideation // Ancestral Recall"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Get Out"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ral, Crackling Wit"
+        },
+        {
+          "Count": 1,
+          "CardName": "Return the Favor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Roaring Furnace // Steaming Sauna"
+        },
+        {
+          "Count": 1,
+          "CardName": "Slagstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "Twinmaw Stormbrood // Charring Bite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wan Shi Tong, Librarian"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Naohiko Adachi",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/ce06bb28-a90e-4cf1-b4dc-b4a0000b44b0",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Bleachbone Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deadly Cover-Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Firebending Lesson"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flashback"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Hall of the Biblioplex"
+        },
+        {
+          "Count": 3,
+          "CardName": "Inevitable Defeat"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jeskai Revelation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nowhere to Run"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shattered Sanctum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tablet of Discovery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thor, God of Thunder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Together as One"
+        },
+        {
+          "Count": 2,
+          "CardName": "Undercity Sewers"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Arcane Omens"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day of Black Sun"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Outrageous Robbery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Return the Favor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thor, God of Thunder"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Akira Yamawaki",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/0715dbb3-a43f-48b8-92b3-b49f0159a477",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Avengers Disassembled"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boltwave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Death to Our Enemies"
+        },
+        {
+          "Count": 4,
+          "CardName": "Demand Answers"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashback"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Strike"
+        },
+        {
+          "Count": 20,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plasma Bolt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Smaug the Magnificent"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Misty Mountains Cold"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vision of Love"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ball Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Case of the Crimson Pulse"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Return the Favor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 1,
+          "CardName": "Untimely Malfunction"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "gotcha",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.8571429,
+      "OGWP": 0.4583333
+    },
+    {
+      "Rank": 2,
+      "Player": "Onoda Kenji",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.5714286,
+      "OGWP": 0.5873016
+    },
+    {
+      "Rank": 3,
+      "Player": "Naohiko Adachi",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.5714286,
+      "OGWP": 0.4583333
+    },
+    {
+      "Rank": 4,
+      "Player": "satoshi kuroiwa",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.4285714,
+      "OGWP": 0.5873016
+    },
+    {
+      "Rank": 5,
+      "Player": "YsoHq",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.375,
+      "OGWP": 0.5873016
+    },
+    {
+      "Rank": 6,
+      "Player": "Akira Yamawaki",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.3333333,
+      "OGWP": 0.4583333
+    }
+  ]
+}
