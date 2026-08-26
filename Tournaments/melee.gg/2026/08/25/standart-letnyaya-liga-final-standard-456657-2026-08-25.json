@@ -1,0 +1,560 @@
+{
+  "Tournament": {
+    "Date": "2026-08-25T15:30:00Z",
+    "Name": "Стандарт. Летняя Лига. ФИНАЛ",
+    "Uri": "https://melee.gg/Tournament/View/456657"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "andrei bondarchik",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/21149b44-6f66-42ad-ac15-b4b100705bb0",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Archenemy&#39;s Charm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deadly Cover-Up"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deceit"
+        },
+        {
+          "Count": 3,
+          "CardName": "Doomsday Excruciator"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Emeritus of Ideation // Ancestral Recall"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hidden Lair"
+        },
+        {
+          "Count": 2,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 4,
+          "CardName": "Restless Reef"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shoot the Sheriff"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Superior Spider-Man"
+        },
+        {
+          "Count": 9,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "The End"
+        },
+        {
+          "Count": 2,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 2,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Day of Black Sun"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deadly Cover-Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harvester of Misery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Intimidation Tactics"
+        },
+        {
+          "Count": 1,
+          "CardName": "Malcolm, Alluring Scoundrel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Oildeep Gearhulk"
+        },
+        {
+          "Count": 2,
+          "CardName": "Qarsi Revenant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strategic Betrayal"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Rostislav Brozhat",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/6cee34c3-9a30-4622-bbb2-b4b001267388",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eddymurk Crab"
+        },
+        {
+          "Count": 3,
+          "CardName": "Get Out"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hearth Elemental // Stoke Genius"
+        },
+        {
+          "Count": 6,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismari Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunderflock"
+        },
+        {
+          "Count": 4,
+          "CardName": "Traumatic Critique"
+        },
+        {
+          "Count": 3,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Colorstorm Stallion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Slagstorm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Kuruk // Avatar Kuruk"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "vladislavyurel",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/af5a99e7-c54d-482b-bdbf-b4b00118d850",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "A.I.M. Labs"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 4,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 4,
+          "CardName": "Enduring Curiosity"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flitterwing Nuisance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodpits Drowner"
+        },
+        {
+          "Count": 2,
+          "CardName": "Glen Elendra Guardian"
+        },
+        {
+          "Count": 1,
+          "CardName": "Great Hall of the Biblioplex"
+        },
+        {
+          "Count": 6,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Raven Eagle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Reef"
+        },
+        {
+          "Count": 2,
+          "CardName": "Serpent&#39;s Pass"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spyglass Siren"
+        },
+        {
+          "Count": 2,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Temple of Deceit"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Wondrous Wasp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tishana&#39;s Tidebinder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Long River&#39;s Pull"
+        },
+        {
+          "Count": 2,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spider-Sense"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stature, Size Shifter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Strategic Betrayal"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Sergey",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1a310af4-022d-4042-b11d-b4b0011a20a5",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Auntie&#39;s Sentence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bloodfell Caves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boggart Cursecrafter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boggart Mischief"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boiling Rock Prison"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fanatical Firebrand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Foolish Fate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gollum, Riddle Master"
+        },
+        {
+          "Count": 1,
+          "CardName": "Heartless Act"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hell&#39;s Kitchen"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hero&#39;s Downfall"
+        },
+        {
+          "Count": 4,
+          "CardName": "Howlsquad Heavy"
+        },
+        {
+          "Count": 2,
+          "CardName": "Krenko, Mob Boss"
+        },
+        {
+          "Count": 5,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rakdos Guildgate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Searslicer Goblin"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 5,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Bogslither&#39;s Embrace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Burn, Burn, Tree and Fern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Epic Downfall"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gollum, Riddle Master"
+        },
+        {
+          "Count": 2,
+          "CardName": "Taster of Wares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wander Off"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "andrei bondarchik",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 1.0,
+      "OGWP": 0.4444444
+    },
+    {
+      "Rank": 2,
+      "Player": "Rostislav Brozhat",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.6666667,
+      "OGWP": 0.5555556
+    },
+    {
+      "Rank": 3,
+      "Player": "vladislavyurel",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.6666667
+    },
+    {
+      "Rank": 4,
+      "Player": "Sergey",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.6666667
+    }
+  ]
+}
