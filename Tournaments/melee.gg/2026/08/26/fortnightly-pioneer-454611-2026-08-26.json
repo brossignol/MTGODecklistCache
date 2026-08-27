@@ -1,0 +1,633 @@
+{
+  "Tournament": {
+    "Date": "2026-08-26T17:35:00Z",
+    "Name": "Fortnightly Pioneer",
+    "Uri": "https://melee.gg/Tournament/View/454611"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Derek Choi",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/ef946907-afa5-40d3-936c-b4b10100e7f1",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Change the Equation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deserted Beach"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dovin&#39;s Veto"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 1,
+          "CardName": "Farewell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 3,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hall of Storm Giants"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 1,
+          "CardName": "Memory Deluge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 2,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Reckoner Bankbuster"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Hero of Dominaria"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Wandering Emperor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Three Steps Ahead"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ultima"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Change the Equation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaheera, the Orphanguard"
+        },
+        {
+          "Count": 2,
+          "CardName": "Kutzil&#39;s Flanker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 1,
+          "CardName": "Regal Caracal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shark Typhoon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spider-Sense"
+        },
+        {
+          "Count": 2,
+          "CardName": "Temporary Lockdown"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Vivian Huang",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/8c24fac6-d5ff-4624-91d9-b4b1010dab16",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Adorned Pouncer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Animal Sanctuary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arahbo, the First Fang"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cubwarden"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Feline Sovereign"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Kutzil, Malamet Exemplar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mana Confluence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mutavault"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Razorverge Thicket"
+        },
+        {
+          "Count": 4,
+          "CardName": "Regal Caracal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Cat"
+        },
+        {
+          "Count": 4,
+          "CardName": "Secluded Courtyard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snapdax, Apex of the Hunt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Streetwise Negotiator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Temple Garden"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Agatha&#39;s Soul Cauldron"
+        },
+        {
+          "Count": 2,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dawn&#39;s Truce"
+        },
+        {
+          "Count": 3,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Kutzil&#39;s Flanker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Winnowing"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Juno Hogg",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/88682353-1552-4f65-adef-b4b201144bda",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Abandoned Air Temple"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ajani, Outland Chaperone"
+        },
+        {
+          "Count": 4,
+          "CardName": "Archon of Emeria"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brushland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Collected Company"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elvish Mystic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Enduring Innocence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ouroboroid"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Razorverge Thicket"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skyclave Apparition"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sylvan Caryatid"
+        },
+        {
+          "Count": 4,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thalia, Guardian of Thraben"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Resurgence"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Aven Interrupter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 1,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scavenging Ooze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thrun, Breaker of Silence"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Spike Taylor",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/7246420d-9479-458e-9f8e-b4b101062a97",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Battlefield Forge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cosmogrand Zenith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gleeful Demolition"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Knight-Errant of Eos"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Needleverge Pathway // Pillarverge Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ornithopter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shefet Dunes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thalia, Guardian of Thraben"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thraben Inspector"
+        },
+        {
+          "Count": 3,
+          "CardName": "Venerated Loxodon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voldaren Epicure"
+        },
+        {
+          "Count": 4,
+          "CardName": "Warden of the Inner Sky"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Aven Interrupter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boros Charm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Containment Priest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Destroy Evil"
+        },
+        {
+          "Count": 2,
+          "CardName": "Invasion of Gobakhan // Lightshield Array"
+        },
+        {
+          "Count": 2,
+          "CardName": "Magebane Lizard"
+        },
+        {
+          "Count": 2,
+          "CardName": "Remorseful Cleric"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torch the Tower"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "RobNocte",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/c442a737-1f71-41eb-baba-b4b10102d9fa",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "jnysevilla",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/a3a071e4-d882-41de-b75f-b4b20117a20e",
+      "Mainboard": [],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Derek Choi",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.75,
+      "OGWP": 0.4973545
+    },
+    {
+      "Rank": 2,
+      "Player": "Vivian Huang",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.7142857,
+      "OGWP": 0.5515873
+    },
+    {
+      "Rank": 3,
+      "Player": "Juno Hogg",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.5714286,
+      "OGWP": 0.5793651
+    },
+    {
+      "Rank": 4,
+      "Player": "WillKillsTime",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.3333333,
+      "GWP": 0.7142857,
+      "OGWP": 0.3888889
+    },
+    {
+      "Rank": 5,
+      "Player": "Spike Taylor",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.7777778,
+      "GWP": 0.4444444,
+      "OGWP": 0.6785714
+    },
+    {
+      "Rank": 6,
+      "Player": "RobNocte",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.5992063
+    },
+    {
+      "Rank": 7,
+      "Player": "jnysevilla",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333,
+      "OGWP": 0.5238095
+    }
+  ]
+}
