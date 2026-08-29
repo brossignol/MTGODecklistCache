@@ -1,0 +1,125 @@
+{
+  "Tournament": {
+    "Date": "2026-08-29T00:00:00Z",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2026-08-2911015"
+  },
+  "Decks": [
+    {
+      "Date": "2026-08-29T00:00:00",
+      "Player": "Nagato_Boran",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-08-2911015#deck_Nagato_Boran",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 1,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elven Passage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Escape Tunnel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Esper Origins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 14,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Glimpse the Core"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lumbering Worldwagon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meltstrider's Resolve"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Promising Vein"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surrak, Elusive Hunter"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Gigantic Big Bear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Leatherhead, Swamp Stalker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Meltstrider's Resolve"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Warg Tactics"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
