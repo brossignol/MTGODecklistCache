@@ -1,0 +1,105 @@
+{
+  "Tournament": {
+    "Date": "2026-09-01T00:00:00Z",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2026-09-0110999"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-01T00:00:00",
+      "Player": "Cdnewlon",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-09-0110999#deck_Cdnewlon",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Boomerang Basics"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clearwater Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Darkslick Shores"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gran-Gran"
+        },
+        {
+          "Count": 5,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Amber"
+        },
+        {
+          "Count": 4,
+          "CardName": "Retraction Helix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rona, Herald of Invasion"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stormchaser's Talent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thassa's Oracle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thundertrap Trainer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Valley Floodcaller"
+        },
+        {
+          "Count": 4,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grim Bauble"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nowhere to Run"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "This Town Ain't Big Enough"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
