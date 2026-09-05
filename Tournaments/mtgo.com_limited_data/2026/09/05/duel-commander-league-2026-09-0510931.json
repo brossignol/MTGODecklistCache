@@ -1,0 +1,389 @@
+{
+  "Tournament": {
+    "Date": "2026-09-05T00:00:00Z",
+    "Name": "Duel Commander League",
+    "Uri": "https://www.mtgo.com/decklist/duel-commander-league-2026-09-0510931"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-05T00:00:00",
+      "Player": "lsznpa",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/duel-commander-league-2026-09-0510931#deck_lsznpa",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Arc Trail"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Badlands"
+        },
+        {
+          "Count": 1,
+          "CardName": "Barbarian Ring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blackcleave Cliffs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blightstep Pathway"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bloodsoaked Champion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boltwave"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bomat Courier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Broadside Bombardiers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bump in the Night"
+        },
+        {
+          "Count": 1,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chain Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "City of Brass"
+        },
+        {
+          "Count": 1,
+          "CardName": "Command Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cori-Steel Cutter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Demonic Consultation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Detective's Phoenix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dragon's Rage Channeler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Embereth Veteran"
+        },
+        {
+          "Count": 1,
+          "CardName": "Falkenrath Gorger"
+        },
+        {
+          "Count": 1,
+          "CardName": "Falkenrath Pit Fighter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fiery Inscription"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forked Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forsaken Miner"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 1,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghostfire Slice"
+        },
+        {
+          "Count": 1,
+          "CardName": "Greasewrench Goblin"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grim Lavamancer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hired Claw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Incendiary Flow"
+        },
+        {
+          "Count": 1,
+          "CardName": "Incinerate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Iridescent Vinelasher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kavaron Harrier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kellan, Planar Trailblazer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kumano Faces Kakkazan"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lava Spike"
+        },
+        {
+          "Count": 1,
+          "CardName": "Light Up the Stage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mana Confluence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Monastery Swiftspear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Monstrous Rage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mount Doom"
+        },
+        {
+          "Count": 8,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Norin, Swift Survivalist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pillar of Flame"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plasma Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Play with Fire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismatic Vista"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyrokinesis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Quicksilver, Brash Blur"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rakdos Cackler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ramunap Ruins"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ranger's Firebrand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raucous Theater"
+        },
+        {
+          "Count": 1,
+          "CardName": "Roiling Vortex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Screaming Nemesis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seal of Fire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Searing Blaze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Searing Spear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shock"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skewer the Critics"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skullcrack"
+        },
+        {
+          "Count": 1,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Scar Mage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stalactite Stalker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sulfuric Vortex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sulfurous Springs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sundering Eruption"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tarfire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tyrant's Choice"
+        },
+        {
+          "Count": 1,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wild Slash"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zurgo Bellstriker"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Tokka & Rahzar, Terrible Twos"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": null
+}
