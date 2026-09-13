@@ -1,0 +1,358 @@
+{
+  "Tournament": {
+    "Date": "2026-09-12T13:30:00Z",
+    "Name": "Modern RCQ - F2FTour Moncton",
+    "Uri": "https://melee.gg/Tournament/View/461961"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "saul ASOYUF",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/5f2e35f6-80f7-432c-9987-b4c300d4e59b",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Artist&#39;s Talent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Commercial District"
+        },
+        {
+          "Count": 4,
+          "CardName": "Desperate Ritual"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grapeshot"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hex Magic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manamorphose"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Past in Flames"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyretic Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ral, Monsoon Mage // Ral, Leyline Prodigy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckless Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ruby Medallion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunbaked Canyon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Valakut Awakening // Valakut Stoneforge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wish"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrenn&#39;s Resolve"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Brotherhood&#39;s End"
+        },
+        {
+          "Count": 1,
+          "CardName": "Empty the Warrens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grapeshot"
+        },
+        {
+          "Count": 3,
+          "CardName": "Orim&#39;s Chant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Past in Flames"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Untimely Malfunction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wear // Tear"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "MrMarthius",
+      "Points": 10,
+      "Wins": 6,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5733333,
+      "GWP": 0.5714286,
+      "OGWP": 0.5405372
+    },
+    {
+      "Rank": 2,
+      "Player": "Bayley Roy",
+      "Points": 10,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.52,
+      "GWP": 0.5833333,
+      "OGWP": 0.4800977
+    },
+    {
+      "Rank": 3,
+      "Player": "zakari",
+      "Points": 11,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.6833333,
+      "GWP": 0.5714286,
+      "OGWP": 0.5895604
+    },
+    {
+      "Rank": 4,
+      "Player": "Werving",
+      "Points": 10,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5066667,
+      "GWP": 0.5714286,
+      "OGWP": 0.4681319
+    },
+    {
+      "Rank": 5,
+      "Player": "saul ASOYUF",
+      "Points": 11,
+      "Wins": 3,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.6833333,
+      "GWP": 0.6153846,
+      "OGWP": 0.5925366
+    },
+    {
+      "Rank": 6,
+      "Player": "ChrisNealis",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5466667,
+      "GWP": 0.6,
+      "OGWP": 0.5171606
+    },
+    {
+      "Rank": 7,
+      "Player": "Schapman",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.52,
+      "GWP": 0.5714286,
+      "OGWP": 0.5128871
+    },
+    {
+      "Rank": 8,
+      "Player": "Marceline Webb",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5066667,
+      "GWP": 0.6153846,
+      "OGWP": 0.5026307
+    },
+    {
+      "Rank": 9,
+      "Player": "VaughnM",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4666667,
+      "GWP": 0.5714286,
+      "OGWP": 0.4982517
+    },
+    {
+      "Rank": 10,
+      "Player": "ScarecrowRTS",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.55,
+      "GWP": 0.5277778,
+      "OGWP": 0.5089744
+    },
+    {
+      "Rank": 11,
+      "Player": "Mustard4Geese",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.4933333,
+      "GWP": 0.4358974,
+      "OGWP": 0.4698413
+    },
+    {
+      "Rank": 12,
+      "Player": "egsfd",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6133333,
+      "GWP": 0.4166667,
+      "OGWP": 0.5561472
+    },
+    {
+      "Rank": 13,
+      "Player": "kxbun",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5466667,
+      "GWP": 0.5384615,
+      "OGWP": 0.5282717
+    },
+    {
+      "Rank": 14,
+      "Player": "mmrqh",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.52,
+      "GWP": 0.4545455,
+      "OGWP": 0.4819048
+    },
+    {
+      "Rank": 15,
+      "Player": "tbehm",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4933333,
+      "GWP": 0.4285714,
+      "OGWP": 0.508486
+    },
+    {
+      "Rank": 16,
+      "Player": "GeoA3",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4266667,
+      "GWP": 0.4545455,
+      "OGWP": 0.4529915
+    },
+    {
+      "Rank": 17,
+      "Player": "dgkmn",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.4333333,
+      "GWP": 0.3611111,
+      "OGWP": 0.4261364
+    },
+    {
+      "Rank": 18,
+      "Player": "PineappleTuna",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.4,
+      "GWP": 0.3333333,
+      "OGWP": 0.4265249
+    },
+    {
+      "Rank": 19,
+      "Player": "Niskam",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4533333,
+      "GWP": 0.3333333,
+      "OGWP": 0.459102
+    },
+    {
+      "Rank": 20,
+      "Player": "MarF53",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.5714286
+    }
+  ]
+}
