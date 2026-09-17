@@ -1,0 +1,241 @@
+{
+  "Tournament": {
+    "Date": "2026-09-16T17:30:00Z",
+    "Name": "Fortnightly Proxy Standard",
+    "Uri": "https://melee.gg/Tournament/View/465222"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Derek Choi",
+      "Result": "9th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/4de02b72-e2ec-44a7-9f1c-b4c700dcda0c",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Avengers Disassembled"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cori Mountain Monastery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emeritus of Truce // Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flashback"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Helix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Maelstrom Artisan // Rocket Volley"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Price of Freedom"
+        },
+        {
+          "Count": 1,
+          "CardName": "Restless Bivouac"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Settle the Wreckage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Skycoach Waypoint"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sunken Citadel"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Roku // Avatar Roku"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Lonely Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thor, God of Thunder"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Split Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Roku // Avatar Roku"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thor, God of Thunder"
+        },
+        {
+          "Count": 3,
+          "CardName": "Voice of Victory"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Vivian Huang",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.8571429,
+      "OGWP": 0.531746
+    },
+    {
+      "Rank": 2,
+      "Player": "RobNocte",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.8333333,
+      "GWP": 0.6666667,
+      "OGWP": 0.7142857
+    },
+    {
+      "Rank": 3,
+      "Player": "WillKillsTime",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.5714286,
+      "OGWP": 0.5555556
+    },
+    {
+      "Rank": 4,
+      "Player": "Spike Taylor",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.5,
+      "OGWP": 0.5185185
+    },
+    {
+      "Rank": 5,
+      "Player": "jamestimms",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.5555556,
+      "OGWP": 0.452381
+    },
+    {
+      "Rank": 6,
+      "Player": "Juno Hogg",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.8333333,
+      "GWP": 0.4285714,
+      "OGWP": 0.7063492
+    },
+    {
+      "Rank": 7,
+      "Player": "Martin Richardson",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.5,
+      "OGWP": 0.6190476
+    },
+    {
+      "Rank": 8,
+      "Player": "jnysevilla",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.4285714,
+      "OGWP": 0.4920635
+    },
+    {
+      "Rank": 9,
+      "Player": "Derek Choi",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.4285714,
+      "OGWP": 0.4761905
+    }
+  ]
+}
