@@ -1,0 +1,208 @@
+{
+  "Tournament": {
+    "Date": "2026-09-23T17:30:00Z",
+    "Name": "Fortnightly Proxy Pioneer",
+    "Uri": "https://melee.gg/Tournament/View/467986"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Derek Choi",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/30a4cc94-5085-4f75-ac62-b4cc00b76066",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Cling to Dust"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drown in the Loch"
+        },
+        {
+          "Count": 4,
+          "CardName": "Exhibition Tidecaller"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 2,
+          "CardName": "Field of Ruin"
+        },
+        {
+          "Count": 2,
+          "CardName": "Founding the Third Path"
+        },
+        {
+          "Count": 1,
+          "CardName": "Geier Reach Sanitarium"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hidden Lair"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ipnu Rivulet"
+        },
+        {
+          "Count": 5,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Jace, the Perfected Mind"
+        },
+        {
+          "Count": 2,
+          "CardName": "Kitsune&#39;s Technique"
+        },
+        {
+          "Count": 3,
+          "CardName": "Maddening Cacophony"
+        },
+        {
+          "Count": 2,
+          "CardName": "Merfolk Secretkeeper // Venture Deeper"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 2,
+          "CardName": "Riverchurn Monument"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ruin Crab"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Takenuma, Abandoned Mire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tasha&#39;s Hideous Laughter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Crypt Incursion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Emeritus of Ideation // Ancestral Recall"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extinction Event"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Meathook Massacre"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Stone Brain"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Volcom",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.8571429,
+      "OGWP": 0.4623016
+    },
+    {
+      "Rank": 2,
+      "Player": "RobNocte",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.625,
+      "OGWP": 0.5396825
+    },
+    {
+      "Rank": 3,
+      "Player": "jamestimms",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.6051587
+    },
+    {
+      "Rank": 4,
+      "Player": "Spike Taylor",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.4285714,
+      "OGWP": 0.5396825
+    },
+    {
+      "Rank": 5,
+      "Player": "Martin Richardson",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.4285714,
+      "OGWP": 0.4623016
+    },
+    {
+      "Rank": 6,
+      "Player": "Derek Choi",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.3333333,
+      "GWP": 0.3333333,
+      "OGWP": 0.3968254
+    }
+  ]
+}
