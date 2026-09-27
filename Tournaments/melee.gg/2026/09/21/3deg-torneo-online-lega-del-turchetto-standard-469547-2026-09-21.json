@@ -1,0 +1,996 @@
+{
+  "Tournament": {
+    "Date": "2026-09-21T19:00:00Z",
+    "Name": "3° torneo online lega del Turchetto",
+    "Uri": "https://melee.gg/Tournament/View/469547"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "gallinfrog99",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/3fb54c15-c1f6-4814-b6e5-b4cc00e58f89",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Air Balloon BLK 79"
+        },
+        {
+          "Count": 10,
+          "CardName": "Basic {D} Energy MEE 7"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boss&#39;s Orders MEG 114"
+        },
+        {
+          "Count": 2,
+          "CardName": "Buddy-Buddy Poffin ASC 184"
+        },
+        {
+          "Count": 2,
+          "CardName": "Buddy-Buddy Poffin TEF 144"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dawn PFL 87"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fezandipiti ex SFA 38"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gastly POR 48"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gengar ex 30C 90"
+        },
+        {
+          "Count": 3,
+          "CardName": "Haunter PFL 55"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lillie&#39;s Determination MEG 119"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mega Gengar ex PFL 56"
+        },
+        {
+          "Count": 1,
+          "CardName": "Munkidori TWM 95"
+        },
+        {
+          "Count": 1,
+          "CardName": "Night Stretcher ASC 196"
+        },
+        {
+          "Count": 2,
+          "CardName": "Night Stretcher SFA 61"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pok&#233; Pad ASC 198"
+        },
+        {
+          "Count": 1,
+          "CardName": "Psyduck MEP 7"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rare Candy SVI 191"
+        },
+        {
+          "Count": 1,
+          "CardName": "Secret Box TWM 163"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shaymin DRI 10"
+        },
+        {
+          "Count": 1,
+          "CardName": "Special Red Card CRI 82"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tatsugiri TWM 131"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxel PFL 67"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxtricity PFL 68"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ultra Ball MEG 131"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "thomaserapreso",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/c5721a39-01cc-413f-bdcc-b4cc01230ec7",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Area Zero Underdepths SCR 174"
+        },
+        {
+          "Count": 9,
+          "CardName": "Basic {G} Energy GRI 167"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boss&#39;s Orders PR-SW 251"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bug Catching Set PRE 102"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chien-Pao PR-SV 152"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ciphermaniac&#39;s Codebreaking TEF 198"
+        },
+        {
+          "Count": 4,
+          "CardName": "Energy Switch PBL 107"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fezandipiti ex ASC 288"
+        },
+        {
+          "Count": 2,
+          "CardName": "Latias ex SSP 239"
+        },
+        {
+          "Count": 1,
+          "CardName": "Legacy Energy TWM 167"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lillie&#39;s Clefairy ex JTG 184"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lillie&#39;s Determination MEG 184"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mega Kangaskhan ex MEG 182"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meowth ex POR 121"
+        },
+        {
+          "Count": 1,
+          "CardName": "Moltres PFL 14"
+        },
+        {
+          "Count": 1,
+          "CardName": "Munkidori SFA 72"
+        },
+        {
+          "Count": 1,
+          "CardName": "N&#39;s Plan BLK 170"
+        },
+        {
+          "Count": 1,
+          "CardName": "Night Stretcher MEG 173"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pecharunt PR-SV 129"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prism Energy BLK 86"
+        },
+        {
+          "Count": 1,
+          "CardName": "Special Red Card CRI 113"
+        },
+        {
+          "Count": 4,
+          "CardName": "Teal Mask Ogerpon ex TWM 211"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tera Orb SSP 189"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ultra Ball ASC 264"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wellspring Mask Ogerpon ex TWM 213"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Chrycapo10",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/9af52b10-f9aa-4119-a259-b4cc011a8355",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Antique Armor Fossil PBL 72"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bastiodon PBL 62"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boss&#39;s Orders MEG 114"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bubbly Water Energy CRI 84"
+        },
+        {
+          "Count": 4,
+          "CardName": "Colress&#39;s Tenacity SFA 57"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fossil Quarry PBL 76"
+        },
+        {
+          "Count": 1,
+          "CardName": "Genesect ex BLK 67"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grand Tree SCR 136"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hilda WHT 84"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lillie&#39;s Determination MEG 119"
+        },
+        {
+          "Count": 4,
+          "CardName": "Magnetic Metal Energy CRI 85"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mega Froslass ex ASC 47"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pok&#233; Pad POR 81"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pok&#233;gear 3.0 SVI 186"
+        },
+        {
+          "Count": 3,
+          "CardName": "Shieldon PBL 61"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snorunt ASC 46"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ultra Ball MEG 131"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wally&#39;s Compassion MEG 132"
+        },
+        {
+          "Count": 2,
+          "CardName": "Water Energy MEE 3"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "empoli20",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/b029a363-db39-4ba1-90fc-b4cc00793e49",
+      "Mainboard": [
+        {
+          "Count": 9,
+          "CardName": "Basic {D} Energy BUS 168"
+        },
+        {
+          "Count": 2,
+          "CardName": "Binding Mochi PRE 95"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boss&#39;s Orders LOR-TG 24"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boss&#39;s Orders PAL 265"
+        },
+        {
+          "Count": 3,
+          "CardName": "Buddy-Buddy Poffin TWM 223"
+        },
+        {
+          "Count": 1,
+          "CardName": "Buneary PFL 83"
+        },
+        {
+          "Count": 3,
+          "CardName": "Carvanha PFL 60"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chi-Yu PBL 59"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gravity Mountain SSP 250"
+        },
+        {
+          "Count": 2,
+          "CardName": "Judge PAF 228"
+        },
+        {
+          "Count": 1,
+          "CardName": "Judge SIT-TG 25"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lillie&#39;s Determination MEG 184"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mega Lopunny ex PFL 128"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mega Sharpedo ex PFL 127"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mega Signal MEG 171"
+        },
+        {
+          "Count": 2,
+          "CardName": "Munkidori SFA 72"
+        },
+        {
+          "Count": 2,
+          "CardName": "Night Stretcher SSP 251"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pecharunt ex PRE 163"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pecharunt ex SFA 93"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pok&#233; Pad POR 113"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prime Catcher TEF 157"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tatsugiri TWM 131"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tatsugiri TWM 186"
+        },
+        {
+          "Count": 2,
+          "CardName": "Team Rocket&#39;s Petrel DRI 226"
+        },
+        {
+          "Count": 1,
+          "CardName": "Team Rocket&#39;s Watchtower DRI 180"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxel MEP 78"
+        },
+        {
+          "Count": 2,
+          "CardName": "Toxtricity PFL 103"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ultra Ball BRS 186"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wally&#39;s Compassion MEG 186"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yveltal MEG 88"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "Shankusu",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e54d560a-9d22-4028-aff4-b4cc011c85d2",
+      "Mainboard": [
+        {
+          "Count": 12,
+          "CardName": "Basic {M} Energy Energy 16"
+        },
+        {
+          "Count": 2,
+          "CardName": "Basic {M} Energy SFA 99"
+        },
+        {
+          "Count": 1,
+          "CardName": "Basic {M} Energy SVALT 138"
+        },
+        {
+          "Count": 2,
+          "CardName": "Basic {M} Energy SVE 8"
+        },
+        {
+          "Count": 4,
+          "CardName": "Beldum TEF 113"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brock&#39;s Scouting JTG 179"
+        },
+        {
+          "Count": 4,
+          "CardName": "Buddy-Buddy Poffin TWM 223"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drilbur PBL 46"
+        },
+        {
+          "Count": 1,
+          "CardName": "Energy Recycler POR 108"
+        },
+        {
+          "Count": 1,
+          "CardName": "Genesect ex BLK 161"
+        },
+        {
+          "Count": 1,
+          "CardName": "Genesect ex BLK 67"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hero&#39;s Cape TEF 152"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jumbo Ice Cream CRI 109"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kieran TWM 206"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mega Excadrill ex PBL 103"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mega Skarmory ex POR 106"
+        },
+        {
+          "Count": 1,
+          "CardName": "Metagross CRI 61"
+        },
+        {
+          "Count": 4,
+          "CardName": "Metang TEF 114"
+        },
+        {
+          "Count": 1,
+          "CardName": "Special Red Card CRI 113"
+        },
+        {
+          "Count": 1,
+          "CardName": "Switch PRC 163"
+        },
+        {
+          "Count": 4,
+          "CardName": "Team Rocket&#39;s Petrel DRI 226"
+        },
+        {
+          "Count": 2,
+          "CardName": "Team Rocket&#39;s Transceiver ASC 263"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tool Scrapper RCL 208"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ultra Ball PLF 122"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "AntonioZZZ",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/07977bc5-ed08-4f50-9683-b4cc01353227",
+      "Mainboard": [
+        {
+          "Count": 6,
+          "CardName": "Basic {G} Energy MEE 1"
+        },
+        {
+          "Count": 2,
+          "CardName": "Basic {P} Energy SVE 5"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brave Bangle WHT 80"
+        },
+        {
+          "Count": 1,
+          "CardName": "Energy Search POR 72"
+        },
+        {
+          "Count": 1,
+          "CardName": "Energy Switch MEG 115"
+        },
+        {
+          "Count": 1,
+          "CardName": "Handheld Fan TWM 150"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hilda WHT 164"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lillie&#39;s Clefairy ex JTG 184"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lillie&#39;s Determination MEG 169"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lucky Helmet TWM 158"
+        },
+        {
+          "Count": 1,
+          "CardName": "Night Stretcher ASC 196"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Ash POR 115"
+        },
+        {
+          "Count": 1,
+          "CardName": "Secret Box TWM 163"
+        },
+        {
+          "Count": 1,
+          "CardName": "Special Red Card CRI 113"
+        },
+        {
+          "Count": 2,
+          "CardName": "Team Rocket&#39;s Ariana DRI 224"
+        },
+        {
+          "Count": 2,
+          "CardName": "Team Rocket&#39;s Articuno DRI 51"
+        },
+        {
+          "Count": 4,
+          "CardName": "Team Rocket&#39;s Energy DRI 182"
+        },
+        {
+          "Count": 2,
+          "CardName": "Team Rocket&#39;s Factory DRI 173"
+        },
+        {
+          "Count": 3,
+          "CardName": "Team Rocket&#39;s Giovanni DRI 225"
+        },
+        {
+          "Count": 1,
+          "CardName": "Team Rocket&#39;s Kangaskhan ex ASC 162"
+        },
+        {
+          "Count": 2,
+          "CardName": "Team Rocket&#39;s Mewtwo ex DRI 231"
+        },
+        {
+          "Count": 2,
+          "CardName": "Team Rocket&#39;s Mimikyu ASC 238"
+        },
+        {
+          "Count": 3,
+          "CardName": "Team Rocket&#39;s Petrel DRI 226"
+        },
+        {
+          "Count": 3,
+          "CardName": "Team Rocket&#39;s Proton DRI 227"
+        },
+        {
+          "Count": 4,
+          "CardName": "Team Rocket&#39;s Spidops DRI 187"
+        },
+        {
+          "Count": 4,
+          "CardName": "Team Rocket&#39;s Tarountula ASC 18"
+        },
+        {
+          "Count": 4,
+          "CardName": "Team Rocket&#39;s Transceiver ASC 209"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ultra Ball ASC 213"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "fpinna",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/728c9944-6006-4ea3-9ef9-b4cc00beb566",
+      "Mainboard": [
+        {
+          "Count": 6,
+          "CardName": "Basic {M} Energy SUM 163"
+        },
+        {
+          "Count": 5,
+          "CardName": "Basic {P} Energy SUM 162"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boss&#39;s Orders RCL 189"
+        },
+        {
+          "Count": 1,
+          "CardName": "Empoleon ex PFL 114"
+        },
+        {
+          "Count": 2,
+          "CardName": "Energy Recycler POR 108"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fezandipiti ex SFA 92"
+        },
+        {
+          "Count": 1,
+          "CardName": "Frillish WHT 126"
+        },
+        {
+          "Count": 2,
+          "CardName": "Genesect ex BLK 169"
+        },
+        {
+          "Count": 1,
+          "CardName": "Latias ex SSP 239"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lillie&#39;s Clefairy ex ASC 280"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lillie&#39;s Determination MEG 169"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mega Skarmory ex POR 106"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meowth ex POR 121"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mew ex 30C 158"
+        },
+        {
+          "Count": 1,
+          "CardName": "Night Stretcher MEG 173"
+        },
+        {
+          "Count": 1,
+          "CardName": "Piplup PFL 27"
+        },
+        {
+          "Count": 1,
+          "CardName": "Precious Trolley SSP 185"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rare Candy PLB 105"
+        },
+        {
+          "Count": 1,
+          "CardName": "Regigigas PRE 86"
+        },
+        {
+          "Count": 1,
+          "CardName": "Special Red Card CRI 113"
+        },
+        {
+          "Count": 3,
+          "CardName": "Steven&#39;s Beldum DRI 143"
+        },
+        {
+          "Count": 3,
+          "CardName": "Steven&#39;s Metagross ex ASC 289"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steven&#39;s Metang DRI 144"
+        },
+        {
+          "Count": 1,
+          "CardName": "Team Rocket&#39;s Factory DRI 173"
+        },
+        {
+          "Count": 1,
+          "CardName": "Team Rocket&#39;s Mewtwo ex DRI 231"
+        },
+        {
+          "Count": 4,
+          "CardName": "Team Rocket&#39;s Petrel DRI 226"
+        },
+        {
+          "Count": 4,
+          "CardName": "Team Rocket&#39;s Transceiver ASC 263"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ultra Ball PLF 122"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unown 30C 72"
+        }
+      ],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "AlEnea17",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/9a2c15e8-0e98-4e6f-8781-b4cc00b6354d",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Boss&#39;s Orders PAL 172"
+        },
+        {
+          "Count": 2,
+          "CardName": "Buddy-Buddy Poffin PRE 101"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cornerstone Mask Ogerpon ex TWM 112"
+        },
+        {
+          "Count": 2,
+          "CardName": "Crustle DRI 12"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dwebble DRI 11"
+        },
+        {
+          "Count": 3,
+          "CardName": "Electrike PBL 23"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eri TEF 146"
+        },
+        {
+          "Count": 3,
+          "CardName": "Growing {G} Energy POR 86"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hero&#39;s Cape TEF 152"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hilda WHT 84"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jumbo Ice Cream PFL 91"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lillie&#39;s Determination ASC 192"
+        },
+        {
+          "Count": 2,
+          "CardName": "Manectric PBL 24"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mega Kangaskhan ex MEG 104"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mega Manectric ex MEG 50"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mist Energy TEF 161"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pok&#233;gear 3.0 BLK 84"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pok&#233;mon Center Lady MEG 123"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rocky {F} Energy POR 87"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spiky Energy JTG 159"
+        },
+        {
+          "Count": 2,
+          "CardName": "Switch SVI 194"
+        },
+        {
+          "Count": 1,
+          "CardName": "Team Rocket&#39;s Factory ASC 203"
+        },
+        {
+          "Count": 4,
+          "CardName": "Team Rocket&#39;s Petrel DRI 176"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ultra Ball SVI 196"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voltaic {L} Energy PBL 84"
+        },
+        {
+          "Count": 1,
+          "CardName": "Xerosic&#39;s Machinations SFA 64"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "gallinfrog99",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.8,
+      "OGWP": 0.55
+    },
+    {
+      "Rank": 2,
+      "Player": "thomaserapreso",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.8,
+      "OGWP": 0.4166667
+    },
+    {
+      "Rank": 3,
+      "Player": "Chrycapo10",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.5,
+      "OGWP": 0.65
+    },
+    {
+      "Rank": 4,
+      "Player": "empoli20",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.6,
+      "OGWP": 0.5666667
+    },
+    {
+      "Rank": 5,
+      "Player": "Shankusu",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.5,
+      "OGWP": 0.5666667
+    },
+    {
+      "Rank": 6,
+      "Player": "AntonioZZZ",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.5,
+      "OGWP": 0.4166667
+    },
+    {
+      "Rank": 7,
+      "Player": "fpinna",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.3333333,
+      "OGWP": 0.7
+    },
+    {
+      "Rank": 8,
+      "Player": "AlEnea17",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333,
+      "OGWP": 0.5
+    }
+  ]
+}
