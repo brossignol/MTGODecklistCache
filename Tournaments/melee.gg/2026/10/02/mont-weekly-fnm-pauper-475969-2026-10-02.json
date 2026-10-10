@@ -1,0 +1,547 @@
+{
+  "Tournament": {
+    "Date": "2026-10-02T23:00:00Z",
+    "Name": "Mont Weekly FNM Pauper",
+    "Uri": "https://melee.gg/Tournament/View/475969"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Bruno Marangoni",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/53cbc41c-8931-4420-8609-b4d701797c14",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Stirrings"
+        },
+        {
+          "Count": 2,
+          "CardName": "Barrels of Blasting Jelly"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bonder&#39;s Ornament"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boulderbranch Golem"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bramble Wurm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Conduit Pylons"
+        },
+        {
+          "Count": 3,
+          "CardName": "Crop Rotation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giant&#39;s Boulder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haunted Fengraf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Maelstrom Colossus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pinnacle Kill-Ship"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rooftop Percher"
+        },
+        {
+          "Count": 3,
+          "CardName": "Unfathomable Truths"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Tower"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Call Damage Control"
+        },
+        {
+          "Count": 4,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scour from Existence"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Isabel Sprogis",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/4cd55c0a-5ee7-4cc2-89f2-b4d700f5a062",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Ancient Den"
+        },
+        {
+          "Count": 3,
+          "CardName": "Archaeomancer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Baleful Strix"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bender&#39;s Waterskin"
+        },
+        {
+          "Count": 1,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cut Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dispatch"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Giant&#39;s Boulder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Goldmire Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Idyllic Beachfront"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "L&#243;rien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mistvault Bridge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mulldrifter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Razortide Bridge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seat of the Synod"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Union of the Third Path"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vault of Whispers"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "kikuTz",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/5674116b-5e9c-48d8-910e-b4d70179b3f8",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Baleful Strix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cut Down"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dimir Aqueduct"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ice Tunnel"
+        },
+        {
+          "Count": 9,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "L&#243;rien Revealed"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lose Focus"
+        },
+        {
+          "Count": 3,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plunder the Trollshaws"
+        },
+        {
+          "Count": 4,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seething Landscape"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thorn of the Black Rose"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Seether7",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/cd4e7094-e1f9-4791-90d3-b4d7011ca4ea",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Artful Dodge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boomerang"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryptic Serpent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deep Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delver of Secrets // Insectile Aberration"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force Spike"
+        },
+        {
+          "Count": 15,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "L&#243;rien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mental Note"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sleep of the Dead"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Scour"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tolarian Terror"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Piracy Charm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Bruno Marangoni",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.5925926,
+      "GWP": 0.625,
+      "OGWP": 0.5873016
+    },
+    {
+      "Rank": 2,
+      "Player": "Isabel Sprogis",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 1,
+      "OMWP": 0.5555556,
+      "GWP": 0.7142857,
+      "OGWP": 0.4791667
+    },
+    {
+      "Rank": 3,
+      "Player": "kikuTz",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4814815,
+      "GWP": 0.7142857,
+      "OGWP": 0.4305556
+    },
+    {
+      "Rank": 4,
+      "Player": "Seether7",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.7222222,
+      "GWP": 0.3333333,
+      "OGWP": 0.7142857
+    },
+    {
+      "Rank": 5,
+      "Player": "Viniissamu",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.7222222,
+      "GWP": 0.3333333,
+      "OGWP": 0.6696429
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "Tournament": {
+    "Date": "2026-10-09T16:30:00Z",
+    "Name": "Standard Weekly",
+    "Uri": "https://melee.gg/Tournament/View/473769"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "MemegodDave",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/15f02ef3-9920-4e6c-aaa1-b4de010da384",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Maelstrom of the Spirit Dragon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Magmatic Hellkite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sarkhan, Dragon Ascendant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Smaug the Magnificent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Twinmaw Stormbrood // Charring Bite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Dawn&#39;s Truce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Desolation of Smaug"
+        },
+        {
+          "Count": 1,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Roku // Avatar Roku"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Ole Callsen",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/d8b5ec34-630c-434a-8b87-b4de010db3bf",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "D&#225;in Ironfoot"
+        },
+        {
+          "Count": 4,
+          "CardName": "D&#225;in&#39;s Company"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dire Flail // Dire Blunderbuss"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dragonfire Blade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dwalin, Weaponmaster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dwarven Mauler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Giott, King of the Dwarves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "K&#237;li the Resourceful"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lavaspur Boots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Axe"
+        },
+        {
+          "Count": 7,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 7,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 3,
+          "CardName": "Skateboard"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Lonely Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thorin, Mountain-king"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chainsaw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restoration Magic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 3,
+          "CardName": "Shattered Acolyte"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 3,
+          "CardName": "Soul-Guide Lantern"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "MemegodDave",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.75,
+      "OGWP": 0.4305556
+    },
+    {
+      "Rank": 2,
+      "Player": "Ole Callsen",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.625,
+      "OGWP": 0.4722222
+    },
+    {
+      "Rank": 3,
+      "Player": "Josua",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.5694444
+    },
+    {
+      "Rank": 4,
+      "Player": "StephanG",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.5694444
+    }
+  ]
+}
