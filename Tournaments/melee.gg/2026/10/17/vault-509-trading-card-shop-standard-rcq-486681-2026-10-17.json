@@ -1,0 +1,573 @@
+{
+  "Tournament": {
+    "Date": "2026-10-17T22:00:00Z",
+    "Name": "Vault 509 Trading Card Shop Standard RCQ",
+    "Uri": "https://melee.gg/Tournament/View/486681"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Joseph Zimmerman",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1b123347-a51e-4a6a-85e8-b4e60164dc37",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fireglass Mentor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flamecache Gecko"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gev, Scaled Scorch"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haunted Ridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hired Claw"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ingris Stingerquill"
+        },
+        {
+          "Count": 4,
+          "CardName": "Iridescent Vinelasher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Master of Barbs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rockface Village"
+        },
+        {
+          "Count": 2,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stingerquill Charm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stinging Vitriol"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thought-Stalker Warlock"
+        },
+        {
+          "Count": 2,
+          "CardName": "Valley Flamecaller"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Laughing Jasper Flint"
+        },
+        {
+          "Count": 4,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Roku // Avatar Roku"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thought-Stalker Warlock"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Astrid Star",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/24db2ca6-7dc3-46ab-a3a6-b4e60164a742",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Authority of the Consuls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Braided Net // Braided Quipu"
+        },
+        {
+          "Count": 3,
+          "CardName": "Candy Trail"
+        },
+        {
+          "Count": 4,
+          "CardName": "Castle Doom"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fomori Vault"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "Perilous Snare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Repurposing Bay"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simulacrum Synthesizer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spring-Loaded Sawblades // Bladewheel Chariot"
+        },
+        {
+          "Count": 1,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Fire Crystal"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Irencrag"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Mind Stone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unidentified Hovership"
+        },
+        {
+          "Count": 4,
+          "CardName": "United Battlefront"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 3,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Echoverse Fulcrum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "DoctorHoom",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/6b7f3e06-1940-445c-99a3-b4e60165c4e0",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ajani Unrelenting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Avengers Disassembled"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chandra, Torch of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Death to Our Enemies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emrakul, the Exigent Doom"
+        },
+        {
+          "Count": 4,
+          "CardName": "Improvisation Capstone"
+        },
+        {
+          "Count": 23,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Price of Freedom"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tablet of Discovery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thor, God of Thunder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Way of the Pyromancer"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Redirect Lightning"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunspine Lynx"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "EmilyRo",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/df7e7e62-3857-494d-b5a5-b4e60165c842",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 1,
+          "CardName": "Demolition Field"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elven Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Escape Tunnel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Esper Origins // Summon: Esper Maduin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 14,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lumbering Worldwagon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meltstrider&#39;s Resolve"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh&#39;s Chocobo"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shared Roots"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surrak, Elusive Hunter"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Gigantic Big Bear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meltstrider&#39;s Resolve"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Warg Tactics"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Tulmult",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/5b8aa1ad-78c4-4d94-bf3d-b4e60167d487",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "danmetz",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/524d405c-6a41-4f3f-b3f4-b4e60167e773",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ashling, Rekindled // Ashling, Rimebound"
+        }
+      ],
+      "Sideboard": []
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Joseph Zimmerman",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.6666667,
+      "OGWP": 0.6
+    },
+    {
+      "Rank": 2,
+      "Player": "Omega4Sight",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.3333333,
+      "GWP": 1.0,
+      "OGWP": 0.3333333
+    },
+    {
+      "Rank": 3,
+      "Player": "Astrid Star",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.6,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 4,
+      "Player": "DoctorHoom",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.6,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 5,
+      "Player": "EmilyRo",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.3333333,
+      "GWP": 1.0,
+      "OGWP": 0.3333333
+    },
+    {
+      "Rank": 6,
+      "Player": "Tulmult",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 1.0,
+      "GWP": 0.3333333,
+      "OGWP": 1.0
+    },
+    {
+      "Rank": 7,
+      "Player": "ZaneG",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.3333333,
+      "OGWP": 0.8
+    },
+    {
+      "Rank": 8,
+      "Player": "danmetz",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.75,
+      "GWP": 0.3333333,
+      "OGWP": 0.8
+    }
+  ]
+}
