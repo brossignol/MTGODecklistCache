@@ -1,0 +1,5221 @@
+{
+  "Tournament": {
+    "Date": "2026-10-17T08:00:00Z",
+    "Name": "Unity League: Nationals Norway 2026",
+    "Uri": "https://melee.gg/Tournament/View/463893"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Roy-Arne De Wilde",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/3fe5d394-7786-4bee-a495-b4e500f88ac2",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Agatha&#39;s Soul Cauldron"
+        },
+        {
+          "Count": 4,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 2,
+          "CardName": "Birds of Paradise"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Craterhoof Behemoth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delighted Halfling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Devoted Druid"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duskwatch Recruiter // Krallenhorde Howler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fiend Artisan"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Formidable Speaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gemstone Caverns"
+        },
+        {
+          "Count": 4,
+          "CardName": "Green Sun&#39;s Zenith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Horizon Canopy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of Abundance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nature&#39;s Rhythm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nurturing Peatland"
+        },
+        {
+          "Count": 2,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shang-Chi, Master of Kung Fu"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tyvar, Jubilant Brawler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tyvar, the Pummeler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underground Mortuary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vizier of Remedies"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrupt Decay"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boromir, Warden of the Tower"
+        },
+        {
+          "Count": 1,
+          "CardName": "Crystal Barricade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Doorkeeper Thrull"
+        },
+        {
+          "Count": 2,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grist, the Hunger Tide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guerrilla Gorilla"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kraul Harpooner"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ouroboroid"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "jackpesci",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/2a123410-7300-4cd7-b171-b4e6009191da",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Stirrings"
+        },
+        {
+          "Count": 4,
+          "CardName": "Basking Broodscale"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blade of the Bloodchief"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 3,
+          "CardName": "Emrakul, the Promised End"
+        },
+        {
+          "Count": 1,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 6,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glaring Fleshraker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haywire Mite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek&#39;s Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sowing Mycospawn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Yavimaya, Cradle of Growth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger&#39;s Cage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nature&#39;s Claim"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thief of Existence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Ine Jernelv",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/aae55dc3-6d9e-4e72-a5a2-b4e50125bc71",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dalkovan Encampment"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Bombardment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guide of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haliya, Guided by Light"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ranger-Captain of Eos"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seasoned Pyromancer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunbaked Canyon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Obsidian Charmaw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Roku // Avatar Roku"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wear // Tear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Miller Vincent Bateman",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/de7c43cc-6d25-4d50-80e8-b4e500a54915",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aftermath Analyst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Amulet of Vigor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Azusa, Lost but Seeking"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Crumbling Vestige"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cultivator Colossus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elvish Reclaimer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Explore"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Golgari Rot Farm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Green Sun&#39;s Zenith"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gruul Turf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hanweir Battlements"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lessons from Life"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mirrorpool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Primeval Titan"
+        },
+        {
+          "Count": 2,
+          "CardName": "Roiling Canopy"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sakura-Tribe Scout"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scapeshift"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shifting Woodland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skyline Cascade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spelunking"
+        },
+        {
+          "Count": 2,
+          "CardName": "Summoner&#39;s Pact"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Mycosynth Gardens"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Wandering Minstrel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tolaria West"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza&#39;s Cave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vesuva"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yavimaya, Cradle of Growth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 1,
+          "CardName": "Choke"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elder Gargaroth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger&#39;s Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grist, the Hunger Tide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Marwyn, the Preserver"
+        },
+        {
+          "Count": 4,
+          "CardName": "Trinisphere"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Jonas_Erbe",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/0637cfc3-72d0-4863-ba4f-b4e500988516",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Cling to Dust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Darkslick Shores"
+        },
+        {
+          "Count": 1,
+          "CardName": "Drown in the Loch"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Despair"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Murktide Regent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sheoldred&#39;s Edict"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor // Soporific Springs"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 3,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Break the Ice"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Toxic Deluge"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Stian Aspholm",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e24b078f-63f7-4a69-b9ce-b4e500d4a520",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aftermath Analyst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Amulet of Vigor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Crumbling Vestige"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cultivator Colossus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dryad of the Ilysian Grove"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Green Sun&#39;s Zenith"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gruul Turf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hanweir Battlements"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lessons from Life"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mirrorpool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Primeval Titan"
+        },
+        {
+          "Count": 1,
+          "CardName": "Roiling Canopy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sakura-Tribe Scout"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scapeshift"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spelunking"
+        },
+        {
+          "Count": 2,
+          "CardName": "Summoner&#39;s Pact"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Mycosynth Gardens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tolaria West"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valakut, the Molten Pinnacle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vesuva"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yavimaya, Cradle of Growth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger&#39;s Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grist, the Hunger Tide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Marwyn, the Preserver"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mj&#246;lnir, Hammer of Thor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skyline Cascade"
+        },
+        {
+          "Count": 3,
+          "CardName": "Trinisphere"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Honar Kaderi",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/6839fcd4-27a7-45e2-ad30-b4e50108851e",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Artist&#39;s Talent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Commercial District"
+        },
+        {
+          "Count": 4,
+          "CardName": "Desperate Ritual"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gemstone Caverns"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hex Magic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manamorphose"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Past in Flames"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyretic Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ral, Monsoon Mage // Ral, Leyline Prodigy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckless Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ruby Medallion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 2,
+          "CardName": "Twinned Vision"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valakut Awakening // Valakut Stoneforge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wish"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wrenn&#39;s Resolve"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Brotherhood&#39;s End"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grapeshot"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nature&#39;s Claim"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orim&#39;s Chant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Past in Flames"
+        },
+        {
+          "Count": 3,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stormscale Scion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Untimely Malfunction"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Sindre Mortensen",
+      "Result": "8th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/040241f5-500b-47b6-b132-b4e500fd9eaf",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faithful Mending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fallaji Archaeologist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goryo&#39;s Vengeance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Griselbrand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hedge Maze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wrath of the Skies"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ashiok, Dream Render"
+        },
+        {
+          "Count": 1,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elesh Norn, Mother of Machines"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Bjørnar Bakke",
+      "Result": "9th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/ca581fe7-912f-4a53-b2b4-b4e500ec9dc3",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 2,
+          "CardName": "Birds of Paradise"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Craterhoof Behemoth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Delighted Halfling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Devoted Druid"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duskwatch Recruiter // Krallenhorde Howler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fiend Artisan"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Formidable Speaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gemstone Caverns"
+        },
+        {
+          "Count": 4,
+          "CardName": "Green Sun&#39;s Zenith"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of Abundance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nature&#39;s Rhythm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nurturing Peatland"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ouroboroid"
+        },
+        {
+          "Count": 2,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shang-Chi, Master of Kung Fu"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tyvar, Jubilant Brawler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tyvar, the Pummeler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underground Mortuary"
+        },
+        {
+          "Count": 3,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vizier of Remedies"
+        },
+        {
+          "Count": 2,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrupt Decay"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "Collector Ouphe"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grist, the Hunger Tide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Guerrilla Gorilla"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kraul Harpooner"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Kim Berle",
+      "Result": "10th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/912c3cfc-8438-4cb1-b66c-b4e5011f401d",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Stirrings"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Basking Broodscale"
+        },
+        {
+          "Count": 3,
+          "CardName": "Blade of the Bloodchief"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Devourer of Destiny"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emrakul, the Promised End"
+        },
+        {
+          "Count": 6,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Glaring Fleshraker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haywire Mite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek&#39;s Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shifting Woodland"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sire of Seven Deaths"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sowing Mycospawn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ugin&#39;s Labyrinth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Choke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grafdigger&#39;s Cage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nature&#39;s Claim"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sire of Seven Deaths"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thief of Existence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Nicolai Andreassen Bye",
+      "Result": "11th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/18dcc75a-fdf8-45a4-9133-b4e500f05fe4",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Archon of Cruelty"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dwarven Mine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Extrapolate the Impossible"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+        },
+        {
+          "Count": 3,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Indomitable Creativity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ketria Triome"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Binding"
+        },
+        {
+          "Count": 1,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orim&#39;s Chant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raph &amp; Mikey, Troublemakers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raucous Theater"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Savai Triome"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 3,
+          "CardName": "Silence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valakut Awakening // Valakut Stoneforge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valgavoth, Terror Eater"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wrath of the Skies"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Brotherhood&#39;s End"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elesh Norn, Mother of Machines"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emrakul, the Aeons Torn"
+        },
+        {
+          "Count": 1,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Isochron Scepter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lich&#39;s Relic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Roku // Avatar Roku"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tithing Blade // Consuming Sepulcher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Transmogrify"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unmoored Ego"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "NeonLight",
+      "Result": "12th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/4c1ba525-7d85-44fe-8346-b4e6009175d7",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aftermath Analyst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Amulet of Vigor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Crumbling Vestige"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cultivator Colossus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Green Sun&#39;s Zenith"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gruul Turf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hanweir Battlements"
+        },
+        {
+          "Count": 3,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mirrorpool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 3,
+          "CardName": "Primeval Titan"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scapeshift"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shifting Woodland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spelunking"
+        },
+        {
+          "Count": 2,
+          "CardName": "Summoner&#39;s Pact"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Mycosynth Gardens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tolaria West"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza&#39;s Cave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vesuva"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zuran Orb"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 1,
+          "CardName": "Firespout"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger&#39;s Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Six"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 3,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Joachim Fagervold",
+      "Result": "13th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/d8a3e6f3-b13d-4507-bf0d-b4e500d43ebf",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aftermath Analyst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Amulet of Vigor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Crumbling Vestige"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cultivator Colossus"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dryad of the Ilysian Grove"
+        },
+        {
+          "Count": 1,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Green Sun&#39;s Zenith"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gruul Turf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hanweir Battlements"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lessons from Life"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mirrorpool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Primeval Titan"
+        },
+        {
+          "Count": 1,
+          "CardName": "Roiling Canopy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sakura-Tribe Scout"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scapeshift"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spelunking"
+        },
+        {
+          "Count": 2,
+          "CardName": "Summoner&#39;s Pact"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Mycosynth Gardens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tolaria West"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valakut, the Molten Pinnacle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vesuva"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yavimaya, Cradle of Growth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger&#39;s Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grist, the Hunger Tide"
+        },
+        {
+          "Count": 1,
+          "CardName": "Marwyn, the Preserver"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mj&#246;lnir, Hammer of Thor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skyline Cascade"
+        },
+        {
+          "Count": 3,
+          "CardName": "Trinisphere"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Siemen Sandbakken",
+      "Result": "14th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/2f6f2b65-be48-4b33-820f-b4e500e11253",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Matter Manipulator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Detective&#39;s Phoenix"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fear of Missing Out"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flare of Malice"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra&#39;s Bauble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moonshadow"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nethergoyf"
+        },
+        {
+          "Count": 2,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raucous Theater"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stitcher&#39;s Supplier"
+        },
+        {
+          "Count": 4,
+          "CardName": "Street Wraith"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Verdant Catacombs"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dauthi Voidwalker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 1,
+          "CardName": "Glistening Deluge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ingot Chewer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Inquisition of Kozilek"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meltdown"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ob Nixilis, the Adversary"
+        },
+        {
+          "Count": 3,
+          "CardName": "Obsidian Charmaw"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Kim-Anders Smith Engen",
+      "Result": "15th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/cc73959f-147c-4901-b20e-b4e5011b49f8",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faithful Mending"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fallaji Archaeologist"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goryo&#39;s Vengeance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Griselbrand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 2,
+          "CardName": "Otherworldly Gaze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Superior Spider-Man"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ashiok, Dream Render"
+        },
+        {
+          "Count": 1,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Inquisition of Kozilek"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Andreas Sandvik",
+      "Result": "16th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/0aa04583-e652-42f5-86c4-b4e500b91019",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Disrupting Shoal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fallaji Archaeologist"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flare of Denial"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Charbelcher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroelectric Specimen // Hydroelectric Laboratory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jwari Disruption // Jwari Ruins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Bloom"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sea Gate Restoration // Sea Gate, Reborn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sink into Stupor // Soporific Springs"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 4,
+          "CardName": "Suppression Ray // Orderly Plaza"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tameshi, Reality Architect"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thundertrap Trainer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Waterlogged Teachings // Inundated Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "Whir of Invention"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flusterstorm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hurkyl&#39;s Recall"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strix Serenade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod&#39;s Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unable to Scream"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Marius Verde",
+      "Result": "17th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/eda7ebf4-b625-4721-bc2e-b4e60091a1eb",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Abstergo Entertainment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Devourer of Destiny"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Giant&#39;s Boulder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Karn, the Great Creator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek&#39;s Command"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sire of Seven Deaths"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sowing Mycospawn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Talisman of Resilience"
+        },
+        {
+          "Count": 2,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ugin, Eye of the Storms"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ugin&#39;s Labyrinth"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ulamog, the Ceaseless Hunger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Tower"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cursed Totem"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ensnaring Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extinguisher Battleship"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger&#39;s Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haywire Mite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Liquimetal Coating"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Filigree Sylex"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Stone Brain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod&#39;s Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Walking Ballista"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "BethoHN",
+      "Result": "18th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/d00e7bc6-3d0f-4666-bb36-b4e501194adc",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Boggart Trawler // Boggart Bog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Emperor of Bones"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flickerwisp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overlord of the Balemurk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phelia, Exuberant Shepherd"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 3,
+          "CardName": "Witch Enchanter // Witch-Blessed Meadow"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elesh Norn, Mother of Machines"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "White Orchid Phantom"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Allen Burnett",
+      "Result": "19th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/949ec302-7be7-495b-b048-b4e500d4c6a7",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 3,
+          "CardName": "Day&#39;s Undoing"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Geier Reach Sanitarium"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Monumental Henge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystic Gate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orim&#39;s Chant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 3,
+          "CardName": "Silence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor // Soporific Springs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 4,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wrath of the Skies"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 3,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaheera, the Orphanguard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Supreme Verdict"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Patrick Karlsen",
+      "Result": "20th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/09a516d4-c694-4830-b572-b4e50145a12c",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Indatha Triome"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Binding"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Guildpact"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lush Portico"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Phelia, Exuberant Shepherd"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scion of Draco"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stubborn Denial"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 4,
+          "CardName": "Territorial Kavu"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ashiok, Dream Render"
+        },
+        {
+          "Count": 3,
+          "CardName": "Brotherhood&#39;s End"
+        },
+        {
+          "Count": 1,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Containment Priest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elesh Norn, Mother of Machines"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 3,
+          "CardName": "Obsidian Charmaw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Teferi, Time Raveler"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Simon Øygard",
+      "Result": "21th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/150cdf8f-456b-491f-af26-b4e501283b90",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Boggart Trawler // Boggart Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Emperor of Bones"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flickerwisp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overlord of the Balemurk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phelia, Exuberant Shepherd"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 3,
+          "CardName": "Witch Enchanter // Witch-Blessed Meadow"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elesh Norn, Mother of Machines"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 2,
+          "CardName": "White Orchid Phantom"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Anders Ørnlo",
+      "Result": "22th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1908ee16-675d-4f8b-88f0-b4e501130387",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Colossus Hammer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cryptic Coat"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Inkmoth Nexus"
+        },
+        {
+          "Count": 4,
+          "CardName": "K&#237;li the Resourceful"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lavaspur Boots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Axe"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lich&#39;s Relic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Memnite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Metallic Rebuke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Opal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ornithopter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Puresteel Paladin"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowspear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steelshaper&#39;s Gift"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stoneforge Mystic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Saga"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Burrenton Forge-Tender"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grafdigger&#39;s Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lich&#39;s Relic"
+        },
+        {
+          "Count": 2,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surge of Salvation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod&#39;s Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "KristofferGeithus",
+      "Result": "23th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/4e28c760-7a00-499e-8fd4-b4e600914dee",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Boggart Trawler // Boggart Bog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Emperor of Bones"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overlord of the Balemurk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phelia, Exuberant Shepherd"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 3,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 2,
+          "CardName": "Skyclave Apparition"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 3,
+          "CardName": "Witch Enchanter // Witch-Blessed Meadow"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Practiced Offense"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sanctifier en-Vec"
+        },
+        {
+          "Count": 2,
+          "CardName": "White Orchid Phantom"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Frank Robert Flørenes",
+      "Result": "24th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/c6cb52b6-39a4-4e87-86fb-b4e50099a2af",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Boggart Trawler // Boggart Bog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Emperor of Bones"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ephemerate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flickerwisp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overlord of the Balemurk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phelia, Exuberant Shepherd"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowy Backstreet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Witch Enchanter // Witch-Blessed Meadow"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "White Orchid Phantom"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Magnus Eames",
+      "Result": "25th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/4beb5b11-2a16-4395-9ecb-b4e500cd6cb3",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aether Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arcbound Ravager"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Claws of Gix"
+        },
+        {
+          "Count": 3,
+          "CardName": "Emry, Lurker of the Loch"
+        },
+        {
+          "Count": 4,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Islet"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kappa Cannoneer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Metallic Rebuke"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra&#39;s Bauble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Opal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pinnacle Emissary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowspear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shivan Reef"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sink into Stupor // Soporific Springs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skateboard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tormod&#39;s Crypt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Saga"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weapons Manufacturing"
+        },
+        {
+          "Count": 1,
+          "CardName": "Welding Jar"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cursed Totem"
+        },
+        {
+          "Count": 2,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger&#39;s Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Metallic Rebuke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swan Song"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Whipflare"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "KapteinJuno",
+      "Result": "26th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/b54f3a07-bd27-44c2-a573-b4e501015806",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Battlefield Forge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bilbo&#39;s Gambit"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Emrakul, the Aeons Torn"
+        },
+        {
+          "Count": 2,
+          "CardName": "Emrakul, the Exigent Doom"
+        },
+        {
+          "Count": 3,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek&#39;s Command"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mana Tithe"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reprieve"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Talisman of Conviction"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Echoverse Fulcrum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Through the Breach"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ugin&#39;s Labyrinth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ulamog, the Defiler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of God"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 3,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karn, Argent Defender"
+        },
+        {
+          "Count": 3,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Stone Brain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Audun Skjervold",
+      "Result": "27th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/4524641b-be3f-4191-a606-b4e500ee92c7",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phelia, Exuberant Shepherd"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 3,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Theorist&#39;s Sanctum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ashiok, Dream Render"
+        },
+        {
+          "Count": 1,
+          "CardName": "Celestial Purge"
+        },
+        {
+          "Count": 3,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 3,
+          "CardName": "Obsidian Charmaw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Test of Talents"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Wandering Emperor"
+        },
+        {
+          "Count": 1,
+          "CardName": "White Orchid Phantom"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "HollowClyde",
+      "Result": "28th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/e8a68d0c-37ce-4bf7-976b-b4e500fbbb00",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Darkslick Shores"
+        },
+        {
+          "Count": 1,
+          "CardName": "Drown in the Loch"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Murktide Regent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychic Frog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sheoldred&#39;s Edict"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor // Soporific Springs"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 3,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wan Shi Tong, Librarian"
+        },
+        {
+          "Count": 3,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Break the Ice"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 3,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 1,
+          "CardName": "Toxic Deluge"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Alexander Aarvik",
+      "Result": "29th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/5a79857c-7c6c-410f-bb8e-b4e500f5462c",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dalkovan Encampment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Bombardment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guide of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seasoned Pyromancer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Obsidian Charmaw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sanctifier en-Vec"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vexing Bauble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wear // Tear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Joachim Andersen",
+      "Result": "30th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/37a2aaa9-8e78-481e-aaeb-b4e501224a95",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abhorrent Oculus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Birthing Ritual"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 4,
+          "CardName": "Coiling Oracle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fblthp, the Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flare of Denial"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hedge Maze"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ice-Fang Coatl"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shardless Agent"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sink into Stupor // Soporific Springs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snow-Covered Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snow-Covered Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 1,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gemstone Caverns"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stern Scolding"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Jon-Inge Heggstad",
+      "Result": "31th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/83a15ec1-ed7d-491f-bc74-b4e5011eefeb",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 1,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 3,
+          "CardName": "Day&#39;s Undoing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Geier Reach Sanitarium"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Isochron Scepter"
+        },
+        {
+          "Count": 1,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Monumental Henge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mystic Gate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orim&#39;s Chant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Ending"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 3,
+          "CardName": "Silence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor // Soporific Springs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Solitude"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 4,
+          "CardName": "Teferi, Time Raveler"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Theorist, Jace Beleren"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wrath of the Skies"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ashiok, Dream Render"
+        },
+        {
+          "Count": 1,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaheera, the Orphanguard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surgical Extraction"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "NoCredit",
+      "Result": "32th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/bdf16ebe-c85e-4d9a-af8f-b4e500feeccd",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Abstergo Entertainment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Devourer of Destiny"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Giant&#39;s Boulder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Karn, the Great Creator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek&#39;s Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sowing Mycospawn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Talisman of Resilience"
+        },
+        {
+          "Count": 2,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ugin, Eye of the Storms"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ugin&#39;s Labyrinth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ulamog, the Ceaseless Hunger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Tower"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cityscape Leveler"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cursed Totem"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ensnaring Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extinguisher Battleship"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grafdigger&#39;s Cage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Liquimetal Coating"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod&#39;s Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Dawid Florczyk",
+      "Result": "33th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/89266aa3-3e7d-4583-b701-b4e5011f56ec",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Stirrings"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Basking Broodscale"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blade of the Bloodchief"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Devourer of Destiny"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emrakul, the Promised End"
+        },
+        {
+          "Count": 5,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gemstone Caverns"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haywire Mite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek&#39;s Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shifting Woodland"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sire of Seven Deaths"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sowing Mycospawn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Talisman of Resilience"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ugin&#39;s Labyrinth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza&#39;s Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vexing Bauble"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "All Is Dust"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grafdigger&#39;s Cage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nature&#39;s Claim"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sire of Seven Deaths"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thought-Knot Seer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Trinisphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Roy-Arne De Wilde",
+      "Points": 17,
+      "Wins": 8,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.6168155,
+      "GWP": 0.5454545,
+      "OGWP": 0.5712195
+    },
+    {
+      "Rank": 2,
+      "Player": "jackpesci",
+      "Points": 17,
+      "Wins": 7,
+      "Losses": 2,
+      "Draws": 2,
+      "OMWP": 0.6513605,
+      "GWP": 0.6190476,
+      "OGWP": 0.5706144
+    },
+    {
+      "Rank": 3,
+      "Player": "Ine Jernelv",
+      "Points": 16,
+      "Wins": 6,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.625,
+      "GWP": 0.5652174,
+      "OGWP": 0.5654302
+    },
+    {
+      "Rank": 4,
+      "Player": "Miller Vincent Bateman",
+      "Points": 15,
+      "Wins": 6,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5595238,
+      "GWP": 0.65,
+      "OGWP": 0.54283
+    },
+    {
+      "Rank": 5,
+      "Player": "Jonas_Erbe",
+      "Points": 20,
+      "Wins": 6,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.5952381,
+      "GWP": 0.6363636,
+      "OGWP": 0.5413384
+    },
+    {
+      "Rank": 6,
+      "Player": "Stian Aspholm",
+      "Points": 17,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 2,
+      "OMWP": 0.4940476,
+      "GWP": 0.6315789,
+      "OGWP": 0.4593627
+    },
+    {
+      "Rank": 7,
+      "Player": "Honar Kaderi",
+      "Points": 16,
+      "Wins": 5,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.5520833,
+      "GWP": 0.5666667,
+      "OGWP": 0.506742
+    },
+    {
+      "Rank": 8,
+      "Player": "Sindre Mortensen",
+      "Points": 16,
+      "Wins": 5,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.5022321,
+      "GWP": 0.6060606,
+      "OGWP": 0.5272555
+    },
+    {
+      "Rank": 9,
+      "Player": "Bjørnar Bakke",
+      "Points": 15,
+      "Wins": 5,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5386905,
+      "GWP": 0.5217391,
+      "OGWP": 0.5255319
+    },
+    {
+      "Rank": 10,
+      "Player": "Kim Berle",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.5833333,
+      "GWP": 0.5263158,
+      "OGWP": 0.5360587
+    },
+    {
+      "Rank": 11,
+      "Player": "Nicolai Andreassen Bye",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.5104167,
+      "GWP": 0.55,
+      "OGWP": 0.4951372
+    },
+    {
+      "Rank": 12,
+      "Player": "NeonLight",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.4918155,
+      "GWP": 0.5964912,
+      "OGWP": 0.4914242
+    },
+    {
+      "Rank": 13,
+      "Player": "Joachim Fagervold",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.4270833,
+      "GWP": 0.5396825,
+      "OGWP": 0.4381154
+    },
+    {
+      "Rank": 14,
+      "Player": "Siemen Sandbakken",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5438988,
+      "GWP": 0.5,
+      "OGWP": 0.5149083
+    },
+    {
+      "Rank": 15,
+      "Player": "Kim-Anders Smith Engen",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.515625,
+      "GWP": 0.4545455,
+      "OGWP": 0.4952289
+    },
+    {
+      "Rank": 16,
+      "Player": "Andreas Sandvik",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4947917,
+      "GWP": 0.5294118,
+      "OGWP": 0.4881324
+    },
+    {
+      "Rank": 17,
+      "Player": "Marius Verde",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.40625,
+      "GWP": 0.4761905,
+      "OGWP": 0.4262748
+    },
+    {
+      "Rank": 18,
+      "Player": "BethoHN",
+      "Points": 11,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 2,
+      "OMWP": 0.4293155,
+      "GWP": 0.4603175,
+      "OGWP": 0.4685096
+    },
+    {
+      "Rank": 19,
+      "Player": "Allen Burnett",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.5916667,
+      "GWP": 0.5490196,
+      "OGWP": 0.541433
+    },
+    {
+      "Rank": 20,
+      "Player": "Patrick Karlsen",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 4,
+      "Draws": 1,
+      "OMWP": 0.5230655,
+      "GWP": 0.4385965,
+      "OGWP": 0.5250586
+    },
+    {
+      "Rank": 21,
+      "Player": "Simon Øygard",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 1,
+      "OMWP": 0.4702381,
+      "GWP": 0.4901961,
+      "OGWP": 0.493082
+    },
+    {
+      "Rank": 22,
+      "Player": "Anders Ørnlo",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.4635417,
+      "GWP": 0.4444444,
+      "OGWP": 0.4746382
+    },
+    {
+      "Rank": 23,
+      "Player": "KristofferGeithus",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.3802083,
+      "GWP": 0.4074074,
+      "OGWP": 0.4243499
+    },
+    {
+      "Rank": 24,
+      "Player": "Frank Robert Flørenes",
+      "Points": 8,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 2,
+      "OMWP": 0.5364583,
+      "GWP": 0.3684211,
+      "OGWP": 0.5187413
+    },
+    {
+      "Rank": 25,
+      "Player": "Magnus Eames",
+      "Points": 8,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 2,
+      "OMWP": 0.4370748,
+      "GWP": 0.4126984,
+      "OGWP": 0.4684546
+    },
+    {
+      "Rank": 26,
+      "Player": "KapteinJuno",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 5,
+      "Draws": 1,
+      "OMWP": 0.5052083,
+      "GWP": 0.4166667,
+      "OGWP": 0.4974083
+    },
+    {
+      "Rank": 27,
+      "Player": "Audun Skjervold",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.4608844,
+      "GWP": 0.375,
+      "OGWP": 0.4608579
+    },
+    {
+      "Rank": 28,
+      "Player": "HollowClyde",
+      "Points": 5,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 2,
+      "OMWP": 0.4464286,
+      "GWP": 0.3859649,
+      "OGWP": 0.4666866
+    },
+    {
+      "Rank": 29,
+      "Player": "Alexander Aarvik",
+      "Points": 5,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 2,
+      "OMWP": 0.3958333,
+      "GWP": 0.4035088,
+      "OGWP": 0.4299935
+    },
+    {
+      "Rank": 30,
+      "Player": "Joachim Andersen",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.45,
+      "GWP": 0.3333333,
+      "OGWP": 0.4641395
+    },
+    {
+      "Rank": 31,
+      "Player": "Jon-Inge Heggstad",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5625,
+      "GWP": 0.4333333,
+      "OGWP": 0.5345118
+    },
+    {
+      "Rank": 32,
+      "Player": "NoCredit",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5833333,
+      "GWP": 0.3333333,
+      "OGWP": 0.5185185
+    },
+    {
+      "Rank": 33,
+      "Player": "Dawid Florczyk",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 1.0,
+      "GWP": 0.3333333,
+      "OGWP": 1.0
+    }
+  ]
+}
