@@ -1,0 +1,180 @@
+{
+  "Tournament": {
+    "Date": "2026-10-24T10:00:00Z",
+    "Name": "Pauperkraft 24/10/26",
+    "Uri": "https://melee.gg/Tournament/View/486684"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Rustam Y.",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/f795659a-e187-4c88-99f4-b4ed012eaa2e",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ancient Den"
+        },
+        {
+          "Count": 3,
+          "CardName": "Baleful Strix"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dispatch"
+        },
+        {
+          "Count": 2,
+          "CardName": "Giant&#39;s Boulder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glint Hawk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mistvault Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Myr Enforcer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Razortide Bridge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reckoner&#39;s Bargain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seat of the Synod"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtcast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utrom Monitor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vault of Whispers"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dust to Dust"
+        },
+        {
+          "Count": 3,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tithing Blade // Consuming Sepulcher"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Rustam Y.",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.75,
+      "OGWP": 0.4206349
+    },
+    {
+      "Rank": 2,
+      "Player": "lirror",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.5,
+      "OGWP": 0.5694444
+    },
+    {
+      "Rank": 3,
+      "Player": "Blour",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.625,
+      "OGWP": 0.452381
+    },
+    {
+      "Rank": 4,
+      "Player": "Mirsche",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.4285714,
+      "OGWP": 0.6011905
+    },
+    {
+      "Rank": 5,
+      "Player": "KaiausHawaii",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.4285714,
+      "OGWP": 0.4623016
+    },
+    {
+      "Rank": 6,
+      "Player": "Aaron M",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.5595238
+    }
+  ]
+}
