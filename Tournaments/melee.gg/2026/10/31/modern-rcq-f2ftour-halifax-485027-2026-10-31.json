@@ -1,0 +1,616 @@
+{
+  "Tournament": {
+    "Date": "2026-10-31T13:30:00Z",
+    "Name": "Modern RCQ - F2FTour Halifax",
+    "Uri": "https://melee.gg/Tournament/View/485027"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Alexander Sepa",
+      "Result": "12th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/cfb8c292-1564-4490-80ac-b4f400dc511c",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "MicR58",
+      "Result": "25th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/09303e04-3ebc-4fc8-a4d9-b4f400dc7d9d",
+      "Mainboard": [],
+      "Sideboard": []
+    },
+    {
+      "Date": null,
+      "Player": "mabiv",
+      "Result": "31th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/fb1be992-573a-4516-9737-b4f400d6d844",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Archon of Cruelty"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Buried Alive"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cauldron Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Caves of Koilos"
+        },
+        {
+          "Count": 2,
+          "CardName": "Darkblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fragmentize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grand Abolisher"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Isolate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Legion&#39;s End"
+        },
+        {
+          "Count": 2,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 3,
+          "CardName": "Path to Exile"
+        },
+        {
+          "Count": 4,
+          "CardName": "Persist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phyrexian Obliterator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Priest of Fell Rites"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shineshadow Snarl"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul Snare"
+        },
+        {
+          "Count": 9,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Underworld Cookbook"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unmarked Grave"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vengeful Pharaoh"
+        },
+        {
+          "Count": 2,
+          "CardName": "Witch&#39;s Oven"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Deafening Silence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Infernal Reckoning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Legion&#39;s End"
+        },
+        {
+          "Count": 2,
+          "CardName": "Leyline of Sanctity"
+        },
+        {
+          "Count": 3,
+          "CardName": "Suncleanser"
+        },
+        {
+          "Count": 1,
+          "CardName": "Troll of Khazad-d&#251;m"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "MatK12",
+      "Result": "32th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/942f5baa-acee-4296-b3cd-b4f400d70677",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Deceit"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flare of Malice"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gravecrawler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Greedy Freebooter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marionette Apprentice"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moonshadow"
+        },
+        {
+          "Count": 4,
+          "CardName": "Orcish Bowmasters"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phoenix Fleet Airship"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phyrexian Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Warren Soultrader"
+        },
+        {
+          "Count": 2,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Ashiok, Dream Render"
+        },
+        {
+          "Count": 3,
+          "CardName": "Break the Ice"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deceit"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vexing Bauble"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "eggybenny",
+      "Points": 15,
+      "Wins": 8,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5462963,
+      "GWP": 0.6666667,
+      "OGWP": 0.5567109
+    },
+    {
+      "Rank": 2,
+      "Player": "HopelessHippo",
+      "Points": 12,
+      "Wins": 6,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5648148,
+      "GWP": 0.5714286,
+      "OGWP": 0.5381898
+    },
+    {
+      "Rank": 3,
+      "Player": "Izzetgod",
+      "Points": 14,
+      "Wins": 5,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.6574074,
+      "GWP": 0.5882353,
+      "OGWP": 0.6156085
+    },
+    {
+      "Rank": 4,
+      "Player": "BraP13",
+      "Points": 13,
+      "Wins": 5,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6481481,
+      "GWP": 0.6666667,
+      "OGWP": 0.575817
+    },
+    {
+      "Rank": 5,
+      "Player": "Josh Breau",
+      "Points": 14,
+      "Wins": 4,
+      "Losses": 1,
+      "Draws": 2,
+      "OMWP": 0.5777778,
+      "GWP": 0.6666667,
+      "OGWP": 0.5176471
+    },
+    {
+      "Rank": 6,
+      "Player": "SteveFromStrangerThings",
+      "Points": 13,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6203704,
+      "GWP": 0.6666667,
+      "OGWP": 0.5440099
+    },
+    {
+      "Rank": 7,
+      "Player": "PatM37",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5277778,
+      "GWP": 0.6428571,
+      "OGWP": 0.5455026
+    },
+    {
+      "Rank": 8,
+      "Player": "WeWoo",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.6923077,
+      "OGWP": 0.4642857
+    },
+    {
+      "Rank": 9,
+      "Player": "BenS19",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4722222,
+      "GWP": 0.5882353,
+      "OGWP": 0.447619
+    },
+    {
+      "Rank": 10,
+      "Player": "EzraWexler",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.4166667,
+      "GWP": 0.6428571,
+      "OGWP": 0.4276175
+    },
+    {
+      "Rank": 11,
+      "Player": "Nysrol",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.6388889,
+      "GWP": 0.6222222,
+      "OGWP": 0.5803143
+    },
+    {
+      "Rank": 12,
+      "Player": "Alexander Sepa",
+      "Points": 10,
+      "Wins": 3,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.537037,
+      "GWP": 0.6222222,
+      "OGWP": 0.5227513
+    },
+    {
+      "Rank": 13,
+      "Player": "Bayley Roy",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5648148,
+      "GWP": 0.5333333,
+      "OGWP": 0.5428571
+    },
+    {
+      "Rank": 14,
+      "Player": "EriP23",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5648148,
+      "GWP": 0.4285714,
+      "OGWP": 0.5631593
+    },
+    {
+      "Rank": 15,
+      "Player": "Jameshazelton",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.537037,
+      "GWP": 0.5,
+      "OGWP": 0.5363405
+    },
+    {
+      "Rank": 16,
+      "Player": "AustinH001",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5092593,
+      "GWP": 0.5,
+      "OGWP": 0.5098291
+    },
+    {
+      "Rank": 17,
+      "Player": "MartinGoodlad",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5092593,
+      "GWP": 0.4615385,
+      "OGWP": 0.4952381
+    },
+    {
+      "Rank": 18,
+      "Player": "Tim Foley",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4722222,
+      "GWP": 0.5,
+      "OGWP": 0.4683104
+    },
+    {
+      "Rank": 19,
+      "Player": "liamguy",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4259259,
+      "GWP": 0.5333333,
+      "OGWP": 0.4557239
+    },
+    {
+      "Rank": 20,
+      "Player": "simon scrutton",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4259259,
+      "GWP": 0.4666667,
+      "OGWP": 0.437037
+    },
+    {
+      "Rank": 21,
+      "Player": "BlackComboLover",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.3611111,
+      "GWP": 0.5454545,
+      "OGWP": 0.3888889
+    },
+    {
+      "Rank": 22,
+      "Player": "VaughnM",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.3571429,
+      "OGWP": 0.5189183
+    },
+    {
+      "Rank": 23,
+      "Player": "William Sepa",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.3333333,
+      "OGWP": 0.5178932
+    },
+    {
+      "Rank": 24,
+      "Player": "DanComben",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5277778,
+      "GWP": 0.4375,
+      "OGWP": 0.4960317
+    },
+    {
+      "Rank": 25,
+      "Player": "MicR58",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.4,
+      "OGWP": 0.4992047
+    },
+    {
+      "Rank": 26,
+      "Player": "NathanGoodhew",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4666667,
+      "GWP": 0.4,
+      "OGWP": 0.4709957
+    },
+    {
+      "Rank": 27,
+      "Player": "sllgh",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.4,
+      "GWP": 0.3333333,
+      "OGWP": 0.4141667
+    },
+    {
+      "Rank": 28,
+      "Player": "Zatrean",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 4,
+      "Draws": 0,
+      "OMWP": 0.6111111,
+      "GWP": 0.3333333,
+      "OGWP": 0.5853236
+    },
+    {
+      "Rank": 29,
+      "Player": "JasC13",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.537037,
+      "GWP": 0.3333333,
+      "OGWP": 0.5222222
+    },
+    {
+      "Rank": 30,
+      "Player": "TahH",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.4722222,
+      "GWP": 0.3333333,
+      "OGWP": 0.5007382
+    },
+    {
+      "Rank": 31,
+      "Player": "mabiv",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 5,
+      "Draws": 0,
+      "OMWP": 0.4444444,
+      "GWP": 0.3333333,
+      "OGWP": 0.4804924
+    },
+    {
+      "Rank": 32,
+      "Player": "MatK12",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.3333333,
+      "OGWP": 0.5294118
+    }
+  ]
+}
