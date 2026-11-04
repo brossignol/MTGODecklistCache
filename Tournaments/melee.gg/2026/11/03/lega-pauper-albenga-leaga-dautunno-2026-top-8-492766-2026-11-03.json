@@ -1,0 +1,706 @@
+{
+  "Tournament": {
+    "Date": "2026-11-03T20:30:00Z",
+    "Name": "Lega Pauper Albenga Leaga d’autunno 2026 top 8",
+    "Uri": "https://melee.gg/Tournament/View/492766"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Damonte",
+      "Result": "2nd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/7a234d52-7afb-4016-9b7b-b4f700debe3e",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Annoyed Altisaur"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boarding Party"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bountiful Landscape"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eldrazi Repurposer"
+        },
+        {
+          "Count": 5,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Halimar Depths"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Izzet Boilerworks"
+        },
+        {
+          "Count": 1,
+          "CardName": "L&#243;rien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mortuary Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mulldrifter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Simic Growth Chamber"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tangled Islet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Volatile Fjord"
+        },
+        {
+          "Count": 2,
+          "CardName": "Weather the Storm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wooded Ridgeline"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cleansing Wildfire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Magmatic Chasm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Molten Gatekeeper"
+        },
+        {
+          "Count": 2,
+          "CardName": "Origin of Metalbending"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snap"
+        },
+        {
+          "Count": 1,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Carrubs",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/da5941de-2633-45a8-aee4-b4f701366bd0",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abundant Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancestral Mask"
+        },
+        {
+          "Count": 4,
+          "CardName": "Armadillo Cloak"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ethereal Armor"
+        },
+        {
+          "Count": 10,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gladecover Scout"
+        },
+        {
+          "Count": 2,
+          "CardName": "Khalni Garden"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ram Through"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rancor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sentinel&#39;s Eyes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sheltering Landscape"
+        },
+        {
+          "Count": 2,
+          "CardName": "Silhana Ledgewalker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slippery Bogle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mask of Law and Grace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scattershot Archer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spirit Link"
+        },
+        {
+          "Count": 2,
+          "CardName": "Standard Bearer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Troublemaker Ouphe"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Ivanhoe82",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/a9e8c53c-9e16-442a-9ee5-b4f70140c2c3",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abraded Bluffs"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Den"
+        },
+        {
+          "Count": 3,
+          "CardName": "Auriok Sunchaser"
+        },
+        {
+          "Count": 3,
+          "CardName": "Demand Answers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dispatch"
+        },
+        {
+          "Count": 4,
+          "CardName": "Experimental Synthesizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glint Hawk"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Greatsword of Tyr"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Improvised Club"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kor Skyfisher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rustvale Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seeker of the Way"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thraben Inspector"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dawnbringer Cleric"
+        },
+        {
+          "Count": 2,
+          "CardName": "Electrickery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Navigator&#39;s Compass"
+        },
+        {
+          "Count": 2,
+          "CardName": "Prismatic Strands"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vandalblast"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "MattiaComitangelo",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/9456ffd4-b604-47ba-8f35-b4f6015b228a",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Blood Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cleansing Wildfire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eviscerator&#39;s Insight"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fanatical Offering"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Ichor Wellspring"
+        },
+        {
+          "Count": 3,
+          "CardName": "Krark-Clan Shaman"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lembas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Makeshift Munitions"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pulse of Murasa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Refurbished Familiar"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slagwoods Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Toxin Analysis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Twisted Landscape"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vault of Whispers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Troublemaker Ouphe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Marrai",
+      "Result": "7th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/95748661-25f6-4f6f-a9f1-b4f701367239",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Alms of the Vein"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 4,
+          "CardName": "Drossforge Bridge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Temper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grab the Prize"
+        },
+        {
+          "Count": 3,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jagged Barrens"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kitchen Imp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Melded Moxite"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rakdos Carnarium"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vampire&#39;s Kiss"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vault of Whispers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Contaminated Ground"
+        },
+        {
+          "Count": 2,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nihil Spellbomb"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scarab Feast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tectonic Hazard"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Paglia22",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 1.0,
+      "OGWP": 0.4111111
+    },
+    {
+      "Rank": 2,
+      "Player": "Damonte",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6111111,
+      "GWP": 0.5,
+      "OGWP": 0.6444444
+    },
+    {
+      "Rank": 3,
+      "Player": "Carrubs",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.4,
+      "OGWP": 0.6666667
+    },
+    {
+      "Rank": 4,
+      "Player": "Banii",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.6,
+      "OGWP": 0.4166667
+    },
+    {
+      "Rank": 5,
+      "Player": "Ivanhoe82",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 1.0,
+      "GWP": 0.3333333,
+      "OGWP": 1.0
+    },
+    {
+      "Rank": 6,
+      "Player": "MattiaComitangelo",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 7,
+      "Player": "Marrai",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333,
+      "OGWP": 0.6
+    },
+    {
+      "Rank": 8,
+      "Player": "Giulio854854",
+      "Points": 0,
+      "Wins": 0,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5,
+      "GWP": 0.3333333,
+      "OGWP": 0.4
+    }
+  ]
+}

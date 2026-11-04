@@ -1,0 +1,260 @@
+{
+  "Tournament": {
+    "Date": "2026-11-02T22:30:00Z",
+    "Name": "1ª ETAPA DA MPL DE NOVEMBRO",
+    "Uri": "https://melee.gg/Tournament/View/489717"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Fabio291291",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/6bf137a2-bd8b-44cf-b09f-b4f700043f96",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Brinebarrow Intruder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Harrier Strix"
+        },
+        {
+          "Count": 2,
+          "CardName": "Humbling Elder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Illvoi Galeblade"
+        },
+        {
+          "Count": 18,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Moonblade Shinobi"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mutagenic Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 4,
+          "CardName": "Of One Mind"
+        },
+        {
+          "Count": 1,
+          "CardName": "Smoke Shroud"
+        },
+        {
+          "Count": 3,
+          "CardName": "Snap"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bind the Monster"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Curfew"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "NelsonCavalo",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/56b44caf-8327-4067-b212-b4f6015871b3",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancestral Anger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Apostle&#39;s Blessing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Assault Strobe"
+        },
+        {
+          "Count": 2,
+          "CardName": "Brute Force"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dwarven Forge-Chanter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Festival Crasher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghitu Amplifier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kiln Fiend"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Manamorphose"
+        },
+        {
+          "Count": 16,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mutagenic Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rite of Flame"
+        },
+        {
+          "Count": 2,
+          "CardName": "Temur Battle Rage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Artifact Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Brute Force"
+        },
+        {
+          "Count": 2,
+          "CardName": "Crackling Cyclops"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Immolating Souleater"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Singe"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Fabio291291",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.3703704,
+      "GWP": 0.75,
+      "OGWP": 0.4166667
+    },
+    {
+      "Rank": 2,
+      "Player": "Hangf",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5555556,
+      "GWP": 0.5,
+      "OGWP": 0.5
+    },
+    {
+      "Rank": 3,
+      "Player": "fanastaso",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5925926,
+      "GWP": 0.375,
+      "OGWP": 0.5416667
+    },
+    {
+      "Rank": 4,
+      "Player": "NelsonCavalo",
+      "Points": 1,
+      "Wins": 0,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.5925926,
+      "GWP": 0.375,
+      "OGWP": 0.5416667
+    }
+  ]
+}
