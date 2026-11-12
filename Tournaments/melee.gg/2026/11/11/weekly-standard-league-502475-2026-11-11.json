@@ -1,0 +1,317 @@
+{
+  "Tournament": {
+    "Date": "2026-11-11T18:30:00Z",
+    "Name": "Weekly Standard League",
+    "Uri": "https://melee.gg/Tournament/View/502475"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Vivian Huang",
+      "Result": "4th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/2cac60a3-7cd8-404a-927b-b4ff012d86eb",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Aegis Turtle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bedrock Tortoise"
+        },
+        {
+          "Count": 4,
+          "CardName": "Botanical Sanctum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 4,
+          "CardName": "Caelorna, Coral Tyrant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 3,
+          "CardName": "Chase Inspiration"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dive Down"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ghalta the Immovable"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seven of Nine, Unassimilated"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 3,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tetsuko Umezawa, Fugitive"
+        },
+        {
+          "Count": 3,
+          "CardName": "The Pride of Hull Clade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Turtle-Duck"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ambling Stormshell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 4,
+          "CardName": "Doorkeeper Thrull"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Spike Taylor",
+      "Result": "6th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/21bcc1ec-d710-457e-b24e-b4ff01295c2a",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Armor Wars"
+        },
+        {
+          "Count": 2,
+          "CardName": "Boomerang Basics"
+        },
+        {
+          "Count": 4,
+          "CardName": "Candy Trail"
+        },
+        {
+          "Count": 4,
+          "CardName": "Castle Doom"
+        },
+        {
+          "Count": 3,
+          "CardName": "Chainsaw"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fountainport Bell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Isolinear Processor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Legion Extruder"
+        },
+        {
+          "Count": 3,
+          "CardName": "Melded Moxite"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weapons Manufacturing"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Mj&#246;lnir, Hammer of Thor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sorcerous Spyglass"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Ooze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "jamestimms",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.8571429,
+      "OGWP": 0.5185185
+    },
+    {
+      "Rank": 2,
+      "Player": "jnysevilla",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.6666667,
+      "OGWP": 0.6428571
+    },
+    {
+      "Rank": 3,
+      "Player": "WillKillsTime",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.5555556,
+      "OGWP": 0.5714286
+    },
+    {
+      "Rank": 4,
+      "Player": "Vivian Huang",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.3333333,
+      "GWP": 0.6666667,
+      "OGWP": 0.4285714
+    },
+    {
+      "Rank": 5,
+      "Player": "RobNocte",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.4285714,
+      "OGWP": 0.6296296
+    },
+    {
+      "Rank": 6,
+      "Player": "Spike Taylor",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.3333333,
+      "OGWP": 0.6428571
+    },
+    {
+      "Rank": 7,
+      "Player": "Derek Choi",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.4285714,
+      "OGWP": 0.5185185
+    }
+  ]
+}
