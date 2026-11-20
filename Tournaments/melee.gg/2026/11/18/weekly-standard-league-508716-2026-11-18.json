@@ -1,0 +1,399 @@
+{
+  "Tournament": {
+    "Date": "2026-11-18T18:45:00Z",
+    "Name": "Weekly Standard League",
+    "Uri": "https://melee.gg/Tournament/View/508716"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Vivian Huang",
+      "Result": "1st Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/73b1e24e-6917-4e41-8335-b50601316ff1",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arahbo, the First Fang"
+        },
+        {
+          "Count": 2,
+          "CardName": "Basri, Tomorrow&#39;s Champion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deserted Beach"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elspeth, Storm Slayer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emeritus of Truce // Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Enduring Curiosity"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloryheath Lynx"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Helpful Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Parting Gust"
+        },
+        {
+          "Count": 5,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Practiced Offense"
+        },
+        {
+          "Count": 3,
+          "CardName": "Regal Caracal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Skycoach Waypoint"
+        },
+        {
+          "Count": 2,
+          "CardName": "Winnowing"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Basri, Tomorrow&#39;s Champion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Kutzil&#39;s Flanker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Winnowing"
+        }
+      ]
+    },
+    {
+      "Date": null,
+      "Player": "Spike Taylor",
+      "Result": "5th Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/1817230d-459c-439a-9173-b505012d8920",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Aang&#39;s Iceberg"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Candy Trail"
+        },
+        {
+          "Count": 4,
+          "CardName": "Castle Doom"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cryogen Relic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dusk Rose Reliquary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 1,
+          "CardName": "Giant&#39;s Boulder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ironheart, Clever Champion"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Legion Extruder"
+        },
+        {
+          "Count": 3,
+          "CardName": "Melded Moxite"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sundown Pass"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tarrian&#39;s Journal // The Tomb of Aclazotz"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Mind Stone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thr&#243;r&#39;s Map"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tithing Blade // Consuming Sepulcher"
+        },
+        {
+          "Count": 4,
+          "CardName": "United Battlefront"
+        },
+        {
+          "Count": 4,
+          "CardName": "Weapons Manufacturing"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Authority of the Consuls"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mj&#246;lnir, Hammer of Thor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sorcerous Spyglass"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tithing Blade // Consuming Sepulcher"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "Vivian Huang",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5208333,
+      "GWP": 0.8,
+      "OGWP": 0.5098485
+    },
+    {
+      "Rank": 2,
+      "Player": "jnysevilla",
+      "Points": 12,
+      "Wins": 4,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.4583333,
+      "GWP": 0.7272727,
+      "OGWP": 0.5022727
+    },
+    {
+      "Rank": 3,
+      "Player": "Martin Richardson",
+      "Points": 7,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 1,
+      "OMWP": 0.5,
+      "GWP": 0.4848485,
+      "OGWP": 0.5198653
+    },
+    {
+      "Rank": 4,
+      "Player": "RobNocte",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.7777778,
+      "GWP": 0.6,
+      "OGWP": 0.6325477
+    },
+    {
+      "Rank": 5,
+      "Player": "Spike Taylor",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.7777778,
+      "GWP": 0.5,
+      "OGWP": 0.6606061
+    },
+    {
+      "Rank": 6,
+      "Player": "jamestimms",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.4545455,
+      "OGWP": 0.6090909
+    },
+    {
+      "Rank": 7,
+      "Player": "Derek Choi",
+      "Points": 4,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 1,
+      "OMWP": 0.4722222,
+      "GWP": 0.3703704,
+      "OGWP": 0.5131313
+    },
+    {
+      "Rank": 8,
+      "Player": "AngelKtulu",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.6944444,
+      "GWP": 0.4545455,
+      "OGWP": 0.5555556
+    },
+    {
+      "Rank": 9,
+      "Player": "WillKillsTime",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 3,
+      "Draws": 0,
+      "OMWP": 0.4791667,
+      "GWP": 0.4545455,
+      "OGWP": 0.4524411
+    }
+  ]
+}
