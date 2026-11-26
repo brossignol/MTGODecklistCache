@@ -1,0 +1,197 @@
+{
+  "Tournament": {
+    "Date": "2026-11-25T18:30:00Z",
+    "Name": "Weekly Standard League",
+    "Uri": "https://melee.gg/Tournament/View/511749"
+  },
+  "Decks": [
+    {
+      "Date": null,
+      "Player": "Vivian Huang",
+      "Result": "3rd Place",
+      "AnchorUri": "https://melee.gg/Decklist/View/a6493f66-db1b-4c98-b5e8-b50d011e1080",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Ajani Unrelenting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Catharsis"
+        },
+        {
+          "Count": 3,
+          "CardName": "Collector&#39;s Cage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dalkovan Encampment"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dollmaker&#39;s Shop // Porcelain Gallery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 3,
+          "CardName": "Elspeth, Storm Slayer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 3,
+          "CardName": "Haliya, Guided by Light"
+        },
+        {
+          "Count": 1,
+          "CardName": "Improvisation Capstone"
+        },
+        {
+          "Count": 2,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Helix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Overlord of the Mistmoors"
+        },
+        {
+          "Count": 5,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sundown Pass"
+        },
+        {
+          "Count": 2,
+          "CardName": "Virtue of Loyalty // Ardenvale Fealty"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Authority of the Consuls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Aven Interrupter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dawn&#39;s Truce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        }
+      ]
+    }
+  ],
+  "Rounds": null,
+  "Standings": [
+    {
+      "Rank": 1,
+      "Player": "jamestimms",
+      "Points": 9,
+      "Wins": 3,
+      "Losses": 0,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.8571429,
+      "OGWP": 0.5396825
+    },
+    {
+      "Rank": 2,
+      "Player": "Derek Choi",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.5714286,
+      "OGWP": 0.6428571
+    },
+    {
+      "Rank": 3,
+      "Player": "Vivian Huang",
+      "Points": 6,
+      "Wins": 2,
+      "Losses": 1,
+      "Draws": 0,
+      "OMWP": 0.5555556,
+      "GWP": 0.7142857,
+      "OGWP": 0.5396825
+    },
+    {
+      "Rank": 4,
+      "Player": "RobNocte",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.8333333,
+      "GWP": 0.3333333,
+      "OGWP": 0.7857143
+    },
+    {
+      "Rank": 5,
+      "Player": "Spike Taylor",
+      "Points": 3,
+      "Wins": 1,
+      "Losses": 2,
+      "Draws": 0,
+      "OMWP": 0.6666667,
+      "GWP": 0.4285714,
+      "OGWP": 0.6428571
+    }
+  ]
+}
